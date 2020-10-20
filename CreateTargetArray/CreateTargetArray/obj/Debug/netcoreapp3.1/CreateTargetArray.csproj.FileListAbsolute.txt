@@ -1,0 +1,13 @@
+C:\Users\Z\source\repos\CreateTargetArray\CreateTargetArray\bin\Debug\netcoreapp3.1\CreateTargetArray.exe
+C:\Users\Z\source\repos\CreateTargetArray\CreateTargetArray\bin\Debug\netcoreapp3.1\CreateTargetArray.deps.json
+C:\Users\Z\source\repos\CreateTargetArray\CreateTargetArray\bin\Debug\netcoreapp3.1\CreateTargetArray.runtimeconfig.json
+C:\Users\Z\source\repos\CreateTargetArray\CreateTargetArray\bin\Debug\netcoreapp3.1\CreateTargetArray.runtimeconfig.dev.json
+C:\Users\Z\source\repos\CreateTargetArray\CreateTargetArray\bin\Debug\netcoreapp3.1\CreateTargetArray.dll
+C:\Users\Z\source\repos\CreateTargetArray\CreateTargetArray\bin\Debug\netcoreapp3.1\CreateTargetArray.pdb
+C:\Users\Z\source\repos\CreateTargetArray\CreateTargetArray\obj\Debug\netcoreapp3.1\CreateTargetArray.csprojAssemblyReference.cache
+C:\Users\Z\source\repos\CreateTargetArray\CreateTargetArray\obj\Debug\netcoreapp3.1\CreateTargetArray.AssemblyInfoInputs.cache
+C:\Users\Z\source\repos\CreateTargetArray\CreateTargetArray\obj\Debug\netcoreapp3.1\CreateTargetArray.AssemblyInfo.cs
+C:\Users\Z\source\repos\CreateTargetArray\CreateTargetArray\obj\Debug\netcoreapp3.1\CreateTargetArray.csproj.CoreCompileInputs.cache
+C:\Users\Z\source\repos\CreateTargetArray\CreateTargetArray\obj\Debug\netcoreapp3.1\CreateTargetArray.dll
+C:\Users\Z\source\repos\CreateTargetArray\CreateTargetArray\obj\Debug\netcoreapp3.1\CreateTargetArray.pdb
+C:\Users\Z\source\repos\CreateTargetArray\CreateTargetArray\obj\Debug\netcoreapp3.1\CreateTargetArray.genruntimeconfig.cache
