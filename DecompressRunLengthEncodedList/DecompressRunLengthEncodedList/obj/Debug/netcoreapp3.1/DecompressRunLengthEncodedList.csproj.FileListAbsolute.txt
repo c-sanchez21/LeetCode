@@ -1,0 +1,13 @@
+C:\Users\Z\source\repos\Git\LeetCode\DecompressRunLengthEncodedList\DecompressRunLengthEncodedList\bin\Debug\netcoreapp3.1\DecompressRunLengthEncodedList.exe
+C:\Users\Z\source\repos\Git\LeetCode\DecompressRunLengthEncodedList\DecompressRunLengthEncodedList\bin\Debug\netcoreapp3.1\DecompressRunLengthEncodedList.deps.json
+C:\Users\Z\source\repos\Git\LeetCode\DecompressRunLengthEncodedList\DecompressRunLengthEncodedList\bin\Debug\netcoreapp3.1\DecompressRunLengthEncodedList.runtimeconfig.json
+C:\Users\Z\source\repos\Git\LeetCode\DecompressRunLengthEncodedList\DecompressRunLengthEncodedList\bin\Debug\netcoreapp3.1\DecompressRunLengthEncodedList.runtimeconfig.dev.json
+C:\Users\Z\source\repos\Git\LeetCode\DecompressRunLengthEncodedList\DecompressRunLengthEncodedList\bin\Debug\netcoreapp3.1\DecompressRunLengthEncodedList.dll
+C:\Users\Z\source\repos\Git\LeetCode\DecompressRunLengthEncodedList\DecompressRunLengthEncodedList\bin\Debug\netcoreapp3.1\DecompressRunLengthEncodedList.pdb
+C:\Users\Z\source\repos\Git\LeetCode\DecompressRunLengthEncodedList\DecompressRunLengthEncodedList\obj\Debug\netcoreapp3.1\DecompressRunLengthEncodedList.csprojAssemblyReference.cache
+C:\Users\Z\source\repos\Git\LeetCode\DecompressRunLengthEncodedList\DecompressRunLengthEncodedList\obj\Debug\netcoreapp3.1\DecompressRunLengthEncodedList.AssemblyInfoInputs.cache
+C:\Users\Z\source\repos\Git\LeetCode\DecompressRunLengthEncodedList\DecompressRunLengthEncodedList\obj\Debug\netcoreapp3.1\DecompressRunLengthEncodedList.AssemblyInfo.cs
+C:\Users\Z\source\repos\Git\LeetCode\DecompressRunLengthEncodedList\DecompressRunLengthEncodedList\obj\Debug\netcoreapp3.1\DecompressRunLengthEncodedList.csproj.CoreCompileInputs.cache
+C:\Users\Z\source\repos\Git\LeetCode\DecompressRunLengthEncodedList\DecompressRunLengthEncodedList\obj\Debug\netcoreapp3.1\DecompressRunLengthEncodedList.dll
+C:\Users\Z\source\repos\Git\LeetCode\DecompressRunLengthEncodedList\DecompressRunLengthEncodedList\obj\Debug\netcoreapp3.1\DecompressRunLengthEncodedList.pdb
+C:\Users\Z\source\repos\Git\LeetCode\DecompressRunLengthEncodedList\DecompressRunLengthEncodedList\obj\Debug\netcoreapp3.1\DecompressRunLengthEncodedList.genruntimeconfig.cache
