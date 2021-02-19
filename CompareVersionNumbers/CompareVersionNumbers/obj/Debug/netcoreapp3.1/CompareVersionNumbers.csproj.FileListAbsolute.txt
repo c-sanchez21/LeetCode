@@ -1,0 +1,13 @@
+C:\Users\Z\source\repos\Git\Leetcode\CompareVersionNumbers\CompareVersionNumbers\bin\Debug\netcoreapp3.1\CompareVersionNumbers.exe
+C:\Users\Z\source\repos\Git\Leetcode\CompareVersionNumbers\CompareVersionNumbers\bin\Debug\netcoreapp3.1\CompareVersionNumbers.deps.json
+C:\Users\Z\source\repos\Git\Leetcode\CompareVersionNumbers\CompareVersionNumbers\bin\Debug\netcoreapp3.1\CompareVersionNumbers.runtimeconfig.json
+C:\Users\Z\source\repos\Git\Leetcode\CompareVersionNumbers\CompareVersionNumbers\bin\Debug\netcoreapp3.1\CompareVersionNumbers.runtimeconfig.dev.json
+C:\Users\Z\source\repos\Git\Leetcode\CompareVersionNumbers\CompareVersionNumbers\bin\Debug\netcoreapp3.1\CompareVersionNumbers.dll
+C:\Users\Z\source\repos\Git\Leetcode\CompareVersionNumbers\CompareVersionNumbers\bin\Debug\netcoreapp3.1\CompareVersionNumbers.pdb
+C:\Users\Z\source\repos\Git\Leetcode\CompareVersionNumbers\CompareVersionNumbers\obj\Debug\netcoreapp3.1\CompareVersionNumbers.csprojAssemblyReference.cache
+C:\Users\Z\source\repos\Git\Leetcode\CompareVersionNumbers\CompareVersionNumbers\obj\Debug\netcoreapp3.1\CompareVersionNumbers.AssemblyInfoInputs.cache
+C:\Users\Z\source\repos\Git\Leetcode\CompareVersionNumbers\CompareVersionNumbers\obj\Debug\netcoreapp3.1\CompareVersionNumbers.AssemblyInfo.cs
+C:\Users\Z\source\repos\Git\Leetcode\CompareVersionNumbers\CompareVersionNumbers\obj\Debug\netcoreapp3.1\CompareVersionNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Z\source\repos\Git\Leetcode\CompareVersionNumbers\CompareVersionNumbers\obj\Debug\netcoreapp3.1\CompareVersionNumbers.dll
+C:\Users\Z\source\repos\Git\Leetcode\CompareVersionNumbers\CompareVersionNumbers\obj\Debug\netcoreapp3.1\CompareVersionNumbers.pdb
+C:\Users\Z\source\repos\Git\Leetcode\CompareVersionNumbers\CompareVersionNumbers\obj\Debug\netcoreapp3.1\CompareVersionNumbers.genruntimeconfig.cache
