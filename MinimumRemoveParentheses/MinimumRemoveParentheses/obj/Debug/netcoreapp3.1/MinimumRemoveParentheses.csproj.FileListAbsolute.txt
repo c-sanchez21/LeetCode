@@ -1,0 +1,13 @@
+C:\Users\Z\source\repos\Git\LeetCode\MinimumRemoveParentheses\MinimumRemoveParentheses\bin\Debug\netcoreapp3.1\MinimumRemoveParentheses.exe
+C:\Users\Z\source\repos\Git\LeetCode\MinimumRemoveParentheses\MinimumRemoveParentheses\bin\Debug\netcoreapp3.1\MinimumRemoveParentheses.deps.json
+C:\Users\Z\source\repos\Git\LeetCode\MinimumRemoveParentheses\MinimumRemoveParentheses\bin\Debug\netcoreapp3.1\MinimumRemoveParentheses.runtimeconfig.json
+C:\Users\Z\source\repos\Git\LeetCode\MinimumRemoveParentheses\MinimumRemoveParentheses\bin\Debug\netcoreapp3.1\MinimumRemoveParentheses.runtimeconfig.dev.json
+C:\Users\Z\source\repos\Git\LeetCode\MinimumRemoveParentheses\MinimumRemoveParentheses\bin\Debug\netcoreapp3.1\MinimumRemoveParentheses.dll
+C:\Users\Z\source\repos\Git\LeetCode\MinimumRemoveParentheses\MinimumRemoveParentheses\bin\Debug\netcoreapp3.1\MinimumRemoveParentheses.pdb
+C:\Users\Z\source\repos\Git\LeetCode\MinimumRemoveParentheses\MinimumRemoveParentheses\obj\Debug\netcoreapp3.1\MinimumRemoveParentheses.csprojAssemblyReference.cache
+C:\Users\Z\source\repos\Git\LeetCode\MinimumRemoveParentheses\MinimumRemoveParentheses\obj\Debug\netcoreapp3.1\MinimumRemoveParentheses.AssemblyInfoInputs.cache
+C:\Users\Z\source\repos\Git\LeetCode\MinimumRemoveParentheses\MinimumRemoveParentheses\obj\Debug\netcoreapp3.1\MinimumRemoveParentheses.AssemblyInfo.cs
+C:\Users\Z\source\repos\Git\LeetCode\MinimumRemoveParentheses\MinimumRemoveParentheses\obj\Debug\netcoreapp3.1\MinimumRemoveParentheses.csproj.CoreCompileInputs.cache
+C:\Users\Z\source\repos\Git\LeetCode\MinimumRemoveParentheses\MinimumRemoveParentheses\obj\Debug\netcoreapp3.1\MinimumRemoveParentheses.dll
+C:\Users\Z\source\repos\Git\LeetCode\MinimumRemoveParentheses\MinimumRemoveParentheses\obj\Debug\netcoreapp3.1\MinimumRemoveParentheses.pdb
+C:\Users\Z\source\repos\Git\LeetCode\MinimumRemoveParentheses\MinimumRemoveParentheses\obj\Debug\netcoreapp3.1\MinimumRemoveParentheses.genruntimeconfig.cache
