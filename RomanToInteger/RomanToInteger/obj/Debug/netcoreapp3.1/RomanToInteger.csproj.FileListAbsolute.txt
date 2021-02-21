@@ -1,0 +1,13 @@
+C:\Users\Z\source\repos\Git\LeetCode\RomanToInteger\RomanToInteger\bin\Debug\netcoreapp3.1\RomanToInteger.exe
+C:\Users\Z\source\repos\Git\LeetCode\RomanToInteger\RomanToInteger\bin\Debug\netcoreapp3.1\RomanToInteger.deps.json
+C:\Users\Z\source\repos\Git\LeetCode\RomanToInteger\RomanToInteger\bin\Debug\netcoreapp3.1\RomanToInteger.runtimeconfig.json
+C:\Users\Z\source\repos\Git\LeetCode\RomanToInteger\RomanToInteger\bin\Debug\netcoreapp3.1\RomanToInteger.runtimeconfig.dev.json
+C:\Users\Z\source\repos\Git\LeetCode\RomanToInteger\RomanToInteger\bin\Debug\netcoreapp3.1\RomanToInteger.dll
+C:\Users\Z\source\repos\Git\LeetCode\RomanToInteger\RomanToInteger\bin\Debug\netcoreapp3.1\RomanToInteger.pdb
+C:\Users\Z\source\repos\Git\LeetCode\RomanToInteger\RomanToInteger\obj\Debug\netcoreapp3.1\RomanToInteger.csprojAssemblyReference.cache
+C:\Users\Z\source\repos\Git\LeetCode\RomanToInteger\RomanToInteger\obj\Debug\netcoreapp3.1\RomanToInteger.AssemblyInfoInputs.cache
+C:\Users\Z\source\repos\Git\LeetCode\RomanToInteger\RomanToInteger\obj\Debug\netcoreapp3.1\RomanToInteger.AssemblyInfo.cs
+C:\Users\Z\source\repos\Git\LeetCode\RomanToInteger\RomanToInteger\obj\Debug\netcoreapp3.1\RomanToInteger.csproj.CoreCompileInputs.cache
+C:\Users\Z\source\repos\Git\LeetCode\RomanToInteger\RomanToInteger\obj\Debug\netcoreapp3.1\RomanToInteger.dll
+C:\Users\Z\source\repos\Git\LeetCode\RomanToInteger\RomanToInteger\obj\Debug\netcoreapp3.1\RomanToInteger.pdb
+C:\Users\Z\source\repos\Git\LeetCode\RomanToInteger\RomanToInteger\obj\Debug\netcoreapp3.1\RomanToInteger.genruntimeconfig.cache
