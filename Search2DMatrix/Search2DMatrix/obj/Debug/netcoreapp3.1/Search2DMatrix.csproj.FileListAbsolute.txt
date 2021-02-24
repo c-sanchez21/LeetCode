@@ -1,0 +1,13 @@
+C:\Users\Z\source\repos\Git\LeetCode\Search2DMatrix\Search2DMatrix\bin\Debug\netcoreapp3.1\Search2DMatrix.exe
+C:\Users\Z\source\repos\Git\LeetCode\Search2DMatrix\Search2DMatrix\bin\Debug\netcoreapp3.1\Search2DMatrix.deps.json
+C:\Users\Z\source\repos\Git\LeetCode\Search2DMatrix\Search2DMatrix\bin\Debug\netcoreapp3.1\Search2DMatrix.runtimeconfig.json
+C:\Users\Z\source\repos\Git\LeetCode\Search2DMatrix\Search2DMatrix\bin\Debug\netcoreapp3.1\Search2DMatrix.runtimeconfig.dev.json
+C:\Users\Z\source\repos\Git\LeetCode\Search2DMatrix\Search2DMatrix\bin\Debug\netcoreapp3.1\Search2DMatrix.dll
+C:\Users\Z\source\repos\Git\LeetCode\Search2DMatrix\Search2DMatrix\bin\Debug\netcoreapp3.1\Search2DMatrix.pdb
+C:\Users\Z\source\repos\Git\LeetCode\Search2DMatrix\Search2DMatrix\obj\Debug\netcoreapp3.1\Search2DMatrix.csprojAssemblyReference.cache
+C:\Users\Z\source\repos\Git\LeetCode\Search2DMatrix\Search2DMatrix\obj\Debug\netcoreapp3.1\Search2DMatrix.AssemblyInfoInputs.cache
+C:\Users\Z\source\repos\Git\LeetCode\Search2DMatrix\Search2DMatrix\obj\Debug\netcoreapp3.1\Search2DMatrix.AssemblyInfo.cs
+C:\Users\Z\source\repos\Git\LeetCode\Search2DMatrix\Search2DMatrix\obj\Debug\netcoreapp3.1\Search2DMatrix.csproj.CoreCompileInputs.cache
+C:\Users\Z\source\repos\Git\LeetCode\Search2DMatrix\Search2DMatrix\obj\Debug\netcoreapp3.1\Search2DMatrix.dll
+C:\Users\Z\source\repos\Git\LeetCode\Search2DMatrix\Search2DMatrix\obj\Debug\netcoreapp3.1\Search2DMatrix.pdb
+C:\Users\Z\source\repos\Git\LeetCode\Search2DMatrix\Search2DMatrix\obj\Debug\netcoreapp3.1\Search2DMatrix.genruntimeconfig.cache
