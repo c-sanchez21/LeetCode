@@ -1,0 +1,12 @@
+C:\Users\Z\source\repos\Git\LeetCode\ParenthesesScore\ParenthesesScore\bin\Debug\netcoreapp3.1\ParenthesesScore.exe
+C:\Users\Z\source\repos\Git\LeetCode\ParenthesesScore\ParenthesesScore\bin\Debug\netcoreapp3.1\ParenthesesScore.deps.json
+C:\Users\Z\source\repos\Git\LeetCode\ParenthesesScore\ParenthesesScore\bin\Debug\netcoreapp3.1\ParenthesesScore.runtimeconfig.json
+C:\Users\Z\source\repos\Git\LeetCode\ParenthesesScore\ParenthesesScore\bin\Debug\netcoreapp3.1\ParenthesesScore.runtimeconfig.dev.json
+C:\Users\Z\source\repos\Git\LeetCode\ParenthesesScore\ParenthesesScore\bin\Debug\netcoreapp3.1\ParenthesesScore.dll
+C:\Users\Z\source\repos\Git\LeetCode\ParenthesesScore\ParenthesesScore\bin\Debug\netcoreapp3.1\ParenthesesScore.pdb
+C:\Users\Z\source\repos\Git\LeetCode\ParenthesesScore\ParenthesesScore\obj\Debug\netcoreapp3.1\ParenthesesScore.AssemblyInfoInputs.cache
+C:\Users\Z\source\repos\Git\LeetCode\ParenthesesScore\ParenthesesScore\obj\Debug\netcoreapp3.1\ParenthesesScore.AssemblyInfo.cs
+C:\Users\Z\source\repos\Git\LeetCode\ParenthesesScore\ParenthesesScore\obj\Debug\netcoreapp3.1\ParenthesesScore.csproj.CoreCompileInputs.cache
+C:\Users\Z\source\repos\Git\LeetCode\ParenthesesScore\ParenthesesScore\obj\Debug\netcoreapp3.1\ParenthesesScore.dll
+C:\Users\Z\source\repos\Git\LeetCode\ParenthesesScore\ParenthesesScore\obj\Debug\netcoreapp3.1\ParenthesesScore.pdb
+C:\Users\Z\source\repos\Git\LeetCode\ParenthesesScore\ParenthesesScore\obj\Debug\netcoreapp3.1\ParenthesesScore.genruntimeconfig.cache
