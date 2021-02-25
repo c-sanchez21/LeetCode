@@ -1,0 +1,13 @@
+C:\Users\Z\source\repos\Git\LeetCode\UnsortedSubarray\UnsortedSubarray\bin\Debug\netcoreapp3.1\UnsortedSubarray.exe
+C:\Users\Z\source\repos\Git\LeetCode\UnsortedSubarray\UnsortedSubarray\bin\Debug\netcoreapp3.1\UnsortedSubarray.deps.json
+C:\Users\Z\source\repos\Git\LeetCode\UnsortedSubarray\UnsortedSubarray\bin\Debug\netcoreapp3.1\UnsortedSubarray.runtimeconfig.json
+C:\Users\Z\source\repos\Git\LeetCode\UnsortedSubarray\UnsortedSubarray\bin\Debug\netcoreapp3.1\UnsortedSubarray.runtimeconfig.dev.json
+C:\Users\Z\source\repos\Git\LeetCode\UnsortedSubarray\UnsortedSubarray\bin\Debug\netcoreapp3.1\UnsortedSubarray.dll
+C:\Users\Z\source\repos\Git\LeetCode\UnsortedSubarray\UnsortedSubarray\bin\Debug\netcoreapp3.1\UnsortedSubarray.pdb
+C:\Users\Z\source\repos\Git\LeetCode\UnsortedSubarray\UnsortedSubarray\obj\Debug\netcoreapp3.1\UnsortedSubarray.csprojAssemblyReference.cache
+C:\Users\Z\source\repos\Git\LeetCode\UnsortedSubarray\UnsortedSubarray\obj\Debug\netcoreapp3.1\UnsortedSubarray.AssemblyInfoInputs.cache
+C:\Users\Z\source\repos\Git\LeetCode\UnsortedSubarray\UnsortedSubarray\obj\Debug\netcoreapp3.1\UnsortedSubarray.AssemblyInfo.cs
+C:\Users\Z\source\repos\Git\LeetCode\UnsortedSubarray\UnsortedSubarray\obj\Debug\netcoreapp3.1\UnsortedSubarray.csproj.CoreCompileInputs.cache
+C:\Users\Z\source\repos\Git\LeetCode\UnsortedSubarray\UnsortedSubarray\obj\Debug\netcoreapp3.1\UnsortedSubarray.dll
+C:\Users\Z\source\repos\Git\LeetCode\UnsortedSubarray\UnsortedSubarray\obj\Debug\netcoreapp3.1\UnsortedSubarray.pdb
+C:\Users\Z\source\repos\Git\LeetCode\UnsortedSubarray\UnsortedSubarray\obj\Debug\netcoreapp3.1\UnsortedSubarray.genruntimeconfig.cache
