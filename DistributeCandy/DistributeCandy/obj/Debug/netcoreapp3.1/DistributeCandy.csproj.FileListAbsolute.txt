@@ -1,0 +1,13 @@
+C:\Users\Z\source\repos\Git\LeetCode\DistributeCandy\DistributeCandy\bin\Debug\netcoreapp3.1\DistributeCandy.exe
+C:\Users\Z\source\repos\Git\LeetCode\DistributeCandy\DistributeCandy\bin\Debug\netcoreapp3.1\DistributeCandy.deps.json
+C:\Users\Z\source\repos\Git\LeetCode\DistributeCandy\DistributeCandy\bin\Debug\netcoreapp3.1\DistributeCandy.runtimeconfig.json
+C:\Users\Z\source\repos\Git\LeetCode\DistributeCandy\DistributeCandy\bin\Debug\netcoreapp3.1\DistributeCandy.runtimeconfig.dev.json
+C:\Users\Z\source\repos\Git\LeetCode\DistributeCandy\DistributeCandy\bin\Debug\netcoreapp3.1\DistributeCandy.dll
+C:\Users\Z\source\repos\Git\LeetCode\DistributeCandy\DistributeCandy\bin\Debug\netcoreapp3.1\DistributeCandy.pdb
+C:\Users\Z\source\repos\Git\LeetCode\DistributeCandy\DistributeCandy\obj\Debug\netcoreapp3.1\DistributeCandy.csprojAssemblyReference.cache
+C:\Users\Z\source\repos\Git\LeetCode\DistributeCandy\DistributeCandy\obj\Debug\netcoreapp3.1\DistributeCandy.AssemblyInfoInputs.cache
+C:\Users\Z\source\repos\Git\LeetCode\DistributeCandy\DistributeCandy\obj\Debug\netcoreapp3.1\DistributeCandy.AssemblyInfo.cs
+C:\Users\Z\source\repos\Git\LeetCode\DistributeCandy\DistributeCandy\obj\Debug\netcoreapp3.1\DistributeCandy.csproj.CoreCompileInputs.cache
+C:\Users\Z\source\repos\Git\LeetCode\DistributeCandy\DistributeCandy\obj\Debug\netcoreapp3.1\DistributeCandy.dll
+C:\Users\Z\source\repos\Git\LeetCode\DistributeCandy\DistributeCandy\obj\Debug\netcoreapp3.1\DistributeCandy.pdb
+C:\Users\Z\source\repos\Git\LeetCode\DistributeCandy\DistributeCandy\obj\Debug\netcoreapp3.1\DistributeCandy.genruntimeconfig.cache
