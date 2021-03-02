@@ -1,0 +1,13 @@
+C:\Users\Z\source\repos\Git\LeetCode\SetMismatch\SetMismatch\bin\Debug\netcoreapp3.1\SetMismatch.exe
+C:\Users\Z\source\repos\Git\LeetCode\SetMismatch\SetMismatch\bin\Debug\netcoreapp3.1\SetMismatch.deps.json
+C:\Users\Z\source\repos\Git\LeetCode\SetMismatch\SetMismatch\bin\Debug\netcoreapp3.1\SetMismatch.runtimeconfig.json
+C:\Users\Z\source\repos\Git\LeetCode\SetMismatch\SetMismatch\bin\Debug\netcoreapp3.1\SetMismatch.runtimeconfig.dev.json
+C:\Users\Z\source\repos\Git\LeetCode\SetMismatch\SetMismatch\bin\Debug\netcoreapp3.1\SetMismatch.dll
+C:\Users\Z\source\repos\Git\LeetCode\SetMismatch\SetMismatch\bin\Debug\netcoreapp3.1\SetMismatch.pdb
+C:\Users\Z\source\repos\Git\LeetCode\SetMismatch\SetMismatch\obj\Debug\netcoreapp3.1\SetMismatch.csprojAssemblyReference.cache
+C:\Users\Z\source\repos\Git\LeetCode\SetMismatch\SetMismatch\obj\Debug\netcoreapp3.1\SetMismatch.AssemblyInfoInputs.cache
+C:\Users\Z\source\repos\Git\LeetCode\SetMismatch\SetMismatch\obj\Debug\netcoreapp3.1\SetMismatch.AssemblyInfo.cs
+C:\Users\Z\source\repos\Git\LeetCode\SetMismatch\SetMismatch\obj\Debug\netcoreapp3.1\SetMismatch.csproj.CoreCompileInputs.cache
+C:\Users\Z\source\repos\Git\LeetCode\SetMismatch\SetMismatch\obj\Debug\netcoreapp3.1\SetMismatch.dll
+C:\Users\Z\source\repos\Git\LeetCode\SetMismatch\SetMismatch\obj\Debug\netcoreapp3.1\SetMismatch.pdb
+C:\Users\Z\source\repos\Git\LeetCode\SetMismatch\SetMismatch\obj\Debug\netcoreapp3.1\SetMismatch.genruntimeconfig.cache
