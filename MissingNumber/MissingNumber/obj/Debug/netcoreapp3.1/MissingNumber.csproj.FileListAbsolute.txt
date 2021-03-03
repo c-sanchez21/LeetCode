@@ -1,0 +1,13 @@
+C:\Users\Z\source\repos\Git\LeetCode\MissingNumber\MissingNumber\bin\Debug\netcoreapp3.1\MissingNumber.exe
+C:\Users\Z\source\repos\Git\LeetCode\MissingNumber\MissingNumber\bin\Debug\netcoreapp3.1\MissingNumber.deps.json
+C:\Users\Z\source\repos\Git\LeetCode\MissingNumber\MissingNumber\bin\Debug\netcoreapp3.1\MissingNumber.runtimeconfig.json
+C:\Users\Z\source\repos\Git\LeetCode\MissingNumber\MissingNumber\bin\Debug\netcoreapp3.1\MissingNumber.runtimeconfig.dev.json
+C:\Users\Z\source\repos\Git\LeetCode\MissingNumber\MissingNumber\bin\Debug\netcoreapp3.1\MissingNumber.dll
+C:\Users\Z\source\repos\Git\LeetCode\MissingNumber\MissingNumber\bin\Debug\netcoreapp3.1\MissingNumber.pdb
+C:\Users\Z\source\repos\Git\LeetCode\MissingNumber\MissingNumber\obj\Debug\netcoreapp3.1\MissingNumber.csprojAssemblyReference.cache
+C:\Users\Z\source\repos\Git\LeetCode\MissingNumber\MissingNumber\obj\Debug\netcoreapp3.1\MissingNumber.AssemblyInfoInputs.cache
+C:\Users\Z\source\repos\Git\LeetCode\MissingNumber\MissingNumber\obj\Debug\netcoreapp3.1\MissingNumber.AssemblyInfo.cs
+C:\Users\Z\source\repos\Git\LeetCode\MissingNumber\MissingNumber\obj\Debug\netcoreapp3.1\MissingNumber.csproj.CoreCompileInputs.cache
+C:\Users\Z\source\repos\Git\LeetCode\MissingNumber\MissingNumber\obj\Debug\netcoreapp3.1\MissingNumber.dll
+C:\Users\Z\source\repos\Git\LeetCode\MissingNumber\MissingNumber\obj\Debug\netcoreapp3.1\MissingNumber.pdb
+C:\Users\Z\source\repos\Git\LeetCode\MissingNumber\MissingNumber\obj\Debug\netcoreapp3.1\MissingNumber.genruntimeconfig.cache
