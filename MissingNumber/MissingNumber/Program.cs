@@ -21,7 +21,6 @@ namespace MissingNumber
             int n = nums.Length;
             long seriesSum = (n * (n + 1)) / 2;
             return (int)(seriesSum - sum);
-
         }
     }
 }
