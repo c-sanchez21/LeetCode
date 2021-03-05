@@ -1,0 +1,13 @@
+C:\Users\Z\source\repos\Git\SingleRowKeyboard\SingleRowKeyboard\bin\Debug\netcoreapp3.1\SingleRowKeyboard.exe
+C:\Users\Z\source\repos\Git\SingleRowKeyboard\SingleRowKeyboard\bin\Debug\netcoreapp3.1\SingleRowKeyboard.deps.json
+C:\Users\Z\source\repos\Git\SingleRowKeyboard\SingleRowKeyboard\bin\Debug\netcoreapp3.1\SingleRowKeyboard.runtimeconfig.json
+C:\Users\Z\source\repos\Git\SingleRowKeyboard\SingleRowKeyboard\bin\Debug\netcoreapp3.1\SingleRowKeyboard.runtimeconfig.dev.json
+C:\Users\Z\source\repos\Git\SingleRowKeyboard\SingleRowKeyboard\bin\Debug\netcoreapp3.1\SingleRowKeyboard.dll
+C:\Users\Z\source\repos\Git\SingleRowKeyboard\SingleRowKeyboard\bin\Debug\netcoreapp3.1\SingleRowKeyboard.pdb
+C:\Users\Z\source\repos\Git\SingleRowKeyboard\SingleRowKeyboard\obj\Debug\netcoreapp3.1\SingleRowKeyboard.csprojAssemblyReference.cache
+C:\Users\Z\source\repos\Git\SingleRowKeyboard\SingleRowKeyboard\obj\Debug\netcoreapp3.1\SingleRowKeyboard.AssemblyInfoInputs.cache
+C:\Users\Z\source\repos\Git\SingleRowKeyboard\SingleRowKeyboard\obj\Debug\netcoreapp3.1\SingleRowKeyboard.AssemblyInfo.cs
+C:\Users\Z\source\repos\Git\SingleRowKeyboard\SingleRowKeyboard\obj\Debug\netcoreapp3.1\SingleRowKeyboard.csproj.CoreCompileInputs.cache
+C:\Users\Z\source\repos\Git\SingleRowKeyboard\SingleRowKeyboard\obj\Debug\netcoreapp3.1\SingleRowKeyboard.dll
+C:\Users\Z\source\repos\Git\SingleRowKeyboard\SingleRowKeyboard\obj\Debug\netcoreapp3.1\SingleRowKeyboard.pdb
+C:\Users\Z\source\repos\Git\SingleRowKeyboard\SingleRowKeyboard\obj\Debug\netcoreapp3.1\SingleRowKeyboard.genruntimeconfig.cache
