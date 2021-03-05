@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "+avGIvBJeWC//mksYJKnRZ19d0Fm8ToCGEwmNFHhzcNhcYXyWboQ2iCEGfiMfyTP9xSeTAd1PpsJfAwPuHba6A==",
+  "dgSpecHash": "eLYTGec4JmykKDfrtu9LiGrimfWWdciC/wpiBctl20+qeTJQH/SFrt2gRV8HbM61iHbUNyA9AvgXRmvGuSBpag==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Z\\source\\repos\\Git\\SingleRowKeyboard\\SingleRowKeyboard\\SingleRowKeyboard.csproj",
+  "projectFilePath": "C:\\Users\\Z\\source\\repos\\Git\\LeetCode\\SingleRowKeyboard\\SingleRowKeyboard\\SingleRowKeyboard.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

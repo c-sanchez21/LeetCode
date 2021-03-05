@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Z\\source\\repos\\Git\\LeetCode\\SingleRowKeyboard\\SingleRowKeyboard\\SingleRowKeyboard.csproj",
-      "projectName": "SingleRowKeyboard",
-      "projectPath": "C:\\Users\\Z\\source\\repos\\Git\\LeetCode\\SingleRowKeyboard\\SingleRowKeyboard\\SingleRowKeyboard.csproj",
+      "projectUniqueName": "C:\\Users\\Z\\source\\repos\\StringToIntegerAtoi\\StringToIntegerAtoi\\StringToIntegerAtoi.csproj",
+      "projectName": "StringToIntegerAtoi",
+      "projectPath": "C:\\Users\\Z\\source\\repos\\StringToIntegerAtoi\\StringToIntegerAtoi\\StringToIntegerAtoi.csproj",
       "packagesPath": "C:\\Users\\Z\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Z\\source\\repos\\Git\\LeetCode\\SingleRowKeyboard\\SingleRowKeyboard\\obj\\",
+      "outputPath": "C:\\Users\\Z\\source\\repos\\StringToIntegerAtoi\\StringToIntegerAtoi\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"

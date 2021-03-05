@@ -1,0 +1,13 @@
+C:\Users\Z\source\repos\StringToIntegerAtoi\StringToIntegerAtoi\bin\Debug\netcoreapp3.1\StringToIntegerAtoi.exe
+C:\Users\Z\source\repos\StringToIntegerAtoi\StringToIntegerAtoi\bin\Debug\netcoreapp3.1\StringToIntegerAtoi.deps.json
+C:\Users\Z\source\repos\StringToIntegerAtoi\StringToIntegerAtoi\bin\Debug\netcoreapp3.1\StringToIntegerAtoi.runtimeconfig.json
+C:\Users\Z\source\repos\StringToIntegerAtoi\StringToIntegerAtoi\bin\Debug\netcoreapp3.1\StringToIntegerAtoi.runtimeconfig.dev.json
+C:\Users\Z\source\repos\StringToIntegerAtoi\StringToIntegerAtoi\bin\Debug\netcoreapp3.1\StringToIntegerAtoi.dll
+C:\Users\Z\source\repos\StringToIntegerAtoi\StringToIntegerAtoi\bin\Debug\netcoreapp3.1\StringToIntegerAtoi.pdb
+C:\Users\Z\source\repos\StringToIntegerAtoi\StringToIntegerAtoi\obj\Debug\netcoreapp3.1\StringToIntegerAtoi.csprojAssemblyReference.cache
+C:\Users\Z\source\repos\StringToIntegerAtoi\StringToIntegerAtoi\obj\Debug\netcoreapp3.1\StringToIntegerAtoi.AssemblyInfoInputs.cache
+C:\Users\Z\source\repos\StringToIntegerAtoi\StringToIntegerAtoi\obj\Debug\netcoreapp3.1\StringToIntegerAtoi.AssemblyInfo.cs
+C:\Users\Z\source\repos\StringToIntegerAtoi\StringToIntegerAtoi\obj\Debug\netcoreapp3.1\StringToIntegerAtoi.csproj.CoreCompileInputs.cache
+C:\Users\Z\source\repos\StringToIntegerAtoi\StringToIntegerAtoi\obj\Debug\netcoreapp3.1\StringToIntegerAtoi.dll
+C:\Users\Z\source\repos\StringToIntegerAtoi\StringToIntegerAtoi\obj\Debug\netcoreapp3.1\StringToIntegerAtoi.pdb
+C:\Users\Z\source\repos\StringToIntegerAtoi\StringToIntegerAtoi\obj\Debug\netcoreapp3.1\StringToIntegerAtoi.genruntimeconfig.cache
