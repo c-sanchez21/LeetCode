@@ -1,0 +1,13 @@
+C:\Users\Z\source\repos\Git\LeetCode\AverageOfLevelsBinaryTree\AverageOfLevelsBinaryTree\bin\Debug\netcoreapp3.1\AverageOfLevelsBinaryTree.exe
+C:\Users\Z\source\repos\Git\LeetCode\AverageOfLevelsBinaryTree\AverageOfLevelsBinaryTree\bin\Debug\netcoreapp3.1\AverageOfLevelsBinaryTree.deps.json
+C:\Users\Z\source\repos\Git\LeetCode\AverageOfLevelsBinaryTree\AverageOfLevelsBinaryTree\bin\Debug\netcoreapp3.1\AverageOfLevelsBinaryTree.runtimeconfig.json
+C:\Users\Z\source\repos\Git\LeetCode\AverageOfLevelsBinaryTree\AverageOfLevelsBinaryTree\bin\Debug\netcoreapp3.1\AverageOfLevelsBinaryTree.runtimeconfig.dev.json
+C:\Users\Z\source\repos\Git\LeetCode\AverageOfLevelsBinaryTree\AverageOfLevelsBinaryTree\bin\Debug\netcoreapp3.1\AverageOfLevelsBinaryTree.dll
+C:\Users\Z\source\repos\Git\LeetCode\AverageOfLevelsBinaryTree\AverageOfLevelsBinaryTree\bin\Debug\netcoreapp3.1\AverageOfLevelsBinaryTree.pdb
+C:\Users\Z\source\repos\Git\LeetCode\AverageOfLevelsBinaryTree\AverageOfLevelsBinaryTree\obj\Debug\netcoreapp3.1\AverageOfLevelsBinaryTree.csprojAssemblyReference.cache
+C:\Users\Z\source\repos\Git\LeetCode\AverageOfLevelsBinaryTree\AverageOfLevelsBinaryTree\obj\Debug\netcoreapp3.1\AverageOfLevelsBinaryTree.AssemblyInfoInputs.cache
+C:\Users\Z\source\repos\Git\LeetCode\AverageOfLevelsBinaryTree\AverageOfLevelsBinaryTree\obj\Debug\netcoreapp3.1\AverageOfLevelsBinaryTree.AssemblyInfo.cs
+C:\Users\Z\source\repos\Git\LeetCode\AverageOfLevelsBinaryTree\AverageOfLevelsBinaryTree\obj\Debug\netcoreapp3.1\AverageOfLevelsBinaryTree.csproj.CoreCompileInputs.cache
+C:\Users\Z\source\repos\Git\LeetCode\AverageOfLevelsBinaryTree\AverageOfLevelsBinaryTree\obj\Debug\netcoreapp3.1\AverageOfLevelsBinaryTree.dll
+C:\Users\Z\source\repos\Git\LeetCode\AverageOfLevelsBinaryTree\AverageOfLevelsBinaryTree\obj\Debug\netcoreapp3.1\AverageOfLevelsBinaryTree.pdb
+C:\Users\Z\source\repos\Git\LeetCode\AverageOfLevelsBinaryTree\AverageOfLevelsBinaryTree\obj\Debug\netcoreapp3.1\AverageOfLevelsBinaryTree.genruntimeconfig.cache
