@@ -1,0 +1,13 @@
+C:\Users\Z\source\repos\Git\LeetCode\ShortEncodingofWords\ShortEncodingofWords\bin\Debug\netcoreapp3.1\ShortEncodingofWords.exe
+C:\Users\Z\source\repos\Git\LeetCode\ShortEncodingofWords\ShortEncodingofWords\bin\Debug\netcoreapp3.1\ShortEncodingofWords.deps.json
+C:\Users\Z\source\repos\Git\LeetCode\ShortEncodingofWords\ShortEncodingofWords\bin\Debug\netcoreapp3.1\ShortEncodingofWords.runtimeconfig.json
+C:\Users\Z\source\repos\Git\LeetCode\ShortEncodingofWords\ShortEncodingofWords\bin\Debug\netcoreapp3.1\ShortEncodingofWords.runtimeconfig.dev.json
+C:\Users\Z\source\repos\Git\LeetCode\ShortEncodingofWords\ShortEncodingofWords\bin\Debug\netcoreapp3.1\ShortEncodingofWords.dll
+C:\Users\Z\source\repos\Git\LeetCode\ShortEncodingofWords\ShortEncodingofWords\bin\Debug\netcoreapp3.1\ShortEncodingofWords.pdb
+C:\Users\Z\source\repos\Git\LeetCode\ShortEncodingofWords\ShortEncodingofWords\obj\Debug\netcoreapp3.1\ShortEncodingofWords.csprojAssemblyReference.cache
+C:\Users\Z\source\repos\Git\LeetCode\ShortEncodingofWords\ShortEncodingofWords\obj\Debug\netcoreapp3.1\ShortEncodingofWords.AssemblyInfoInputs.cache
+C:\Users\Z\source\repos\Git\LeetCode\ShortEncodingofWords\ShortEncodingofWords\obj\Debug\netcoreapp3.1\ShortEncodingofWords.AssemblyInfo.cs
+C:\Users\Z\source\repos\Git\LeetCode\ShortEncodingofWords\ShortEncodingofWords\obj\Debug\netcoreapp3.1\ShortEncodingofWords.csproj.CoreCompileInputs.cache
+C:\Users\Z\source\repos\Git\LeetCode\ShortEncodingofWords\ShortEncodingofWords\obj\Debug\netcoreapp3.1\ShortEncodingofWords.dll
+C:\Users\Z\source\repos\Git\LeetCode\ShortEncodingofWords\ShortEncodingofWords\obj\Debug\netcoreapp3.1\ShortEncodingofWords.pdb
+C:\Users\Z\source\repos\Git\LeetCode\ShortEncodingofWords\ShortEncodingofWords\obj\Debug\netcoreapp3.1\ShortEncodingofWords.genruntimeconfig.cache
