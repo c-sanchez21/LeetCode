@@ -1,0 +1,13 @@
+C:\Users\Z\source\repos\Git\LeetCode\AMZ\ContainerWithMostWater\ContainerWithMostWater\bin\Debug\netcoreapp3.1\ContainerWithMostWater.exe
+C:\Users\Z\source\repos\Git\LeetCode\AMZ\ContainerWithMostWater\ContainerWithMostWater\bin\Debug\netcoreapp3.1\ContainerWithMostWater.deps.json
+C:\Users\Z\source\repos\Git\LeetCode\AMZ\ContainerWithMostWater\ContainerWithMostWater\bin\Debug\netcoreapp3.1\ContainerWithMostWater.runtimeconfig.json
+C:\Users\Z\source\repos\Git\LeetCode\AMZ\ContainerWithMostWater\ContainerWithMostWater\bin\Debug\netcoreapp3.1\ContainerWithMostWater.runtimeconfig.dev.json
+C:\Users\Z\source\repos\Git\LeetCode\AMZ\ContainerWithMostWater\ContainerWithMostWater\bin\Debug\netcoreapp3.1\ContainerWithMostWater.dll
+C:\Users\Z\source\repos\Git\LeetCode\AMZ\ContainerWithMostWater\ContainerWithMostWater\bin\Debug\netcoreapp3.1\ContainerWithMostWater.pdb
+C:\Users\Z\source\repos\Git\LeetCode\AMZ\ContainerWithMostWater\ContainerWithMostWater\obj\Debug\netcoreapp3.1\ContainerWithMostWater.csprojAssemblyReference.cache
+C:\Users\Z\source\repos\Git\LeetCode\AMZ\ContainerWithMostWater\ContainerWithMostWater\obj\Debug\netcoreapp3.1\ContainerWithMostWater.AssemblyInfoInputs.cache
+C:\Users\Z\source\repos\Git\LeetCode\AMZ\ContainerWithMostWater\ContainerWithMostWater\obj\Debug\netcoreapp3.1\ContainerWithMostWater.AssemblyInfo.cs
+C:\Users\Z\source\repos\Git\LeetCode\AMZ\ContainerWithMostWater\ContainerWithMostWater\obj\Debug\netcoreapp3.1\ContainerWithMostWater.csproj.CoreCompileInputs.cache
+C:\Users\Z\source\repos\Git\LeetCode\AMZ\ContainerWithMostWater\ContainerWithMostWater\obj\Debug\netcoreapp3.1\ContainerWithMostWater.dll
+C:\Users\Z\source\repos\Git\LeetCode\AMZ\ContainerWithMostWater\ContainerWithMostWater\obj\Debug\netcoreapp3.1\ContainerWithMostWater.pdb
+C:\Users\Z\source\repos\Git\LeetCode\AMZ\ContainerWithMostWater\ContainerWithMostWater\obj\Debug\netcoreapp3.1\ContainerWithMostWater.genruntimeconfig.cache
