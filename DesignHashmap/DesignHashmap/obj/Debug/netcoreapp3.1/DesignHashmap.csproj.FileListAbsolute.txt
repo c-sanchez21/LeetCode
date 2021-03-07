@@ -1,0 +1,13 @@
+C:\Users\Z\source\repos\Git\LeetCode\DesignHashmap\DesignHashmap\bin\Debug\netcoreapp3.1\DesignHashmap.exe
+C:\Users\Z\source\repos\Git\LeetCode\DesignHashmap\DesignHashmap\bin\Debug\netcoreapp3.1\DesignHashmap.deps.json
+C:\Users\Z\source\repos\Git\LeetCode\DesignHashmap\DesignHashmap\bin\Debug\netcoreapp3.1\DesignHashmap.runtimeconfig.json
+C:\Users\Z\source\repos\Git\LeetCode\DesignHashmap\DesignHashmap\bin\Debug\netcoreapp3.1\DesignHashmap.runtimeconfig.dev.json
+C:\Users\Z\source\repos\Git\LeetCode\DesignHashmap\DesignHashmap\bin\Debug\netcoreapp3.1\DesignHashmap.dll
+C:\Users\Z\source\repos\Git\LeetCode\DesignHashmap\DesignHashmap\bin\Debug\netcoreapp3.1\DesignHashmap.pdb
+C:\Users\Z\source\repos\Git\LeetCode\DesignHashmap\DesignHashmap\obj\Debug\netcoreapp3.1\DesignHashmap.csprojAssemblyReference.cache
+C:\Users\Z\source\repos\Git\LeetCode\DesignHashmap\DesignHashmap\obj\Debug\netcoreapp3.1\DesignHashmap.AssemblyInfoInputs.cache
+C:\Users\Z\source\repos\Git\LeetCode\DesignHashmap\DesignHashmap\obj\Debug\netcoreapp3.1\DesignHashmap.AssemblyInfo.cs
+C:\Users\Z\source\repos\Git\LeetCode\DesignHashmap\DesignHashmap\obj\Debug\netcoreapp3.1\DesignHashmap.csproj.CoreCompileInputs.cache
+C:\Users\Z\source\repos\Git\LeetCode\DesignHashmap\DesignHashmap\obj\Debug\netcoreapp3.1\DesignHashmap.dll
+C:\Users\Z\source\repos\Git\LeetCode\DesignHashmap\DesignHashmap\obj\Debug\netcoreapp3.1\DesignHashmap.pdb
+C:\Users\Z\source\repos\Git\LeetCode\DesignHashmap\DesignHashmap\obj\Debug\netcoreapp3.1\DesignHashmap.genruntimeconfig.cache
