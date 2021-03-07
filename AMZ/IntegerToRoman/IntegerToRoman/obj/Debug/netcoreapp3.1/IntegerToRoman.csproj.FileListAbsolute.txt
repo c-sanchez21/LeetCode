@@ -1,0 +1,13 @@
+C:\Users\Z\source\repos\Git\LeetCode\AMZ\IntegerToRoman\IntegerToRoman\bin\Debug\netcoreapp3.1\IntegerToRoman.exe
+C:\Users\Z\source\repos\Git\LeetCode\AMZ\IntegerToRoman\IntegerToRoman\bin\Debug\netcoreapp3.1\IntegerToRoman.deps.json
+C:\Users\Z\source\repos\Git\LeetCode\AMZ\IntegerToRoman\IntegerToRoman\bin\Debug\netcoreapp3.1\IntegerToRoman.runtimeconfig.json
+C:\Users\Z\source\repos\Git\LeetCode\AMZ\IntegerToRoman\IntegerToRoman\bin\Debug\netcoreapp3.1\IntegerToRoman.runtimeconfig.dev.json
+C:\Users\Z\source\repos\Git\LeetCode\AMZ\IntegerToRoman\IntegerToRoman\bin\Debug\netcoreapp3.1\IntegerToRoman.dll
+C:\Users\Z\source\repos\Git\LeetCode\AMZ\IntegerToRoman\IntegerToRoman\bin\Debug\netcoreapp3.1\IntegerToRoman.pdb
+C:\Users\Z\source\repos\Git\LeetCode\AMZ\IntegerToRoman\IntegerToRoman\obj\Debug\netcoreapp3.1\IntegerToRoman.csprojAssemblyReference.cache
+C:\Users\Z\source\repos\Git\LeetCode\AMZ\IntegerToRoman\IntegerToRoman\obj\Debug\netcoreapp3.1\IntegerToRoman.AssemblyInfoInputs.cache
+C:\Users\Z\source\repos\Git\LeetCode\AMZ\IntegerToRoman\IntegerToRoman\obj\Debug\netcoreapp3.1\IntegerToRoman.AssemblyInfo.cs
+C:\Users\Z\source\repos\Git\LeetCode\AMZ\IntegerToRoman\IntegerToRoman\obj\Debug\netcoreapp3.1\IntegerToRoman.csproj.CoreCompileInputs.cache
+C:\Users\Z\source\repos\Git\LeetCode\AMZ\IntegerToRoman\IntegerToRoman\obj\Debug\netcoreapp3.1\IntegerToRoman.dll
+C:\Users\Z\source\repos\Git\LeetCode\AMZ\IntegerToRoman\IntegerToRoman\obj\Debug\netcoreapp3.1\IntegerToRoman.pdb
+C:\Users\Z\source\repos\Git\LeetCode\AMZ\IntegerToRoman\IntegerToRoman\obj\Debug\netcoreapp3.1\IntegerToRoman.genruntimeconfig.cache
