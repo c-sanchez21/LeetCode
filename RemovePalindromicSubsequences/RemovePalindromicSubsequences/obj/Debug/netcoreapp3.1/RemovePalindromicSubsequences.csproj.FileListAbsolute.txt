@@ -1,0 +1,13 @@
+C:\Users\Z\source\repos\Git\LeetCode\RemovePalindromicSubsequences\RemovePalindromicSubsequences\bin\Debug\netcoreapp3.1\RemovePalindromicSubsequences.exe
+C:\Users\Z\source\repos\Git\LeetCode\RemovePalindromicSubsequences\RemovePalindromicSubsequences\bin\Debug\netcoreapp3.1\RemovePalindromicSubsequences.deps.json
+C:\Users\Z\source\repos\Git\LeetCode\RemovePalindromicSubsequences\RemovePalindromicSubsequences\bin\Debug\netcoreapp3.1\RemovePalindromicSubsequences.runtimeconfig.json
+C:\Users\Z\source\repos\Git\LeetCode\RemovePalindromicSubsequences\RemovePalindromicSubsequences\bin\Debug\netcoreapp3.1\RemovePalindromicSubsequences.runtimeconfig.dev.json
+C:\Users\Z\source\repos\Git\LeetCode\RemovePalindromicSubsequences\RemovePalindromicSubsequences\bin\Debug\netcoreapp3.1\RemovePalindromicSubsequences.dll
+C:\Users\Z\source\repos\Git\LeetCode\RemovePalindromicSubsequences\RemovePalindromicSubsequences\bin\Debug\netcoreapp3.1\RemovePalindromicSubsequences.pdb
+C:\Users\Z\source\repos\Git\LeetCode\RemovePalindromicSubsequences\RemovePalindromicSubsequences\obj\Debug\netcoreapp3.1\RemovePalindromicSubsequences.csprojAssemblyReference.cache
+C:\Users\Z\source\repos\Git\LeetCode\RemovePalindromicSubsequences\RemovePalindromicSubsequences\obj\Debug\netcoreapp3.1\RemovePalindromicSubsequences.AssemblyInfoInputs.cache
+C:\Users\Z\source\repos\Git\LeetCode\RemovePalindromicSubsequences\RemovePalindromicSubsequences\obj\Debug\netcoreapp3.1\RemovePalindromicSubsequences.AssemblyInfo.cs
+C:\Users\Z\source\repos\Git\LeetCode\RemovePalindromicSubsequences\RemovePalindromicSubsequences\obj\Debug\netcoreapp3.1\RemovePalindromicSubsequences.csproj.CoreCompileInputs.cache
+C:\Users\Z\source\repos\Git\LeetCode\RemovePalindromicSubsequences\RemovePalindromicSubsequences\obj\Debug\netcoreapp3.1\RemovePalindromicSubsequences.dll
+C:\Users\Z\source\repos\Git\LeetCode\RemovePalindromicSubsequences\RemovePalindromicSubsequences\obj\Debug\netcoreapp3.1\RemovePalindromicSubsequences.pdb
+C:\Users\Z\source\repos\Git\LeetCode\RemovePalindromicSubsequences\RemovePalindromicSubsequences\obj\Debug\netcoreapp3.1\RemovePalindromicSubsequences.genruntimeconfig.cache
