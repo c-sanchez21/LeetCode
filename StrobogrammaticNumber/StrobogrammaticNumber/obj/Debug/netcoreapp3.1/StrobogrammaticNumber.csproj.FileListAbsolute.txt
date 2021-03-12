@@ -1,0 +1,13 @@
+C:\Users\Z\source\repos\Git\LeetCode\StrobogrammaticNumber\StrobogrammaticNumber\bin\Debug\netcoreapp3.1\StrobogrammaticNumber.exe
+C:\Users\Z\source\repos\Git\LeetCode\StrobogrammaticNumber\StrobogrammaticNumber\bin\Debug\netcoreapp3.1\StrobogrammaticNumber.deps.json
+C:\Users\Z\source\repos\Git\LeetCode\StrobogrammaticNumber\StrobogrammaticNumber\bin\Debug\netcoreapp3.1\StrobogrammaticNumber.runtimeconfig.json
+C:\Users\Z\source\repos\Git\LeetCode\StrobogrammaticNumber\StrobogrammaticNumber\bin\Debug\netcoreapp3.1\StrobogrammaticNumber.runtimeconfig.dev.json
+C:\Users\Z\source\repos\Git\LeetCode\StrobogrammaticNumber\StrobogrammaticNumber\bin\Debug\netcoreapp3.1\StrobogrammaticNumber.dll
+C:\Users\Z\source\repos\Git\LeetCode\StrobogrammaticNumber\StrobogrammaticNumber\bin\Debug\netcoreapp3.1\StrobogrammaticNumber.pdb
+C:\Users\Z\source\repos\Git\LeetCode\StrobogrammaticNumber\StrobogrammaticNumber\obj\Debug\netcoreapp3.1\StrobogrammaticNumber.csprojAssemblyReference.cache
+C:\Users\Z\source\repos\Git\LeetCode\StrobogrammaticNumber\StrobogrammaticNumber\obj\Debug\netcoreapp3.1\StrobogrammaticNumber.AssemblyInfoInputs.cache
+C:\Users\Z\source\repos\Git\LeetCode\StrobogrammaticNumber\StrobogrammaticNumber\obj\Debug\netcoreapp3.1\StrobogrammaticNumber.AssemblyInfo.cs
+C:\Users\Z\source\repos\Git\LeetCode\StrobogrammaticNumber\StrobogrammaticNumber\obj\Debug\netcoreapp3.1\StrobogrammaticNumber.csproj.CoreCompileInputs.cache
+C:\Users\Z\source\repos\Git\LeetCode\StrobogrammaticNumber\StrobogrammaticNumber\obj\Debug\netcoreapp3.1\StrobogrammaticNumber.dll
+C:\Users\Z\source\repos\Git\LeetCode\StrobogrammaticNumber\StrobogrammaticNumber\obj\Debug\netcoreapp3.1\StrobogrammaticNumber.pdb
+C:\Users\Z\source\repos\Git\LeetCode\StrobogrammaticNumber\StrobogrammaticNumber\obj\Debug\netcoreapp3.1\StrobogrammaticNumber.genruntimeconfig.cache
