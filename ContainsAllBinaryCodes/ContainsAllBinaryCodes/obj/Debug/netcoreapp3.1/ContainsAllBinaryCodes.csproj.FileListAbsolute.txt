@@ -1,0 +1,13 @@
+C:\Users\Z\source\repos\Git\LeetCode\ContainsAllBinaryCodes\ContainsAllBinaryCodes\bin\Debug\netcoreapp3.1\ContainsAllBinaryCodes.exe
+C:\Users\Z\source\repos\Git\LeetCode\ContainsAllBinaryCodes\ContainsAllBinaryCodes\bin\Debug\netcoreapp3.1\ContainsAllBinaryCodes.deps.json
+C:\Users\Z\source\repos\Git\LeetCode\ContainsAllBinaryCodes\ContainsAllBinaryCodes\bin\Debug\netcoreapp3.1\ContainsAllBinaryCodes.runtimeconfig.json
+C:\Users\Z\source\repos\Git\LeetCode\ContainsAllBinaryCodes\ContainsAllBinaryCodes\bin\Debug\netcoreapp3.1\ContainsAllBinaryCodes.runtimeconfig.dev.json
+C:\Users\Z\source\repos\Git\LeetCode\ContainsAllBinaryCodes\ContainsAllBinaryCodes\bin\Debug\netcoreapp3.1\ContainsAllBinaryCodes.dll
+C:\Users\Z\source\repos\Git\LeetCode\ContainsAllBinaryCodes\ContainsAllBinaryCodes\bin\Debug\netcoreapp3.1\ContainsAllBinaryCodes.pdb
+C:\Users\Z\source\repos\Git\LeetCode\ContainsAllBinaryCodes\ContainsAllBinaryCodes\obj\Debug\netcoreapp3.1\ContainsAllBinaryCodes.csprojAssemblyReference.cache
+C:\Users\Z\source\repos\Git\LeetCode\ContainsAllBinaryCodes\ContainsAllBinaryCodes\obj\Debug\netcoreapp3.1\ContainsAllBinaryCodes.AssemblyInfoInputs.cache
+C:\Users\Z\source\repos\Git\LeetCode\ContainsAllBinaryCodes\ContainsAllBinaryCodes\obj\Debug\netcoreapp3.1\ContainsAllBinaryCodes.AssemblyInfo.cs
+C:\Users\Z\source\repos\Git\LeetCode\ContainsAllBinaryCodes\ContainsAllBinaryCodes\obj\Debug\netcoreapp3.1\ContainsAllBinaryCodes.csproj.CoreCompileInputs.cache
+C:\Users\Z\source\repos\Git\LeetCode\ContainsAllBinaryCodes\ContainsAllBinaryCodes\obj\Debug\netcoreapp3.1\ContainsAllBinaryCodes.dll
+C:\Users\Z\source\repos\Git\LeetCode\ContainsAllBinaryCodes\ContainsAllBinaryCodes\obj\Debug\netcoreapp3.1\ContainsAllBinaryCodes.pdb
+C:\Users\Z\source\repos\Git\LeetCode\ContainsAllBinaryCodes\ContainsAllBinaryCodes\obj\Debug\netcoreapp3.1\ContainsAllBinaryCodes.genruntimeconfig.cache
