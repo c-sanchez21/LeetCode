@@ -1,0 +1,13 @@
+C:\Users\Z\source\repos\Git\LeetCode\AMZ\FirstUniqueCharacterInAString\FirstUniqueCharacterInAString\bin\Debug\netcoreapp3.1\FirstUniqueCharacterInAString.exe
+C:\Users\Z\source\repos\Git\LeetCode\AMZ\FirstUniqueCharacterInAString\FirstUniqueCharacterInAString\bin\Debug\netcoreapp3.1\FirstUniqueCharacterInAString.deps.json
+C:\Users\Z\source\repos\Git\LeetCode\AMZ\FirstUniqueCharacterInAString\FirstUniqueCharacterInAString\bin\Debug\netcoreapp3.1\FirstUniqueCharacterInAString.runtimeconfig.json
+C:\Users\Z\source\repos\Git\LeetCode\AMZ\FirstUniqueCharacterInAString\FirstUniqueCharacterInAString\bin\Debug\netcoreapp3.1\FirstUniqueCharacterInAString.runtimeconfig.dev.json
+C:\Users\Z\source\repos\Git\LeetCode\AMZ\FirstUniqueCharacterInAString\FirstUniqueCharacterInAString\bin\Debug\netcoreapp3.1\FirstUniqueCharacterInAString.dll
+C:\Users\Z\source\repos\Git\LeetCode\AMZ\FirstUniqueCharacterInAString\FirstUniqueCharacterInAString\bin\Debug\netcoreapp3.1\FirstUniqueCharacterInAString.pdb
+C:\Users\Z\source\repos\Git\LeetCode\AMZ\FirstUniqueCharacterInAString\FirstUniqueCharacterInAString\obj\Debug\netcoreapp3.1\FirstUniqueCharacterInAString.csprojAssemblyReference.cache
+C:\Users\Z\source\repos\Git\LeetCode\AMZ\FirstUniqueCharacterInAString\FirstUniqueCharacterInAString\obj\Debug\netcoreapp3.1\FirstUniqueCharacterInAString.AssemblyInfoInputs.cache
+C:\Users\Z\source\repos\Git\LeetCode\AMZ\FirstUniqueCharacterInAString\FirstUniqueCharacterInAString\obj\Debug\netcoreapp3.1\FirstUniqueCharacterInAString.AssemblyInfo.cs
+C:\Users\Z\source\repos\Git\LeetCode\AMZ\FirstUniqueCharacterInAString\FirstUniqueCharacterInAString\obj\Debug\netcoreapp3.1\FirstUniqueCharacterInAString.csproj.CoreCompileInputs.cache
+C:\Users\Z\source\repos\Git\LeetCode\AMZ\FirstUniqueCharacterInAString\FirstUniqueCharacterInAString\obj\Debug\netcoreapp3.1\FirstUniqueCharacterInAString.dll
+C:\Users\Z\source\repos\Git\LeetCode\AMZ\FirstUniqueCharacterInAString\FirstUniqueCharacterInAString\obj\Debug\netcoreapp3.1\FirstUniqueCharacterInAString.pdb
+C:\Users\Z\source\repos\Git\LeetCode\AMZ\FirstUniqueCharacterInAString\FirstUniqueCharacterInAString\obj\Debug\netcoreapp3.1\FirstUniqueCharacterInAString.genruntimeconfig.cache
