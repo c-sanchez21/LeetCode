@@ -1,0 +1,13 @@
+C:\Users\Z\source\repos\Git\LeetCode\MinimumWindowSubstring\MinimumWindowSubstring\bin\Debug\netcoreapp3.1\MinimumWindowSubstring.exe
+C:\Users\Z\source\repos\Git\LeetCode\MinimumWindowSubstring\MinimumWindowSubstring\bin\Debug\netcoreapp3.1\MinimumWindowSubstring.deps.json
+C:\Users\Z\source\repos\Git\LeetCode\MinimumWindowSubstring\MinimumWindowSubstring\bin\Debug\netcoreapp3.1\MinimumWindowSubstring.runtimeconfig.json
+C:\Users\Z\source\repos\Git\LeetCode\MinimumWindowSubstring\MinimumWindowSubstring\bin\Debug\netcoreapp3.1\MinimumWindowSubstring.runtimeconfig.dev.json
+C:\Users\Z\source\repos\Git\LeetCode\MinimumWindowSubstring\MinimumWindowSubstring\bin\Debug\netcoreapp3.1\MinimumWindowSubstring.dll
+C:\Users\Z\source\repos\Git\LeetCode\MinimumWindowSubstring\MinimumWindowSubstring\bin\Debug\netcoreapp3.1\MinimumWindowSubstring.pdb
+C:\Users\Z\source\repos\Git\LeetCode\MinimumWindowSubstring\MinimumWindowSubstring\obj\Debug\netcoreapp3.1\MinimumWindowSubstring.csprojAssemblyReference.cache
+C:\Users\Z\source\repos\Git\LeetCode\MinimumWindowSubstring\MinimumWindowSubstring\obj\Debug\netcoreapp3.1\MinimumWindowSubstring.AssemblyInfoInputs.cache
+C:\Users\Z\source\repos\Git\LeetCode\MinimumWindowSubstring\MinimumWindowSubstring\obj\Debug\netcoreapp3.1\MinimumWindowSubstring.AssemblyInfo.cs
+C:\Users\Z\source\repos\Git\LeetCode\MinimumWindowSubstring\MinimumWindowSubstring\obj\Debug\netcoreapp3.1\MinimumWindowSubstring.csproj.CoreCompileInputs.cache
+C:\Users\Z\source\repos\Git\LeetCode\MinimumWindowSubstring\MinimumWindowSubstring\obj\Debug\netcoreapp3.1\MinimumWindowSubstring.dll
+C:\Users\Z\source\repos\Git\LeetCode\MinimumWindowSubstring\MinimumWindowSubstring\obj\Debug\netcoreapp3.1\MinimumWindowSubstring.pdb
+C:\Users\Z\source\repos\Git\LeetCode\MinimumWindowSubstring\MinimumWindowSubstring\obj\Debug\netcoreapp3.1\MinimumWindowSubstring.genruntimeconfig.cache
