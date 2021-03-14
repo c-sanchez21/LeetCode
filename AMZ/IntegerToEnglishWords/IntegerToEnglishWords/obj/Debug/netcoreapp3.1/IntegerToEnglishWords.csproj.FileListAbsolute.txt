@@ -1,0 +1,13 @@
+C:\Users\Z\source\repos\Git\LeetCode\AMZ\IntegerToEnglishWords\IntegerToEnglishWords\bin\Debug\netcoreapp3.1\IntegerToEnglishWords.exe
+C:\Users\Z\source\repos\Git\LeetCode\AMZ\IntegerToEnglishWords\IntegerToEnglishWords\bin\Debug\netcoreapp3.1\IntegerToEnglishWords.deps.json
+C:\Users\Z\source\repos\Git\LeetCode\AMZ\IntegerToEnglishWords\IntegerToEnglishWords\bin\Debug\netcoreapp3.1\IntegerToEnglishWords.runtimeconfig.json
+C:\Users\Z\source\repos\Git\LeetCode\AMZ\IntegerToEnglishWords\IntegerToEnglishWords\bin\Debug\netcoreapp3.1\IntegerToEnglishWords.runtimeconfig.dev.json
+C:\Users\Z\source\repos\Git\LeetCode\AMZ\IntegerToEnglishWords\IntegerToEnglishWords\bin\Debug\netcoreapp3.1\IntegerToEnglishWords.dll
+C:\Users\Z\source\repos\Git\LeetCode\AMZ\IntegerToEnglishWords\IntegerToEnglishWords\bin\Debug\netcoreapp3.1\IntegerToEnglishWords.pdb
+C:\Users\Z\source\repos\Git\LeetCode\AMZ\IntegerToEnglishWords\IntegerToEnglishWords\obj\Debug\netcoreapp3.1\IntegerToEnglishWords.csprojAssemblyReference.cache
+C:\Users\Z\source\repos\Git\LeetCode\AMZ\IntegerToEnglishWords\IntegerToEnglishWords\obj\Debug\netcoreapp3.1\IntegerToEnglishWords.AssemblyInfoInputs.cache
+C:\Users\Z\source\repos\Git\LeetCode\AMZ\IntegerToEnglishWords\IntegerToEnglishWords\obj\Debug\netcoreapp3.1\IntegerToEnglishWords.AssemblyInfo.cs
+C:\Users\Z\source\repos\Git\LeetCode\AMZ\IntegerToEnglishWords\IntegerToEnglishWords\obj\Debug\netcoreapp3.1\IntegerToEnglishWords.csproj.CoreCompileInputs.cache
+C:\Users\Z\source\repos\Git\LeetCode\AMZ\IntegerToEnglishWords\IntegerToEnglishWords\obj\Debug\netcoreapp3.1\IntegerToEnglishWords.dll
+C:\Users\Z\source\repos\Git\LeetCode\AMZ\IntegerToEnglishWords\IntegerToEnglishWords\obj\Debug\netcoreapp3.1\IntegerToEnglishWords.pdb
+C:\Users\Z\source\repos\Git\LeetCode\AMZ\IntegerToEnglishWords\IntegerToEnglishWords\obj\Debug\netcoreapp3.1\IntegerToEnglishWords.genruntimeconfig.cache
