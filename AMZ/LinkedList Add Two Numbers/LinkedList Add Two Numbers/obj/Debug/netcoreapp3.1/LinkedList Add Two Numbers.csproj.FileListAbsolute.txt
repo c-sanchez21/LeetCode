@@ -1,0 +1,13 @@
+C:\Users\Z\source\repos\Git\LeetCode\AMZ\LinkedList Add Two Numbers\LinkedList Add Two Numbers\bin\Debug\netcoreapp3.1\LinkedList Add Two Numbers.exe
+C:\Users\Z\source\repos\Git\LeetCode\AMZ\LinkedList Add Two Numbers\LinkedList Add Two Numbers\bin\Debug\netcoreapp3.1\LinkedList Add Two Numbers.deps.json
+C:\Users\Z\source\repos\Git\LeetCode\AMZ\LinkedList Add Two Numbers\LinkedList Add Two Numbers\bin\Debug\netcoreapp3.1\LinkedList Add Two Numbers.runtimeconfig.json
+C:\Users\Z\source\repos\Git\LeetCode\AMZ\LinkedList Add Two Numbers\LinkedList Add Two Numbers\bin\Debug\netcoreapp3.1\LinkedList Add Two Numbers.runtimeconfig.dev.json
+C:\Users\Z\source\repos\Git\LeetCode\AMZ\LinkedList Add Two Numbers\LinkedList Add Two Numbers\bin\Debug\netcoreapp3.1\LinkedList Add Two Numbers.dll
+C:\Users\Z\source\repos\Git\LeetCode\AMZ\LinkedList Add Two Numbers\LinkedList Add Two Numbers\bin\Debug\netcoreapp3.1\LinkedList Add Two Numbers.pdb
+C:\Users\Z\source\repos\Git\LeetCode\AMZ\LinkedList Add Two Numbers\LinkedList Add Two Numbers\obj\Debug\netcoreapp3.1\LinkedList Add Two Numbers.csprojAssemblyReference.cache
+C:\Users\Z\source\repos\Git\LeetCode\AMZ\LinkedList Add Two Numbers\LinkedList Add Two Numbers\obj\Debug\netcoreapp3.1\LinkedList Add Two Numbers.AssemblyInfoInputs.cache
+C:\Users\Z\source\repos\Git\LeetCode\AMZ\LinkedList Add Two Numbers\LinkedList Add Two Numbers\obj\Debug\netcoreapp3.1\LinkedList Add Two Numbers.AssemblyInfo.cs
+C:\Users\Z\source\repos\Git\LeetCode\AMZ\LinkedList Add Two Numbers\LinkedList Add Two Numbers\obj\Debug\netcoreapp3.1\LinkedList Add Two Numbers.csproj.CoreCompileInputs.cache
+C:\Users\Z\source\repos\Git\LeetCode\AMZ\LinkedList Add Two Numbers\LinkedList Add Two Numbers\obj\Debug\netcoreapp3.1\LinkedList Add Two Numbers.dll
+C:\Users\Z\source\repos\Git\LeetCode\AMZ\LinkedList Add Two Numbers\LinkedList Add Two Numbers\obj\Debug\netcoreapp3.1\LinkedList Add Two Numbers.pdb
+C:\Users\Z\source\repos\Git\LeetCode\AMZ\LinkedList Add Two Numbers\LinkedList Add Two Numbers\obj\Debug\netcoreapp3.1\LinkedList Add Two Numbers.genruntimeconfig.cache
