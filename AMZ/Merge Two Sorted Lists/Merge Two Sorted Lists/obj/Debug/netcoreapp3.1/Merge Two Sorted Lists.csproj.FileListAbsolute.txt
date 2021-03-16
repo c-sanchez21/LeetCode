@@ -1,0 +1,13 @@
+C:\Users\Z\source\repos\Git\LeetCode\AMZ\Merge Two Sorted Lists\Merge Two Sorted Lists\bin\Debug\netcoreapp3.1\Merge Two Sorted Lists.exe
+C:\Users\Z\source\repos\Git\LeetCode\AMZ\Merge Two Sorted Lists\Merge Two Sorted Lists\bin\Debug\netcoreapp3.1\Merge Two Sorted Lists.deps.json
+C:\Users\Z\source\repos\Git\LeetCode\AMZ\Merge Two Sorted Lists\Merge Two Sorted Lists\bin\Debug\netcoreapp3.1\Merge Two Sorted Lists.runtimeconfig.json
+C:\Users\Z\source\repos\Git\LeetCode\AMZ\Merge Two Sorted Lists\Merge Two Sorted Lists\bin\Debug\netcoreapp3.1\Merge Two Sorted Lists.runtimeconfig.dev.json
+C:\Users\Z\source\repos\Git\LeetCode\AMZ\Merge Two Sorted Lists\Merge Two Sorted Lists\bin\Debug\netcoreapp3.1\Merge Two Sorted Lists.dll
+C:\Users\Z\source\repos\Git\LeetCode\AMZ\Merge Two Sorted Lists\Merge Two Sorted Lists\bin\Debug\netcoreapp3.1\Merge Two Sorted Lists.pdb
+C:\Users\Z\source\repos\Git\LeetCode\AMZ\Merge Two Sorted Lists\Merge Two Sorted Lists\obj\Debug\netcoreapp3.1\Merge Two Sorted Lists.csprojAssemblyReference.cache
+C:\Users\Z\source\repos\Git\LeetCode\AMZ\Merge Two Sorted Lists\Merge Two Sorted Lists\obj\Debug\netcoreapp3.1\Merge Two Sorted Lists.AssemblyInfoInputs.cache
+C:\Users\Z\source\repos\Git\LeetCode\AMZ\Merge Two Sorted Lists\Merge Two Sorted Lists\obj\Debug\netcoreapp3.1\Merge Two Sorted Lists.AssemblyInfo.cs
+C:\Users\Z\source\repos\Git\LeetCode\AMZ\Merge Two Sorted Lists\Merge Two Sorted Lists\obj\Debug\netcoreapp3.1\Merge Two Sorted Lists.csproj.CoreCompileInputs.cache
+C:\Users\Z\source\repos\Git\LeetCode\AMZ\Merge Two Sorted Lists\Merge Two Sorted Lists\obj\Debug\netcoreapp3.1\Merge Two Sorted Lists.dll
+C:\Users\Z\source\repos\Git\LeetCode\AMZ\Merge Two Sorted Lists\Merge Two Sorted Lists\obj\Debug\netcoreapp3.1\Merge Two Sorted Lists.pdb
+C:\Users\Z\source\repos\Git\LeetCode\AMZ\Merge Two Sorted Lists\Merge Two Sorted Lists\obj\Debug\netcoreapp3.1\Merge Two Sorted Lists.genruntimeconfig.cache

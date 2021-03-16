@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Merge Two Sorted Lists/1.0.0": {
+        "runtime": {
+          "Merge Two Sorted Lists.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Merge Two Sorted Lists/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
