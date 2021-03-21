@@ -1,0 +1,13 @@
+C:\Users\Z\source\repos\Git\LeetCode\Construct Binary Tree from String\Construct Binary Tree from String\bin\Debug\netcoreapp3.1\Construct Binary Tree from String.exe
+C:\Users\Z\source\repos\Git\LeetCode\Construct Binary Tree from String\Construct Binary Tree from String\bin\Debug\netcoreapp3.1\Construct Binary Tree from String.deps.json
+C:\Users\Z\source\repos\Git\LeetCode\Construct Binary Tree from String\Construct Binary Tree from String\bin\Debug\netcoreapp3.1\Construct Binary Tree from String.runtimeconfig.json
+C:\Users\Z\source\repos\Git\LeetCode\Construct Binary Tree from String\Construct Binary Tree from String\bin\Debug\netcoreapp3.1\Construct Binary Tree from String.runtimeconfig.dev.json
+C:\Users\Z\source\repos\Git\LeetCode\Construct Binary Tree from String\Construct Binary Tree from String\bin\Debug\netcoreapp3.1\Construct Binary Tree from String.dll
+C:\Users\Z\source\repos\Git\LeetCode\Construct Binary Tree from String\Construct Binary Tree from String\bin\Debug\netcoreapp3.1\Construct Binary Tree from String.pdb
+C:\Users\Z\source\repos\Git\LeetCode\Construct Binary Tree from String\Construct Binary Tree from String\obj\Debug\netcoreapp3.1\Construct Binary Tree from String.csprojAssemblyReference.cache
+C:\Users\Z\source\repos\Git\LeetCode\Construct Binary Tree from String\Construct Binary Tree from String\obj\Debug\netcoreapp3.1\Construct Binary Tree from String.AssemblyInfoInputs.cache
+C:\Users\Z\source\repos\Git\LeetCode\Construct Binary Tree from String\Construct Binary Tree from String\obj\Debug\netcoreapp3.1\Construct Binary Tree from String.AssemblyInfo.cs
+C:\Users\Z\source\repos\Git\LeetCode\Construct Binary Tree from String\Construct Binary Tree from String\obj\Debug\netcoreapp3.1\Construct Binary Tree from String.csproj.CoreCompileInputs.cache
+C:\Users\Z\source\repos\Git\LeetCode\Construct Binary Tree from String\Construct Binary Tree from String\obj\Debug\netcoreapp3.1\Construct Binary Tree from String.dll
+C:\Users\Z\source\repos\Git\LeetCode\Construct Binary Tree from String\Construct Binary Tree from String\obj\Debug\netcoreapp3.1\Construct Binary Tree from String.pdb
+C:\Users\Z\source\repos\Git\LeetCode\Construct Binary Tree from String\Construct Binary Tree from String\obj\Debug\netcoreapp3.1\Construct Binary Tree from String.genruntimeconfig.cache
