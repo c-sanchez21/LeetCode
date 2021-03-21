@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Generate Random Point in a Circle/1.0.0": {
+        "runtime": {
+          "Generate Random Point in a Circle.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Generate Random Point in a Circle/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,13 @@
+C:\Users\Z\source\repos\Git\LeetCode\Generate Random Point in a Circle\Generate Random Point in a Circle\bin\Debug\netcoreapp3.1\Generate Random Point in a Circle.exe
+C:\Users\Z\source\repos\Git\LeetCode\Generate Random Point in a Circle\Generate Random Point in a Circle\bin\Debug\netcoreapp3.1\Generate Random Point in a Circle.deps.json
+C:\Users\Z\source\repos\Git\LeetCode\Generate Random Point in a Circle\Generate Random Point in a Circle\bin\Debug\netcoreapp3.1\Generate Random Point in a Circle.runtimeconfig.json
+C:\Users\Z\source\repos\Git\LeetCode\Generate Random Point in a Circle\Generate Random Point in a Circle\bin\Debug\netcoreapp3.1\Generate Random Point in a Circle.runtimeconfig.dev.json
+C:\Users\Z\source\repos\Git\LeetCode\Generate Random Point in a Circle\Generate Random Point in a Circle\bin\Debug\netcoreapp3.1\Generate Random Point in a Circle.dll
+C:\Users\Z\source\repos\Git\LeetCode\Generate Random Point in a Circle\Generate Random Point in a Circle\bin\Debug\netcoreapp3.1\Generate Random Point in a Circle.pdb
+C:\Users\Z\source\repos\Git\LeetCode\Generate Random Point in a Circle\Generate Random Point in a Circle\obj\Debug\netcoreapp3.1\Generate Random Point in a Circle.csprojAssemblyReference.cache
+C:\Users\Z\source\repos\Git\LeetCode\Generate Random Point in a Circle\Generate Random Point in a Circle\obj\Debug\netcoreapp3.1\Generate Random Point in a Circle.AssemblyInfoInputs.cache
+C:\Users\Z\source\repos\Git\LeetCode\Generate Random Point in a Circle\Generate Random Point in a Circle\obj\Debug\netcoreapp3.1\Generate Random Point in a Circle.AssemblyInfo.cs
+C:\Users\Z\source\repos\Git\LeetCode\Generate Random Point in a Circle\Generate Random Point in a Circle\obj\Debug\netcoreapp3.1\Generate Random Point in a Circle.csproj.CoreCompileInputs.cache
+C:\Users\Z\source\repos\Git\LeetCode\Generate Random Point in a Circle\Generate Random Point in a Circle\obj\Debug\netcoreapp3.1\Generate Random Point in a Circle.dll
+C:\Users\Z\source\repos\Git\LeetCode\Generate Random Point in a Circle\Generate Random Point in a Circle\obj\Debug\netcoreapp3.1\Generate Random Point in a Circle.pdb
+C:\Users\Z\source\repos\Git\LeetCode\Generate Random Point in a Circle\Generate Random Point in a Circle\obj\Debug\netcoreapp3.1\Generate Random Point in a Circle.genruntimeconfig.cache
