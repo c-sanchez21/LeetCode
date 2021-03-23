@@ -9,13 +9,14 @@ namespace _3Sum
         //https://leetcode.com/problems/3sum/
         static void Main(string[] args)
         {
-            int[][] inputs = new int[][]
+            int[][] inputs = new int[][] //Array of arrays
                 {new int[] {-1, 0, 1, 2, -1, -4}, new int[]{}, new int[] {0 }, new int[]{0,0,0 },
                  new int[] {-1, -1, -4, -3,-2, 0, 2, 4, 5 } };
             IList<IList<int>> output;
             foreach(int[] input in inputs)
             {
                 output = ThreeSum(input);
+                //Print Output
                 Console.Write("[ ");
                 foreach (IList<int> arr in output)
                 {

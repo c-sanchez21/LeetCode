@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Q95wGOXLcXq8yJhgsYlPpZJGFfZJ/46r1uP8GWLnh3y81CM6Hs+2pbgr+5xxIP5NXiHbqFNyNuBi9Fl0IP/UFQ==",
+  "dgSpecHash": "2/wBASpU3RKdhb+G76Q4Hg+LDi1eNfiRq2BF/T80g9XPR+R5aKlYkO9hOz2znz/5VyFa6/C6HPHsR1Zl6mD78A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Z\\source\\repos\\Git\\LeetCode\\3Sum\\3Sum\\3Sum.csproj",
+  "projectFilePath": "C:\\Users\\Z\\source\\repos\\Git\\LeetCode\\AMZ\\3Sum\\3Sum\\3Sum.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

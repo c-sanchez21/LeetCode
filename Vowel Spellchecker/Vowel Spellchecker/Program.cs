@@ -49,10 +49,10 @@ namespace Vowel_Spellchecker
 
                 //Store first word matches in the dictionary
                 if (!wordDict.ContainsKey(upper))
-                {
                     wordDict.Add(upper, word);
+                
+                if(!wordDict.ContainsKey(vowelWildcard))
                     wordDict.Add(vowelWildcard, word);
-                }
             }
 
             //Process Queries
