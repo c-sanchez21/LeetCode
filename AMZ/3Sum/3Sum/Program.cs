@@ -40,9 +40,9 @@ namespace _3Sum
             for (int i = 0; i < nums.Length - 2; i++)
             {
                 curVal = nums[i];
-                if (curVal == prev)
+                if (curVal == prev) //Skip repeated numbers
                     continue;
-                if (curVal > 0)
+                if (curVal > 0) //Won't be able to add up to Zero so break
                     break;
                 l = i + 1;
                 r = nums.Length - 1;
@@ -51,7 +51,7 @@ namespace _3Sum
                     lo = nums[l];
                     hi = nums[r];
                     sum = curVal + lo + hi;
-                    if (sum == 0)
+                    if (sum == 0) //If target found
                     {
                         results.Add(new List<int>(new int[] { curVal, lo, hi })) ;
                         l++;
