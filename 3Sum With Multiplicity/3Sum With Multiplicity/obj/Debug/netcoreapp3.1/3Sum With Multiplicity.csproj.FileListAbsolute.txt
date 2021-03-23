@@ -1,0 +1,13 @@
+C:\Users\Z\source\repos\3Sum With Multiplicity\3Sum With Multiplicity\bin\Debug\netcoreapp3.1\3Sum With Multiplicity.exe
+C:\Users\Z\source\repos\3Sum With Multiplicity\3Sum With Multiplicity\bin\Debug\netcoreapp3.1\3Sum With Multiplicity.deps.json
+C:\Users\Z\source\repos\3Sum With Multiplicity\3Sum With Multiplicity\bin\Debug\netcoreapp3.1\3Sum With Multiplicity.runtimeconfig.json
+C:\Users\Z\source\repos\3Sum With Multiplicity\3Sum With Multiplicity\bin\Debug\netcoreapp3.1\3Sum With Multiplicity.runtimeconfig.dev.json
+C:\Users\Z\source\repos\3Sum With Multiplicity\3Sum With Multiplicity\bin\Debug\netcoreapp3.1\3Sum With Multiplicity.dll
+C:\Users\Z\source\repos\3Sum With Multiplicity\3Sum With Multiplicity\bin\Debug\netcoreapp3.1\3Sum With Multiplicity.pdb
+C:\Users\Z\source\repos\3Sum With Multiplicity\3Sum With Multiplicity\obj\Debug\netcoreapp3.1\3Sum With Multiplicity.csprojAssemblyReference.cache
+C:\Users\Z\source\repos\3Sum With Multiplicity\3Sum With Multiplicity\obj\Debug\netcoreapp3.1\3Sum With Multiplicity.AssemblyInfoInputs.cache
+C:\Users\Z\source\repos\3Sum With Multiplicity\3Sum With Multiplicity\obj\Debug\netcoreapp3.1\3Sum With Multiplicity.AssemblyInfo.cs
+C:\Users\Z\source\repos\3Sum With Multiplicity\3Sum With Multiplicity\obj\Debug\netcoreapp3.1\3Sum With Multiplicity.csproj.CoreCompileInputs.cache
+C:\Users\Z\source\repos\3Sum With Multiplicity\3Sum With Multiplicity\obj\Debug\netcoreapp3.1\3Sum With Multiplicity.dll
+C:\Users\Z\source\repos\3Sum With Multiplicity\3Sum With Multiplicity\obj\Debug\netcoreapp3.1\3Sum With Multiplicity.pdb
+C:\Users\Z\source\repos\3Sum With Multiplicity\3Sum With Multiplicity\obj\Debug\netcoreapp3.1\3Sum With Multiplicity.genruntimeconfig.cache
