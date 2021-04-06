@@ -1,0 +1,13 @@
+C:\Users\Z\source\repos\Git\LeetCode\Minimum Operations to Make Array Equal\Minimum Operations to Make Array Equal\bin\Debug\netcoreapp3.1\Minimum Operations to Make Array Equal.exe
+C:\Users\Z\source\repos\Git\LeetCode\Minimum Operations to Make Array Equal\Minimum Operations to Make Array Equal\bin\Debug\netcoreapp3.1\Minimum Operations to Make Array Equal.deps.json
+C:\Users\Z\source\repos\Git\LeetCode\Minimum Operations to Make Array Equal\Minimum Operations to Make Array Equal\bin\Debug\netcoreapp3.1\Minimum Operations to Make Array Equal.runtimeconfig.json
+C:\Users\Z\source\repos\Git\LeetCode\Minimum Operations to Make Array Equal\Minimum Operations to Make Array Equal\bin\Debug\netcoreapp3.1\Minimum Operations to Make Array Equal.runtimeconfig.dev.json
+C:\Users\Z\source\repos\Git\LeetCode\Minimum Operations to Make Array Equal\Minimum Operations to Make Array Equal\bin\Debug\netcoreapp3.1\Minimum Operations to Make Array Equal.dll
+C:\Users\Z\source\repos\Git\LeetCode\Minimum Operations to Make Array Equal\Minimum Operations to Make Array Equal\bin\Debug\netcoreapp3.1\Minimum Operations to Make Array Equal.pdb
+C:\Users\Z\source\repos\Git\LeetCode\Minimum Operations to Make Array Equal\Minimum Operations to Make Array Equal\obj\Debug\netcoreapp3.1\Minimum Operations to Make Array Equal.csprojAssemblyReference.cache
+C:\Users\Z\source\repos\Git\LeetCode\Minimum Operations to Make Array Equal\Minimum Operations to Make Array Equal\obj\Debug\netcoreapp3.1\Minimum Operations to Make Array Equal.AssemblyInfoInputs.cache
+C:\Users\Z\source\repos\Git\LeetCode\Minimum Operations to Make Array Equal\Minimum Operations to Make Array Equal\obj\Debug\netcoreapp3.1\Minimum Operations to Make Array Equal.AssemblyInfo.cs
+C:\Users\Z\source\repos\Git\LeetCode\Minimum Operations to Make Array Equal\Minimum Operations to Make Array Equal\obj\Debug\netcoreapp3.1\Minimum Operations to Make Array Equal.csproj.CoreCompileInputs.cache
+C:\Users\Z\source\repos\Git\LeetCode\Minimum Operations to Make Array Equal\Minimum Operations to Make Array Equal\obj\Debug\netcoreapp3.1\Minimum Operations to Make Array Equal.dll
+C:\Users\Z\source\repos\Git\LeetCode\Minimum Operations to Make Array Equal\Minimum Operations to Make Array Equal\obj\Debug\netcoreapp3.1\Minimum Operations to Make Array Equal.pdb
+C:\Users\Z\source\repos\Git\LeetCode\Minimum Operations to Make Array Equal\Minimum Operations to Make Array Equal\obj\Debug\netcoreapp3.1\Minimum Operations to Make Array Equal.genruntimeconfig.cache

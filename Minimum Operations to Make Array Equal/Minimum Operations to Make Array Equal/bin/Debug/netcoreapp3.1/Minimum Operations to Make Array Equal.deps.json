@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Minimum Operations to Make Array Equal/1.0.0": {
+        "runtime": {
+          "Minimum Operations to Make Array Equal.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Minimum Operations to Make Array Equal/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
