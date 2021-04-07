@@ -1,0 +1,13 @@
+C:\Users\Z\source\repos\Git\LeetCode\Determine if String Halves Are Alike\Determine if String Halves Are Alike\bin\Debug\netcoreapp3.1\Determine if String Halves Are Alike.exe
+C:\Users\Z\source\repos\Git\LeetCode\Determine if String Halves Are Alike\Determine if String Halves Are Alike\bin\Debug\netcoreapp3.1\Determine if String Halves Are Alike.deps.json
+C:\Users\Z\source\repos\Git\LeetCode\Determine if String Halves Are Alike\Determine if String Halves Are Alike\bin\Debug\netcoreapp3.1\Determine if String Halves Are Alike.runtimeconfig.json
+C:\Users\Z\source\repos\Git\LeetCode\Determine if String Halves Are Alike\Determine if String Halves Are Alike\bin\Debug\netcoreapp3.1\Determine if String Halves Are Alike.runtimeconfig.dev.json
+C:\Users\Z\source\repos\Git\LeetCode\Determine if String Halves Are Alike\Determine if String Halves Are Alike\bin\Debug\netcoreapp3.1\Determine if String Halves Are Alike.dll
+C:\Users\Z\source\repos\Git\LeetCode\Determine if String Halves Are Alike\Determine if String Halves Are Alike\bin\Debug\netcoreapp3.1\Determine if String Halves Are Alike.pdb
+C:\Users\Z\source\repos\Git\LeetCode\Determine if String Halves Are Alike\Determine if String Halves Are Alike\obj\Debug\netcoreapp3.1\Determine if String Halves Are Alike.csprojAssemblyReference.cache
+C:\Users\Z\source\repos\Git\LeetCode\Determine if String Halves Are Alike\Determine if String Halves Are Alike\obj\Debug\netcoreapp3.1\Determine if String Halves Are Alike.AssemblyInfoInputs.cache
+C:\Users\Z\source\repos\Git\LeetCode\Determine if String Halves Are Alike\Determine if String Halves Are Alike\obj\Debug\netcoreapp3.1\Determine if String Halves Are Alike.AssemblyInfo.cs
+C:\Users\Z\source\repos\Git\LeetCode\Determine if String Halves Are Alike\Determine if String Halves Are Alike\obj\Debug\netcoreapp3.1\Determine if String Halves Are Alike.csproj.CoreCompileInputs.cache
+C:\Users\Z\source\repos\Git\LeetCode\Determine if String Halves Are Alike\Determine if String Halves Are Alike\obj\Debug\netcoreapp3.1\Determine if String Halves Are Alike.dll
+C:\Users\Z\source\repos\Git\LeetCode\Determine if String Halves Are Alike\Determine if String Halves Are Alike\obj\Debug\netcoreapp3.1\Determine if String Halves Are Alike.pdb
+C:\Users\Z\source\repos\Git\LeetCode\Determine if String Halves Are Alike\Determine if String Halves Are Alike\obj\Debug\netcoreapp3.1\Determine if String Halves Are Alike.genruntimeconfig.cache
