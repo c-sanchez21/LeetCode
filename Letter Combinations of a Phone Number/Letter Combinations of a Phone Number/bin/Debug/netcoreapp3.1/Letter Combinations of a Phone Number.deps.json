@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Letter Combinations of a Phone Number/1.0.0": {
+        "runtime": {
+          "Letter Combinations of a Phone Number.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Letter Combinations of a Phone Number/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

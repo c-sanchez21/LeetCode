@@ -1,0 +1,13 @@
+C:\Users\Z\source\repos\Git\LeetCode\Letter Combinations of a Phone Number\Letter Combinations of a Phone Number\obj\Debug\netcoreapp3.1\Letter Combinations of a Phone Number.csprojAssemblyReference.cache
+C:\Users\Z\source\repos\Git\LeetCode\Letter Combinations of a Phone Number\Letter Combinations of a Phone Number\obj\Debug\netcoreapp3.1\Letter Combinations of a Phone Number.AssemblyInfoInputs.cache
+C:\Users\Z\source\repos\Git\LeetCode\Letter Combinations of a Phone Number\Letter Combinations of a Phone Number\obj\Debug\netcoreapp3.1\Letter Combinations of a Phone Number.AssemblyInfo.cs
+C:\Users\Z\source\repos\Git\LeetCode\Letter Combinations of a Phone Number\Letter Combinations of a Phone Number\obj\Debug\netcoreapp3.1\Letter Combinations of a Phone Number.csproj.CoreCompileInputs.cache
+C:\Users\Z\source\repos\Git\LeetCode\Letter Combinations of a Phone Number\Letter Combinations of a Phone Number\bin\Debug\netcoreapp3.1\Letter Combinations of a Phone Number.exe
+C:\Users\Z\source\repos\Git\LeetCode\Letter Combinations of a Phone Number\Letter Combinations of a Phone Number\bin\Debug\netcoreapp3.1\Letter Combinations of a Phone Number.deps.json
+C:\Users\Z\source\repos\Git\LeetCode\Letter Combinations of a Phone Number\Letter Combinations of a Phone Number\bin\Debug\netcoreapp3.1\Letter Combinations of a Phone Number.runtimeconfig.json
+C:\Users\Z\source\repos\Git\LeetCode\Letter Combinations of a Phone Number\Letter Combinations of a Phone Number\bin\Debug\netcoreapp3.1\Letter Combinations of a Phone Number.runtimeconfig.dev.json
+C:\Users\Z\source\repos\Git\LeetCode\Letter Combinations of a Phone Number\Letter Combinations of a Phone Number\bin\Debug\netcoreapp3.1\Letter Combinations of a Phone Number.dll
+C:\Users\Z\source\repos\Git\LeetCode\Letter Combinations of a Phone Number\Letter Combinations of a Phone Number\bin\Debug\netcoreapp3.1\Letter Combinations of a Phone Number.pdb
+C:\Users\Z\source\repos\Git\LeetCode\Letter Combinations of a Phone Number\Letter Combinations of a Phone Number\obj\Debug\netcoreapp3.1\Letter Combinations of a Phone Number.dll
+C:\Users\Z\source\repos\Git\LeetCode\Letter Combinations of a Phone Number\Letter Combinations of a Phone Number\obj\Debug\netcoreapp3.1\Letter Combinations of a Phone Number.pdb
+C:\Users\Z\source\repos\Git\LeetCode\Letter Combinations of a Phone Number\Letter Combinations of a Phone Number\obj\Debug\netcoreapp3.1\Letter Combinations of a Phone Number.genruntimeconfig.cache
