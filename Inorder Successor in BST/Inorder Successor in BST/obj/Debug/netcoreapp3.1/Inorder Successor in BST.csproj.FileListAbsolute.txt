@@ -1,0 +1,13 @@
+C:\Users\Z\source\repos\Git\LeetCode\Inorder Successor in BST\Inorder Successor in BST\bin\Debug\netcoreapp3.1\Inorder Successor in BST.exe
+C:\Users\Z\source\repos\Git\LeetCode\Inorder Successor in BST\Inorder Successor in BST\bin\Debug\netcoreapp3.1\Inorder Successor in BST.deps.json
+C:\Users\Z\source\repos\Git\LeetCode\Inorder Successor in BST\Inorder Successor in BST\bin\Debug\netcoreapp3.1\Inorder Successor in BST.runtimeconfig.json
+C:\Users\Z\source\repos\Git\LeetCode\Inorder Successor in BST\Inorder Successor in BST\bin\Debug\netcoreapp3.1\Inorder Successor in BST.runtimeconfig.dev.json
+C:\Users\Z\source\repos\Git\LeetCode\Inorder Successor in BST\Inorder Successor in BST\bin\Debug\netcoreapp3.1\Inorder Successor in BST.dll
+C:\Users\Z\source\repos\Git\LeetCode\Inorder Successor in BST\Inorder Successor in BST\bin\Debug\netcoreapp3.1\Inorder Successor in BST.pdb
+C:\Users\Z\source\repos\Git\LeetCode\Inorder Successor in BST\Inorder Successor in BST\obj\Debug\netcoreapp3.1\Inorder Successor in BST.csprojAssemblyReference.cache
+C:\Users\Z\source\repos\Git\LeetCode\Inorder Successor in BST\Inorder Successor in BST\obj\Debug\netcoreapp3.1\Inorder Successor in BST.AssemblyInfoInputs.cache
+C:\Users\Z\source\repos\Git\LeetCode\Inorder Successor in BST\Inorder Successor in BST\obj\Debug\netcoreapp3.1\Inorder Successor in BST.AssemblyInfo.cs
+C:\Users\Z\source\repos\Git\LeetCode\Inorder Successor in BST\Inorder Successor in BST\obj\Debug\netcoreapp3.1\Inorder Successor in BST.csproj.CoreCompileInputs.cache
+C:\Users\Z\source\repos\Git\LeetCode\Inorder Successor in BST\Inorder Successor in BST\obj\Debug\netcoreapp3.1\Inorder Successor in BST.dll
+C:\Users\Z\source\repos\Git\LeetCode\Inorder Successor in BST\Inorder Successor in BST\obj\Debug\netcoreapp3.1\Inorder Successor in BST.pdb
+C:\Users\Z\source\repos\Git\LeetCode\Inorder Successor in BST\Inorder Successor in BST\obj\Debug\netcoreapp3.1\Inorder Successor in BST.genruntimeconfig.cache
