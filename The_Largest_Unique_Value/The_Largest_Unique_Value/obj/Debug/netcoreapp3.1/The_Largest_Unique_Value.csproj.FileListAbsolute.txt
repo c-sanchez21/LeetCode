@@ -1,0 +1,13 @@
+C:\Users\Z\source\repos\Git\LeetCode\The_Largest_Unique_Value\The_Largest_Unique_Value\bin\Debug\netcoreapp3.1\The_Largest_Unique_Value.exe
+C:\Users\Z\source\repos\Git\LeetCode\The_Largest_Unique_Value\The_Largest_Unique_Value\bin\Debug\netcoreapp3.1\The_Largest_Unique_Value.deps.json
+C:\Users\Z\source\repos\Git\LeetCode\The_Largest_Unique_Value\The_Largest_Unique_Value\bin\Debug\netcoreapp3.1\The_Largest_Unique_Value.runtimeconfig.json
+C:\Users\Z\source\repos\Git\LeetCode\The_Largest_Unique_Value\The_Largest_Unique_Value\bin\Debug\netcoreapp3.1\The_Largest_Unique_Value.runtimeconfig.dev.json
+C:\Users\Z\source\repos\Git\LeetCode\The_Largest_Unique_Value\The_Largest_Unique_Value\bin\Debug\netcoreapp3.1\The_Largest_Unique_Value.dll
+C:\Users\Z\source\repos\Git\LeetCode\The_Largest_Unique_Value\The_Largest_Unique_Value\bin\Debug\netcoreapp3.1\The_Largest_Unique_Value.pdb
+C:\Users\Z\source\repos\Git\LeetCode\The_Largest_Unique_Value\The_Largest_Unique_Value\obj\Debug\netcoreapp3.1\The_Largest_Unique_Value.csprojAssemblyReference.cache
+C:\Users\Z\source\repos\Git\LeetCode\The_Largest_Unique_Value\The_Largest_Unique_Value\obj\Debug\netcoreapp3.1\The_Largest_Unique_Value.AssemblyInfoInputs.cache
+C:\Users\Z\source\repos\Git\LeetCode\The_Largest_Unique_Value\The_Largest_Unique_Value\obj\Debug\netcoreapp3.1\The_Largest_Unique_Value.AssemblyInfo.cs
+C:\Users\Z\source\repos\Git\LeetCode\The_Largest_Unique_Value\The_Largest_Unique_Value\obj\Debug\netcoreapp3.1\The_Largest_Unique_Value.csproj.CoreCompileInputs.cache
+C:\Users\Z\source\repos\Git\LeetCode\The_Largest_Unique_Value\The_Largest_Unique_Value\obj\Debug\netcoreapp3.1\The_Largest_Unique_Value.dll
+C:\Users\Z\source\repos\Git\LeetCode\The_Largest_Unique_Value\The_Largest_Unique_Value\obj\Debug\netcoreapp3.1\The_Largest_Unique_Value.pdb
+C:\Users\Z\source\repos\Git\LeetCode\The_Largest_Unique_Value\The_Largest_Unique_Value\obj\Debug\netcoreapp3.1\The_Largest_Unique_Value.genruntimeconfig.cache
