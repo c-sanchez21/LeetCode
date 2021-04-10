@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31105.61
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Longest Increasing Path in a Matrix", "Longest Increasing Path in a Matrix\Longest Increasing Path in a Matrix.csproj", "{3CB1D243-87DC-4F71-8E3C-450B42FA7719}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3CB1D243-87DC-4F71-8E3C-450B42FA7719}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3CB1D243-87DC-4F71-8E3C-450B42FA7719}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3CB1D243-87DC-4F71-8E3C-450B42FA7719}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3CB1D243-87DC-4F71-8E3C-450B42FA7719}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F0769D8B-7EF7-4BEA-AF48-39E438834E85}
+	EndGlobalSection
+EndGlobal

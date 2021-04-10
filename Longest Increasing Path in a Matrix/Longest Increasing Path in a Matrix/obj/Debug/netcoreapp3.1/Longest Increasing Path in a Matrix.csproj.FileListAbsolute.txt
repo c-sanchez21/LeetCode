@@ -1,0 +1,13 @@
+C:\Users\Z\source\repos\Git\LeetCode\Longest Increasing Path in a Matrix\Longest Increasing Path in a Matrix\bin\Debug\netcoreapp3.1\Longest Increasing Path in a Matrix.exe
+C:\Users\Z\source\repos\Git\LeetCode\Longest Increasing Path in a Matrix\Longest Increasing Path in a Matrix\bin\Debug\netcoreapp3.1\Longest Increasing Path in a Matrix.deps.json
+C:\Users\Z\source\repos\Git\LeetCode\Longest Increasing Path in a Matrix\Longest Increasing Path in a Matrix\bin\Debug\netcoreapp3.1\Longest Increasing Path in a Matrix.runtimeconfig.json
+C:\Users\Z\source\repos\Git\LeetCode\Longest Increasing Path in a Matrix\Longest Increasing Path in a Matrix\bin\Debug\netcoreapp3.1\Longest Increasing Path in a Matrix.runtimeconfig.dev.json
+C:\Users\Z\source\repos\Git\LeetCode\Longest Increasing Path in a Matrix\Longest Increasing Path in a Matrix\bin\Debug\netcoreapp3.1\Longest Increasing Path in a Matrix.dll
+C:\Users\Z\source\repos\Git\LeetCode\Longest Increasing Path in a Matrix\Longest Increasing Path in a Matrix\bin\Debug\netcoreapp3.1\Longest Increasing Path in a Matrix.pdb
+C:\Users\Z\source\repos\Git\LeetCode\Longest Increasing Path in a Matrix\Longest Increasing Path in a Matrix\obj\Debug\netcoreapp3.1\Longest Increasing Path in a Matrix.csprojAssemblyReference.cache
+C:\Users\Z\source\repos\Git\LeetCode\Longest Increasing Path in a Matrix\Longest Increasing Path in a Matrix\obj\Debug\netcoreapp3.1\Longest Increasing Path in a Matrix.AssemblyInfoInputs.cache
+C:\Users\Z\source\repos\Git\LeetCode\Longest Increasing Path in a Matrix\Longest Increasing Path in a Matrix\obj\Debug\netcoreapp3.1\Longest Increasing Path in a Matrix.AssemblyInfo.cs
+C:\Users\Z\source\repos\Git\LeetCode\Longest Increasing Path in a Matrix\Longest Increasing Path in a Matrix\obj\Debug\netcoreapp3.1\Longest Increasing Path in a Matrix.csproj.CoreCompileInputs.cache
+C:\Users\Z\source\repos\Git\LeetCode\Longest Increasing Path in a Matrix\Longest Increasing Path in a Matrix\obj\Debug\netcoreapp3.1\Longest Increasing Path in a Matrix.dll
+C:\Users\Z\source\repos\Git\LeetCode\Longest Increasing Path in a Matrix\Longest Increasing Path in a Matrix\obj\Debug\netcoreapp3.1\Longest Increasing Path in a Matrix.pdb
+C:\Users\Z\source\repos\Git\LeetCode\Longest Increasing Path in a Matrix\Longest Increasing Path in a Matrix\obj\Debug\netcoreapp3.1\Longest Increasing Path in a Matrix.genruntimeconfig.cache
