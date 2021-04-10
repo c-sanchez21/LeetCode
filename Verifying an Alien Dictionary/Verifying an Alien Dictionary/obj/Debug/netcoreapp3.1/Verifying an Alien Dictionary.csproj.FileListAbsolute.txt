@@ -1,0 +1,13 @@
+C:\Users\Z\source\repos\Git\LeetCode\Verifying an Alien Dictionary\Verifying an Alien Dictionary\bin\Debug\netcoreapp3.1\Verifying an Alien Dictionary.exe
+C:\Users\Z\source\repos\Git\LeetCode\Verifying an Alien Dictionary\Verifying an Alien Dictionary\bin\Debug\netcoreapp3.1\Verifying an Alien Dictionary.deps.json
+C:\Users\Z\source\repos\Git\LeetCode\Verifying an Alien Dictionary\Verifying an Alien Dictionary\bin\Debug\netcoreapp3.1\Verifying an Alien Dictionary.runtimeconfig.json
+C:\Users\Z\source\repos\Git\LeetCode\Verifying an Alien Dictionary\Verifying an Alien Dictionary\bin\Debug\netcoreapp3.1\Verifying an Alien Dictionary.runtimeconfig.dev.json
+C:\Users\Z\source\repos\Git\LeetCode\Verifying an Alien Dictionary\Verifying an Alien Dictionary\bin\Debug\netcoreapp3.1\Verifying an Alien Dictionary.dll
+C:\Users\Z\source\repos\Git\LeetCode\Verifying an Alien Dictionary\Verifying an Alien Dictionary\bin\Debug\netcoreapp3.1\Verifying an Alien Dictionary.pdb
+C:\Users\Z\source\repos\Git\LeetCode\Verifying an Alien Dictionary\Verifying an Alien Dictionary\obj\Debug\netcoreapp3.1\Verifying an Alien Dictionary.csprojAssemblyReference.cache
+C:\Users\Z\source\repos\Git\LeetCode\Verifying an Alien Dictionary\Verifying an Alien Dictionary\obj\Debug\netcoreapp3.1\Verifying an Alien Dictionary.AssemblyInfoInputs.cache
+C:\Users\Z\source\repos\Git\LeetCode\Verifying an Alien Dictionary\Verifying an Alien Dictionary\obj\Debug\netcoreapp3.1\Verifying an Alien Dictionary.AssemblyInfo.cs
+C:\Users\Z\source\repos\Git\LeetCode\Verifying an Alien Dictionary\Verifying an Alien Dictionary\obj\Debug\netcoreapp3.1\Verifying an Alien Dictionary.csproj.CoreCompileInputs.cache
+C:\Users\Z\source\repos\Git\LeetCode\Verifying an Alien Dictionary\Verifying an Alien Dictionary\obj\Debug\netcoreapp3.1\Verifying an Alien Dictionary.dll
+C:\Users\Z\source\repos\Git\LeetCode\Verifying an Alien Dictionary\Verifying an Alien Dictionary\obj\Debug\netcoreapp3.1\Verifying an Alien Dictionary.pdb
+C:\Users\Z\source\repos\Git\LeetCode\Verifying an Alien Dictionary\Verifying an Alien Dictionary\obj\Debug\netcoreapp3.1\Verifying an Alien Dictionary.genruntimeconfig.cache
