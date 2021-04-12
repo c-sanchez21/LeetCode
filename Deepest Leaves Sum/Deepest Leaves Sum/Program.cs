@@ -25,6 +25,7 @@ namespace Deepest_Leaves_Sum
             }
         }
 
+        //Calculates the sum of the leaves
         public static int DeepestLeavesSum(TreeNode root)
         {
             if (root == null) return 0;
@@ -37,6 +38,7 @@ namespace Deepest_Leaves_Sum
             return sum;
         }
 
+        //Gets a list of numbers from the specified target height
         public static void GetNums(TreeNode n, int curHeight, int Target, List<int> nums)
         {
             if (n == null) return;
@@ -49,6 +51,7 @@ namespace Deepest_Leaves_Sum
             GetNums(n.right, curHeight + 1, Target, nums);
         }
 
+        //Gets height of the tree
         public static int Height(TreeNode n)
         {
             if (n == null) return 0;

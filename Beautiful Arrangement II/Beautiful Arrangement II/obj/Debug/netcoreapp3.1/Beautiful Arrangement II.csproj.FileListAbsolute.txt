@@ -1,0 +1,13 @@
+C:\Users\Z\source\repos\Git\LeetCode\Beautiful Arrangement II\Beautiful Arrangement II\bin\Debug\netcoreapp3.1\Beautiful Arrangement II.exe
+C:\Users\Z\source\repos\Git\LeetCode\Beautiful Arrangement II\Beautiful Arrangement II\bin\Debug\netcoreapp3.1\Beautiful Arrangement II.deps.json
+C:\Users\Z\source\repos\Git\LeetCode\Beautiful Arrangement II\Beautiful Arrangement II\bin\Debug\netcoreapp3.1\Beautiful Arrangement II.runtimeconfig.json
+C:\Users\Z\source\repos\Git\LeetCode\Beautiful Arrangement II\Beautiful Arrangement II\bin\Debug\netcoreapp3.1\Beautiful Arrangement II.runtimeconfig.dev.json
+C:\Users\Z\source\repos\Git\LeetCode\Beautiful Arrangement II\Beautiful Arrangement II\bin\Debug\netcoreapp3.1\Beautiful Arrangement II.dll
+C:\Users\Z\source\repos\Git\LeetCode\Beautiful Arrangement II\Beautiful Arrangement II\bin\Debug\netcoreapp3.1\Beautiful Arrangement II.pdb
+C:\Users\Z\source\repos\Git\LeetCode\Beautiful Arrangement II\Beautiful Arrangement II\obj\Debug\netcoreapp3.1\Beautiful Arrangement II.csprojAssemblyReference.cache
+C:\Users\Z\source\repos\Git\LeetCode\Beautiful Arrangement II\Beautiful Arrangement II\obj\Debug\netcoreapp3.1\Beautiful Arrangement II.AssemblyInfoInputs.cache
+C:\Users\Z\source\repos\Git\LeetCode\Beautiful Arrangement II\Beautiful Arrangement II\obj\Debug\netcoreapp3.1\Beautiful Arrangement II.AssemblyInfo.cs
+C:\Users\Z\source\repos\Git\LeetCode\Beautiful Arrangement II\Beautiful Arrangement II\obj\Debug\netcoreapp3.1\Beautiful Arrangement II.csproj.CoreCompileInputs.cache
+C:\Users\Z\source\repos\Git\LeetCode\Beautiful Arrangement II\Beautiful Arrangement II\obj\Debug\netcoreapp3.1\Beautiful Arrangement II.dll
+C:\Users\Z\source\repos\Git\LeetCode\Beautiful Arrangement II\Beautiful Arrangement II\obj\Debug\netcoreapp3.1\Beautiful Arrangement II.pdb
+C:\Users\Z\source\repos\Git\LeetCode\Beautiful Arrangement II\Beautiful Arrangement II\obj\Debug\netcoreapp3.1\Beautiful Arrangement II.genruntimeconfig.cache
