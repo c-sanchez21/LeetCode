@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31105.61
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Number of Connected Components in an Undirected Graph", "Number of Connected Components in an Undirected Graph\Number of Connected Components in an Undirected Graph.csproj", "{44C9FBA4-F5BC-4E7B-B2B0-5CE8458F390C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{44C9FBA4-F5BC-4E7B-B2B0-5CE8458F390C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{44C9FBA4-F5BC-4E7B-B2B0-5CE8458F390C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{44C9FBA4-F5BC-4E7B-B2B0-5CE8458F390C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{44C9FBA4-F5BC-4E7B-B2B0-5CE8458F390C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3D34928E-08C0-4495-AA9B-60A241E4D73A}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,7 @@
+C:\Users\Z\source\repos\Git\LeetCode\Construct Target Array With Multiple Sums\Construct Target Array With Multiple Sums\bin\Debug\Construct Target Array With Multiple Sums.exe.config
+C:\Users\Z\source\repos\Git\LeetCode\Construct Target Array With Multiple Sums\Construct Target Array With Multiple Sums\bin\Debug\Construct Target Array With Multiple Sums.exe
+C:\Users\Z\source\repos\Git\LeetCode\Construct Target Array With Multiple Sums\Construct Target Array With Multiple Sums\bin\Debug\Construct Target Array With Multiple Sums.pdb
+C:\Users\Z\source\repos\Git\LeetCode\Construct Target Array With Multiple Sums\Construct Target Array With Multiple Sums\obj\Debug\Construct Target Array With Multiple Sums.csprojAssemblyReference.cache
+C:\Users\Z\source\repos\Git\LeetCode\Construct Target Array With Multiple Sums\Construct Target Array With Multiple Sums\obj\Debug\Construct Target Array With Multiple Sums.csproj.CoreCompileInputs.cache
+C:\Users\Z\source\repos\Git\LeetCode\Construct Target Array With Multiple Sums\Construct Target Array With Multiple Sums\obj\Debug\Construct Target Array With Multiple Sums.exe
+C:\Users\Z\source\repos\Git\LeetCode\Construct Target Array With Multiple Sums\Construct Target Array With Multiple Sums\obj\Debug\Construct Target Array With Multiple Sums.pdb

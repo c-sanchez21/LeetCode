@@ -1,0 +1,13 @@
+C:\Users\Z\source\repos\Git\LeetCode\Maximum Points You Can Obtain from Cards\Maximum Points You Can Obtain from Cards\bin\Debug\netcoreapp3.1\Maximum Points You Can Obtain from Cards.exe
+C:\Users\Z\source\repos\Git\LeetCode\Maximum Points You Can Obtain from Cards\Maximum Points You Can Obtain from Cards\bin\Debug\netcoreapp3.1\Maximum Points You Can Obtain from Cards.deps.json
+C:\Users\Z\source\repos\Git\LeetCode\Maximum Points You Can Obtain from Cards\Maximum Points You Can Obtain from Cards\bin\Debug\netcoreapp3.1\Maximum Points You Can Obtain from Cards.runtimeconfig.json
+C:\Users\Z\source\repos\Git\LeetCode\Maximum Points You Can Obtain from Cards\Maximum Points You Can Obtain from Cards\bin\Debug\netcoreapp3.1\Maximum Points You Can Obtain from Cards.runtimeconfig.dev.json
+C:\Users\Z\source\repos\Git\LeetCode\Maximum Points You Can Obtain from Cards\Maximum Points You Can Obtain from Cards\bin\Debug\netcoreapp3.1\Maximum Points You Can Obtain from Cards.dll
+C:\Users\Z\source\repos\Git\LeetCode\Maximum Points You Can Obtain from Cards\Maximum Points You Can Obtain from Cards\bin\Debug\netcoreapp3.1\Maximum Points You Can Obtain from Cards.pdb
+C:\Users\Z\source\repos\Git\LeetCode\Maximum Points You Can Obtain from Cards\Maximum Points You Can Obtain from Cards\obj\Debug\netcoreapp3.1\Maximum Points You Can Obtain from Cards.csprojAssemblyReference.cache
+C:\Users\Z\source\repos\Git\LeetCode\Maximum Points You Can Obtain from Cards\Maximum Points You Can Obtain from Cards\obj\Debug\netcoreapp3.1\Maximum Points You Can Obtain from Cards.AssemblyInfoInputs.cache
+C:\Users\Z\source\repos\Git\LeetCode\Maximum Points You Can Obtain from Cards\Maximum Points You Can Obtain from Cards\obj\Debug\netcoreapp3.1\Maximum Points You Can Obtain from Cards.AssemblyInfo.cs
+C:\Users\Z\source\repos\Git\LeetCode\Maximum Points You Can Obtain from Cards\Maximum Points You Can Obtain from Cards\obj\Debug\netcoreapp3.1\Maximum Points You Can Obtain from Cards.csproj.CoreCompileInputs.cache
+C:\Users\Z\source\repos\Git\LeetCode\Maximum Points You Can Obtain from Cards\Maximum Points You Can Obtain from Cards\obj\Debug\netcoreapp3.1\Maximum Points You Can Obtain from Cards.dll
+C:\Users\Z\source\repos\Git\LeetCode\Maximum Points You Can Obtain from Cards\Maximum Points You Can Obtain from Cards\obj\Debug\netcoreapp3.1\Maximum Points You Can Obtain from Cards.pdb
+C:\Users\Z\source\repos\Git\LeetCode\Maximum Points You Can Obtain from Cards\Maximum Points You Can Obtain from Cards\obj\Debug\netcoreapp3.1\Maximum Points You Can Obtain from Cards.genruntimeconfig.cache
