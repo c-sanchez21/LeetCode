@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Put Boxes Into the Warehouse I/1.0.0": {
+        "runtime": {
+          "Put Boxes Into the Warehouse I.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Put Boxes Into the Warehouse I/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
