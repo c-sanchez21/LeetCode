@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Kth Smallest Element in a Sorted Matrix/1.0.0": {
+        "runtime": {
+          "Kth Smallest Element in a Sorted Matrix.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Kth Smallest Element in a Sorted Matrix/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

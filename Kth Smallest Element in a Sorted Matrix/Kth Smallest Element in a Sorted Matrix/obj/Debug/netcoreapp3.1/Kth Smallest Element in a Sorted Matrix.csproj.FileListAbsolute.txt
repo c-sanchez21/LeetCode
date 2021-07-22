@@ -1,0 +1,13 @@
+C:\Users\Z\source\repos\Git\LeetCode\Kth Smallest Element in a Sorted Matrix\Kth Smallest Element in a Sorted Matrix\obj\Debug\netcoreapp3.1\Kth Smallest Element in a Sorted Matrix.csproj.AssemblyReference.cache
+C:\Users\Z\source\repos\Git\LeetCode\Kth Smallest Element in a Sorted Matrix\Kth Smallest Element in a Sorted Matrix\obj\Debug\netcoreapp3.1\Kth Smallest Element in a Sorted Matrix.AssemblyInfoInputs.cache
+C:\Users\Z\source\repos\Git\LeetCode\Kth Smallest Element in a Sorted Matrix\Kth Smallest Element in a Sorted Matrix\obj\Debug\netcoreapp3.1\Kth Smallest Element in a Sorted Matrix.AssemblyInfo.cs
+C:\Users\Z\source\repos\Git\LeetCode\Kth Smallest Element in a Sorted Matrix\Kth Smallest Element in a Sorted Matrix\obj\Debug\netcoreapp3.1\Kth Smallest Element in a Sorted Matrix.csproj.CoreCompileInputs.cache
+C:\Users\Z\source\repos\Git\LeetCode\Kth Smallest Element in a Sorted Matrix\Kth Smallest Element in a Sorted Matrix\bin\Debug\netcoreapp3.1\Kth Smallest Element in a Sorted Matrix.exe
+C:\Users\Z\source\repos\Git\LeetCode\Kth Smallest Element in a Sorted Matrix\Kth Smallest Element in a Sorted Matrix\bin\Debug\netcoreapp3.1\Kth Smallest Element in a Sorted Matrix.deps.json
+C:\Users\Z\source\repos\Git\LeetCode\Kth Smallest Element in a Sorted Matrix\Kth Smallest Element in a Sorted Matrix\bin\Debug\netcoreapp3.1\Kth Smallest Element in a Sorted Matrix.runtimeconfig.json
+C:\Users\Z\source\repos\Git\LeetCode\Kth Smallest Element in a Sorted Matrix\Kth Smallest Element in a Sorted Matrix\bin\Debug\netcoreapp3.1\Kth Smallest Element in a Sorted Matrix.runtimeconfig.dev.json
+C:\Users\Z\source\repos\Git\LeetCode\Kth Smallest Element in a Sorted Matrix\Kth Smallest Element in a Sorted Matrix\bin\Debug\netcoreapp3.1\Kth Smallest Element in a Sorted Matrix.dll
+C:\Users\Z\source\repos\Git\LeetCode\Kth Smallest Element in a Sorted Matrix\Kth Smallest Element in a Sorted Matrix\bin\Debug\netcoreapp3.1\Kth Smallest Element in a Sorted Matrix.pdb
+C:\Users\Z\source\repos\Git\LeetCode\Kth Smallest Element in a Sorted Matrix\Kth Smallest Element in a Sorted Matrix\obj\Debug\netcoreapp3.1\Kth Smallest Element in a Sorted Matrix.dll
+C:\Users\Z\source\repos\Git\LeetCode\Kth Smallest Element in a Sorted Matrix\Kth Smallest Element in a Sorted Matrix\obj\Debug\netcoreapp3.1\Kth Smallest Element in a Sorted Matrix.pdb
+C:\Users\Z\source\repos\Git\LeetCode\Kth Smallest Element in a Sorted Matrix\Kth Smallest Element in a Sorted Matrix\obj\Debug\netcoreapp3.1\Kth Smallest Element in a Sorted Matrix.genruntimeconfig.cache
