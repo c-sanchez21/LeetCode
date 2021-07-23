@@ -1,0 +1,13 @@
+C:\Users\Z\source\repos\Git\LeetCode\Partition Array into Disjoint Intervals\Partition Array into Disjoint Intervals\bin\Debug\netcoreapp3.1\Partition Array into Disjoint Intervals.exe
+C:\Users\Z\source\repos\Git\LeetCode\Partition Array into Disjoint Intervals\Partition Array into Disjoint Intervals\bin\Debug\netcoreapp3.1\Partition Array into Disjoint Intervals.deps.json
+C:\Users\Z\source\repos\Git\LeetCode\Partition Array into Disjoint Intervals\Partition Array into Disjoint Intervals\bin\Debug\netcoreapp3.1\Partition Array into Disjoint Intervals.runtimeconfig.json
+C:\Users\Z\source\repos\Git\LeetCode\Partition Array into Disjoint Intervals\Partition Array into Disjoint Intervals\bin\Debug\netcoreapp3.1\Partition Array into Disjoint Intervals.runtimeconfig.dev.json
+C:\Users\Z\source\repos\Git\LeetCode\Partition Array into Disjoint Intervals\Partition Array into Disjoint Intervals\bin\Debug\netcoreapp3.1\Partition Array into Disjoint Intervals.dll
+C:\Users\Z\source\repos\Git\LeetCode\Partition Array into Disjoint Intervals\Partition Array into Disjoint Intervals\bin\Debug\netcoreapp3.1\Partition Array into Disjoint Intervals.pdb
+C:\Users\Z\source\repos\Git\LeetCode\Partition Array into Disjoint Intervals\Partition Array into Disjoint Intervals\obj\Debug\netcoreapp3.1\Partition Array into Disjoint Intervals.csproj.AssemblyReference.cache
+C:\Users\Z\source\repos\Git\LeetCode\Partition Array into Disjoint Intervals\Partition Array into Disjoint Intervals\obj\Debug\netcoreapp3.1\Partition Array into Disjoint Intervals.AssemblyInfoInputs.cache
+C:\Users\Z\source\repos\Git\LeetCode\Partition Array into Disjoint Intervals\Partition Array into Disjoint Intervals\obj\Debug\netcoreapp3.1\Partition Array into Disjoint Intervals.AssemblyInfo.cs
+C:\Users\Z\source\repos\Git\LeetCode\Partition Array into Disjoint Intervals\Partition Array into Disjoint Intervals\obj\Debug\netcoreapp3.1\Partition Array into Disjoint Intervals.csproj.CoreCompileInputs.cache
+C:\Users\Z\source\repos\Git\LeetCode\Partition Array into Disjoint Intervals\Partition Array into Disjoint Intervals\obj\Debug\netcoreapp3.1\Partition Array into Disjoint Intervals.dll
+C:\Users\Z\source\repos\Git\LeetCode\Partition Array into Disjoint Intervals\Partition Array into Disjoint Intervals\obj\Debug\netcoreapp3.1\Partition Array into Disjoint Intervals.pdb
+C:\Users\Z\source\repos\Git\LeetCode\Partition Array into Disjoint Intervals\Partition Array into Disjoint Intervals\obj\Debug\netcoreapp3.1\Partition Array into Disjoint Intervals.genruntimeconfig.cache
