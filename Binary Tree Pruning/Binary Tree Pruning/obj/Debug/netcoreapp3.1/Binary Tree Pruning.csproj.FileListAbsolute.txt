@@ -1,0 +1,13 @@
+C:\Users\Z\source\repos\Git\LeetCode\Binary Tree Pruning\Binary Tree Pruning\bin\Debug\netcoreapp3.1\Binary Tree Pruning.exe
+C:\Users\Z\source\repos\Git\LeetCode\Binary Tree Pruning\Binary Tree Pruning\bin\Debug\netcoreapp3.1\Binary Tree Pruning.deps.json
+C:\Users\Z\source\repos\Git\LeetCode\Binary Tree Pruning\Binary Tree Pruning\bin\Debug\netcoreapp3.1\Binary Tree Pruning.runtimeconfig.json
+C:\Users\Z\source\repos\Git\LeetCode\Binary Tree Pruning\Binary Tree Pruning\bin\Debug\netcoreapp3.1\Binary Tree Pruning.runtimeconfig.dev.json
+C:\Users\Z\source\repos\Git\LeetCode\Binary Tree Pruning\Binary Tree Pruning\bin\Debug\netcoreapp3.1\Binary Tree Pruning.dll
+C:\Users\Z\source\repos\Git\LeetCode\Binary Tree Pruning\Binary Tree Pruning\bin\Debug\netcoreapp3.1\Binary Tree Pruning.pdb
+C:\Users\Z\source\repos\Git\LeetCode\Binary Tree Pruning\Binary Tree Pruning\obj\Debug\netcoreapp3.1\Binary Tree Pruning.csproj.AssemblyReference.cache
+C:\Users\Z\source\repos\Git\LeetCode\Binary Tree Pruning\Binary Tree Pruning\obj\Debug\netcoreapp3.1\Binary Tree Pruning.AssemblyInfoInputs.cache
+C:\Users\Z\source\repos\Git\LeetCode\Binary Tree Pruning\Binary Tree Pruning\obj\Debug\netcoreapp3.1\Binary Tree Pruning.AssemblyInfo.cs
+C:\Users\Z\source\repos\Git\LeetCode\Binary Tree Pruning\Binary Tree Pruning\obj\Debug\netcoreapp3.1\Binary Tree Pruning.csproj.CoreCompileInputs.cache
+C:\Users\Z\source\repos\Git\LeetCode\Binary Tree Pruning\Binary Tree Pruning\obj\Debug\netcoreapp3.1\Binary Tree Pruning.dll
+C:\Users\Z\source\repos\Git\LeetCode\Binary Tree Pruning\Binary Tree Pruning\obj\Debug\netcoreapp3.1\Binary Tree Pruning.pdb
+C:\Users\Z\source\repos\Git\LeetCode\Binary Tree Pruning\Binary Tree Pruning\obj\Debug\netcoreapp3.1\Binary Tree Pruning.genruntimeconfig.cache
