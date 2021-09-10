@@ -1,0 +1,13 @@
+C:\Users\Z\source\repos\Git\LeetCode\Largest Plus Sign\Largest Plus Sign\bin\Debug\netcoreapp3.1\Largest Plus Sign.exe
+C:\Users\Z\source\repos\Git\LeetCode\Largest Plus Sign\Largest Plus Sign\bin\Debug\netcoreapp3.1\Largest Plus Sign.deps.json
+C:\Users\Z\source\repos\Git\LeetCode\Largest Plus Sign\Largest Plus Sign\bin\Debug\netcoreapp3.1\Largest Plus Sign.runtimeconfig.json
+C:\Users\Z\source\repos\Git\LeetCode\Largest Plus Sign\Largest Plus Sign\bin\Debug\netcoreapp3.1\Largest Plus Sign.runtimeconfig.dev.json
+C:\Users\Z\source\repos\Git\LeetCode\Largest Plus Sign\Largest Plus Sign\bin\Debug\netcoreapp3.1\Largest Plus Sign.dll
+C:\Users\Z\source\repos\Git\LeetCode\Largest Plus Sign\Largest Plus Sign\bin\Debug\netcoreapp3.1\Largest Plus Sign.pdb
+C:\Users\Z\source\repos\Git\LeetCode\Largest Plus Sign\Largest Plus Sign\obj\Debug\netcoreapp3.1\Largest Plus Sign.csproj.AssemblyReference.cache
+C:\Users\Z\source\repos\Git\LeetCode\Largest Plus Sign\Largest Plus Sign\obj\Debug\netcoreapp3.1\Largest Plus Sign.AssemblyInfoInputs.cache
+C:\Users\Z\source\repos\Git\LeetCode\Largest Plus Sign\Largest Plus Sign\obj\Debug\netcoreapp3.1\Largest Plus Sign.AssemblyInfo.cs
+C:\Users\Z\source\repos\Git\LeetCode\Largest Plus Sign\Largest Plus Sign\obj\Debug\netcoreapp3.1\Largest Plus Sign.csproj.CoreCompileInputs.cache
+C:\Users\Z\source\repos\Git\LeetCode\Largest Plus Sign\Largest Plus Sign\obj\Debug\netcoreapp3.1\Largest Plus Sign.dll
+C:\Users\Z\source\repos\Git\LeetCode\Largest Plus Sign\Largest Plus Sign\obj\Debug\netcoreapp3.1\Largest Plus Sign.pdb
+C:\Users\Z\source\repos\Git\LeetCode\Largest Plus Sign\Largest Plus Sign\obj\Debug\netcoreapp3.1\Largest Plus Sign.genruntimeconfig.cache
