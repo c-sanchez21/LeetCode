@@ -1,0 +1,13 @@
+C:\Users\Z\source\repos\Git\LeetCode\Maximum Number of Balloons\Maximum Number of Balloons\bin\Debug\netcoreapp3.1\Maximum Number of Balloons.exe
+C:\Users\Z\source\repos\Git\LeetCode\Maximum Number of Balloons\Maximum Number of Balloons\bin\Debug\netcoreapp3.1\Maximum Number of Balloons.deps.json
+C:\Users\Z\source\repos\Git\LeetCode\Maximum Number of Balloons\Maximum Number of Balloons\bin\Debug\netcoreapp3.1\Maximum Number of Balloons.runtimeconfig.json
+C:\Users\Z\source\repos\Git\LeetCode\Maximum Number of Balloons\Maximum Number of Balloons\bin\Debug\netcoreapp3.1\Maximum Number of Balloons.runtimeconfig.dev.json
+C:\Users\Z\source\repos\Git\LeetCode\Maximum Number of Balloons\Maximum Number of Balloons\bin\Debug\netcoreapp3.1\Maximum Number of Balloons.dll
+C:\Users\Z\source\repos\Git\LeetCode\Maximum Number of Balloons\Maximum Number of Balloons\bin\Debug\netcoreapp3.1\Maximum Number of Balloons.pdb
+C:\Users\Z\source\repos\Git\LeetCode\Maximum Number of Balloons\Maximum Number of Balloons\obj\Debug\netcoreapp3.1\Maximum Number of Balloons.csproj.AssemblyReference.cache
+C:\Users\Z\source\repos\Git\LeetCode\Maximum Number of Balloons\Maximum Number of Balloons\obj\Debug\netcoreapp3.1\Maximum Number of Balloons.AssemblyInfoInputs.cache
+C:\Users\Z\source\repos\Git\LeetCode\Maximum Number of Balloons\Maximum Number of Balloons\obj\Debug\netcoreapp3.1\Maximum Number of Balloons.AssemblyInfo.cs
+C:\Users\Z\source\repos\Git\LeetCode\Maximum Number of Balloons\Maximum Number of Balloons\obj\Debug\netcoreapp3.1\Maximum Number of Balloons.csproj.CoreCompileInputs.cache
+C:\Users\Z\source\repos\Git\LeetCode\Maximum Number of Balloons\Maximum Number of Balloons\obj\Debug\netcoreapp3.1\Maximum Number of Balloons.dll
+C:\Users\Z\source\repos\Git\LeetCode\Maximum Number of Balloons\Maximum Number of Balloons\obj\Debug\netcoreapp3.1\Maximum Number of Balloons.pdb
+C:\Users\Z\source\repos\Git\LeetCode\Maximum Number of Balloons\Maximum Number of Balloons\obj\Debug\netcoreapp3.1\Maximum Number of Balloons.genruntimeconfig.cache
