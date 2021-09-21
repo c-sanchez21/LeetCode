@@ -1,0 +1,13 @@
+C:\Users\Z\source\repos\Git\LeetCode\Max Consecutive Ones\Max Consecutive Ones\bin\Debug\netcoreapp3.1\Max Consecutive Ones.exe
+C:\Users\Z\source\repos\Git\LeetCode\Max Consecutive Ones\Max Consecutive Ones\bin\Debug\netcoreapp3.1\Max Consecutive Ones.deps.json
+C:\Users\Z\source\repos\Git\LeetCode\Max Consecutive Ones\Max Consecutive Ones\bin\Debug\netcoreapp3.1\Max Consecutive Ones.runtimeconfig.json
+C:\Users\Z\source\repos\Git\LeetCode\Max Consecutive Ones\Max Consecutive Ones\bin\Debug\netcoreapp3.1\Max Consecutive Ones.runtimeconfig.dev.json
+C:\Users\Z\source\repos\Git\LeetCode\Max Consecutive Ones\Max Consecutive Ones\bin\Debug\netcoreapp3.1\Max Consecutive Ones.dll
+C:\Users\Z\source\repos\Git\LeetCode\Max Consecutive Ones\Max Consecutive Ones\bin\Debug\netcoreapp3.1\Max Consecutive Ones.pdb
+C:\Users\Z\source\repos\Git\LeetCode\Max Consecutive Ones\Max Consecutive Ones\obj\Debug\netcoreapp3.1\Max Consecutive Ones.csproj.AssemblyReference.cache
+C:\Users\Z\source\repos\Git\LeetCode\Max Consecutive Ones\Max Consecutive Ones\obj\Debug\netcoreapp3.1\Max Consecutive Ones.AssemblyInfoInputs.cache
+C:\Users\Z\source\repos\Git\LeetCode\Max Consecutive Ones\Max Consecutive Ones\obj\Debug\netcoreapp3.1\Max Consecutive Ones.AssemblyInfo.cs
+C:\Users\Z\source\repos\Git\LeetCode\Max Consecutive Ones\Max Consecutive Ones\obj\Debug\netcoreapp3.1\Max Consecutive Ones.csproj.CoreCompileInputs.cache
+C:\Users\Z\source\repos\Git\LeetCode\Max Consecutive Ones\Max Consecutive Ones\obj\Debug\netcoreapp3.1\Max Consecutive Ones.dll
+C:\Users\Z\source\repos\Git\LeetCode\Max Consecutive Ones\Max Consecutive Ones\obj\Debug\netcoreapp3.1\Max Consecutive Ones.pdb
+C:\Users\Z\source\repos\Git\LeetCode\Max Consecutive Ones\Max Consecutive Ones\obj\Debug\netcoreapp3.1\Max Consecutive Ones.genruntimeconfig.cache
