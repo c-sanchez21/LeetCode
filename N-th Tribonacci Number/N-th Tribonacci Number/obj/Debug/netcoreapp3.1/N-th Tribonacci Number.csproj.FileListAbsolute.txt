@@ -1,0 +1,13 @@
+C:\Users\Z\source\repos\Git\LeetCode\N-th Tribonacci Number\N-th Tribonacci Number\bin\Debug\netcoreapp3.1\N-th Tribonacci Number.exe
+C:\Users\Z\source\repos\Git\LeetCode\N-th Tribonacci Number\N-th Tribonacci Number\bin\Debug\netcoreapp3.1\N-th Tribonacci Number.deps.json
+C:\Users\Z\source\repos\Git\LeetCode\N-th Tribonacci Number\N-th Tribonacci Number\bin\Debug\netcoreapp3.1\N-th Tribonacci Number.runtimeconfig.json
+C:\Users\Z\source\repos\Git\LeetCode\N-th Tribonacci Number\N-th Tribonacci Number\bin\Debug\netcoreapp3.1\N-th Tribonacci Number.runtimeconfig.dev.json
+C:\Users\Z\source\repos\Git\LeetCode\N-th Tribonacci Number\N-th Tribonacci Number\bin\Debug\netcoreapp3.1\N-th Tribonacci Number.dll
+C:\Users\Z\source\repos\Git\LeetCode\N-th Tribonacci Number\N-th Tribonacci Number\bin\Debug\netcoreapp3.1\N-th Tribonacci Number.pdb
+C:\Users\Z\source\repos\Git\LeetCode\N-th Tribonacci Number\N-th Tribonacci Number\obj\Debug\netcoreapp3.1\N-th Tribonacci Number.csproj.AssemblyReference.cache
+C:\Users\Z\source\repos\Git\LeetCode\N-th Tribonacci Number\N-th Tribonacci Number\obj\Debug\netcoreapp3.1\N-th Tribonacci Number.AssemblyInfoInputs.cache
+C:\Users\Z\source\repos\Git\LeetCode\N-th Tribonacci Number\N-th Tribonacci Number\obj\Debug\netcoreapp3.1\N-th Tribonacci Number.AssemblyInfo.cs
+C:\Users\Z\source\repos\Git\LeetCode\N-th Tribonacci Number\N-th Tribonacci Number\obj\Debug\netcoreapp3.1\N-th Tribonacci Number.csproj.CoreCompileInputs.cache
+C:\Users\Z\source\repos\Git\LeetCode\N-th Tribonacci Number\N-th Tribonacci Number\obj\Debug\netcoreapp3.1\N-th Tribonacci Number.dll
+C:\Users\Z\source\repos\Git\LeetCode\N-th Tribonacci Number\N-th Tribonacci Number\obj\Debug\netcoreapp3.1\N-th Tribonacci Number.pdb
+C:\Users\Z\source\repos\Git\LeetCode\N-th Tribonacci Number\N-th Tribonacci Number\obj\Debug\netcoreapp3.1\N-th Tribonacci Number.genruntimeconfig.cache
