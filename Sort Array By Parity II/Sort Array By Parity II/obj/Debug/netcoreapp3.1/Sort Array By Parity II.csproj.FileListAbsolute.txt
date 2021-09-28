@@ -1,0 +1,13 @@
+C:\Users\Z\source\repos\Git\LeetCode\Sort Array By Parity II\Sort Array By Parity II\bin\Debug\netcoreapp3.1\Sort Array By Parity II.exe
+C:\Users\Z\source\repos\Git\LeetCode\Sort Array By Parity II\Sort Array By Parity II\bin\Debug\netcoreapp3.1\Sort Array By Parity II.deps.json
+C:\Users\Z\source\repos\Git\LeetCode\Sort Array By Parity II\Sort Array By Parity II\bin\Debug\netcoreapp3.1\Sort Array By Parity II.runtimeconfig.json
+C:\Users\Z\source\repos\Git\LeetCode\Sort Array By Parity II\Sort Array By Parity II\bin\Debug\netcoreapp3.1\Sort Array By Parity II.runtimeconfig.dev.json
+C:\Users\Z\source\repos\Git\LeetCode\Sort Array By Parity II\Sort Array By Parity II\bin\Debug\netcoreapp3.1\Sort Array By Parity II.dll
+C:\Users\Z\source\repos\Git\LeetCode\Sort Array By Parity II\Sort Array By Parity II\bin\Debug\netcoreapp3.1\Sort Array By Parity II.pdb
+C:\Users\Z\source\repos\Git\LeetCode\Sort Array By Parity II\Sort Array By Parity II\obj\Debug\netcoreapp3.1\Sort Array By Parity II.csproj.AssemblyReference.cache
+C:\Users\Z\source\repos\Git\LeetCode\Sort Array By Parity II\Sort Array By Parity II\obj\Debug\netcoreapp3.1\Sort Array By Parity II.AssemblyInfoInputs.cache
+C:\Users\Z\source\repos\Git\LeetCode\Sort Array By Parity II\Sort Array By Parity II\obj\Debug\netcoreapp3.1\Sort Array By Parity II.AssemblyInfo.cs
+C:\Users\Z\source\repos\Git\LeetCode\Sort Array By Parity II\Sort Array By Parity II\obj\Debug\netcoreapp3.1\Sort Array By Parity II.csproj.CoreCompileInputs.cache
+C:\Users\Z\source\repos\Git\LeetCode\Sort Array By Parity II\Sort Array By Parity II\obj\Debug\netcoreapp3.1\Sort Array By Parity II.dll
+C:\Users\Z\source\repos\Git\LeetCode\Sort Array By Parity II\Sort Array By Parity II\obj\Debug\netcoreapp3.1\Sort Array By Parity II.pdb
+C:\Users\Z\source\repos\Git\LeetCode\Sort Array By Parity II\Sort Array By Parity II\obj\Debug\netcoreapp3.1\Sort Array By Parity II.genruntimeconfig.cache
