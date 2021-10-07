@@ -6,6 +6,7 @@ namespace Sort_Array_By_Parity_II
     class Program
     {
         //https://leetcode.com/explore/challenge/card/september-leetcoding-challenge-2021/639/week-4-september-22nd-september-28th/3990/
+
         static void Main(string[] args)
         {
             int[] ans = SortArrayByParityII(new int[] { 4, 2, 5, 7 });
