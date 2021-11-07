@@ -1,0 +1,13 @@
+C:\Users\Z\source\repos\Git\LeetCode\43. Multiply Strings\43. Multiply Strings\bin\Debug\netcoreapp3.1\43. Multiply Strings.exe
+C:\Users\Z\source\repos\Git\LeetCode\43. Multiply Strings\43. Multiply Strings\bin\Debug\netcoreapp3.1\43. Multiply Strings.deps.json
+C:\Users\Z\source\repos\Git\LeetCode\43. Multiply Strings\43. Multiply Strings\bin\Debug\netcoreapp3.1\43. Multiply Strings.runtimeconfig.json
+C:\Users\Z\source\repos\Git\LeetCode\43. Multiply Strings\43. Multiply Strings\bin\Debug\netcoreapp3.1\43. Multiply Strings.runtimeconfig.dev.json
+C:\Users\Z\source\repos\Git\LeetCode\43. Multiply Strings\43. Multiply Strings\bin\Debug\netcoreapp3.1\43. Multiply Strings.dll
+C:\Users\Z\source\repos\Git\LeetCode\43. Multiply Strings\43. Multiply Strings\bin\Debug\netcoreapp3.1\43. Multiply Strings.pdb
+C:\Users\Z\source\repos\Git\LeetCode\43. Multiply Strings\43. Multiply Strings\obj\Debug\netcoreapp3.1\43. Multiply Strings.csproj.AssemblyReference.cache
+C:\Users\Z\source\repos\Git\LeetCode\43. Multiply Strings\43. Multiply Strings\obj\Debug\netcoreapp3.1\43. Multiply Strings.AssemblyInfoInputs.cache
+C:\Users\Z\source\repos\Git\LeetCode\43. Multiply Strings\43. Multiply Strings\obj\Debug\netcoreapp3.1\43. Multiply Strings.AssemblyInfo.cs
+C:\Users\Z\source\repos\Git\LeetCode\43. Multiply Strings\43. Multiply Strings\obj\Debug\netcoreapp3.1\43. Multiply Strings.csproj.CoreCompileInputs.cache
+C:\Users\Z\source\repos\Git\LeetCode\43. Multiply Strings\43. Multiply Strings\obj\Debug\netcoreapp3.1\43. Multiply Strings.dll
+C:\Users\Z\source\repos\Git\LeetCode\43. Multiply Strings\43. Multiply Strings\obj\Debug\netcoreapp3.1\43. Multiply Strings.pdb
+C:\Users\Z\source\repos\Git\LeetCode\43. Multiply Strings\43. Multiply Strings\obj\Debug\netcoreapp3.1\43. Multiply Strings.genruntimeconfig.cache
