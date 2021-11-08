@@ -5,61 +5,43 @@ namespace _43._Multiply_Strings
 {
     class Program
     {
+        //https://leetcode.com/problems/multiply-strings/
         static void Main(string[] args)
         {
-            /*
             Console.WriteLine(Multiply("2", "3"));
             Console.WriteLine(Multiply("123", "456"));
             Console.WriteLine(Multiply("111", "3"));
             Console.WriteLine(Multiply("3", "333"));
-            */
             Console.WriteLine(Multiply("99", "99"));
+            Console.WriteLine(Multiply("999", "999"));
         }
 
-        //TODO: Currently Fails for "99" x "99" 
         public static string Multiply(string num1, string num2)
         {
-            if (string.IsNullOrEmpty(num1) || String.IsNullOrEmpty(num2)) return null;
             if (num1 == "0" || num2 == "0") return "0";
 
-            string top = Reverse(num1);
-            string bot = Reverse(num2);
-            StringBuilder ans = new StringBuilder("");
-            for (int i = 0; i < top.Length + bot.Length; i++)
-                ans.Append("0");
-            int idx;//Index - Cur position in the answer
-                   
-            int digit1, digit2; 
-            for(int i = 0; i < top.Length; i++)
+            int len1 = num1.Length;
+            int len2 = num2.Length;
+            int len = len1 + len2;
+            int[] product = new int[len];
+            for (int i = len1 - 1; i >= 0; i--)
             {
-                digit1 = (int) char.GetNumericValue(top[i]);
-                for (int j = 0; j < bot.Length; j++)
+                int digit1 = (int)Char.GetNumericValue(num1[i]);
+                for (int j = len2 - 1; j >= 0; j--)
                 {
-                    digit2 = (int)char.GetNumericValue(bot[j]);
-
-                    idx = i + j;
-                    int carry = (int)Char.GetNumericValue(ans[idx]);
-                    int mult = digit1 * digit2 + carry;
-                    ans[idx] = (mult % 10).ToString()[0];
-                    int val = (int)Char.GetNumericValue(ans[idx + 1]);
-                    val += mult / 10;                    
-                    ans[idx + 1] = val.ToString()[0];
+                    int digit2 = (int)Char.GetNumericValue(num2[j]);
+                    int idx = i + j + 1;
+                    int mult = digit1 * digit2 + product[idx];
+                    product[idx] = mult % 10;
+                    product[idx - 1] += mult / 10;
                 }
             }
 
-            //Remove leading zeroes
-            while (ans[ans.Length - 1] == '0')
-                ans.Remove(ans.Length - 1, 1);
-
-            return Reverse(ans.ToString());
-        }
-
-        public static string Reverse(string s)
-        {
-            char[] cArray = s.ToCharArray();
-            Array.Reverse(cArray);
-            string rev = new string(cArray);
-            return rev;
+            int start = product[0] != 0 ? 0 : 1;
+            StringBuilder result = new StringBuilder();
+            for (int i = start; i < len; i++)
+                result.Append(product[i]);
+            return result.ToString();
         }
     }
 }
