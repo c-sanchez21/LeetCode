@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "96. Unique Binary Search Trees/1.0.0": {
+        "runtime": {
+          "96. Unique Binary Search Trees.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "96. Unique Binary Search Trees/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

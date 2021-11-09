@@ -1,0 +1,13 @@
+C:\Users\Z\source\repos\Git\LeetCode\96. Unique Binary Search Trees\96. Unique Binary Search Trees\bin\Debug\netcoreapp3.1\96. Unique Binary Search Trees.exe
+C:\Users\Z\source\repos\Git\LeetCode\96. Unique Binary Search Trees\96. Unique Binary Search Trees\bin\Debug\netcoreapp3.1\96. Unique Binary Search Trees.deps.json
+C:\Users\Z\source\repos\Git\LeetCode\96. Unique Binary Search Trees\96. Unique Binary Search Trees\bin\Debug\netcoreapp3.1\96. Unique Binary Search Trees.runtimeconfig.json
+C:\Users\Z\source\repos\Git\LeetCode\96. Unique Binary Search Trees\96. Unique Binary Search Trees\bin\Debug\netcoreapp3.1\96. Unique Binary Search Trees.runtimeconfig.dev.json
+C:\Users\Z\source\repos\Git\LeetCode\96. Unique Binary Search Trees\96. Unique Binary Search Trees\bin\Debug\netcoreapp3.1\96. Unique Binary Search Trees.dll
+C:\Users\Z\source\repos\Git\LeetCode\96. Unique Binary Search Trees\96. Unique Binary Search Trees\bin\Debug\netcoreapp3.1\96. Unique Binary Search Trees.pdb
+C:\Users\Z\source\repos\Git\LeetCode\96. Unique Binary Search Trees\96. Unique Binary Search Trees\obj\Debug\netcoreapp3.1\96. Unique Binary Search Trees.csproj.AssemblyReference.cache
+C:\Users\Z\source\repos\Git\LeetCode\96. Unique Binary Search Trees\96. Unique Binary Search Trees\obj\Debug\netcoreapp3.1\96. Unique Binary Search Trees.AssemblyInfoInputs.cache
+C:\Users\Z\source\repos\Git\LeetCode\96. Unique Binary Search Trees\96. Unique Binary Search Trees\obj\Debug\netcoreapp3.1\96. Unique Binary Search Trees.AssemblyInfo.cs
+C:\Users\Z\source\repos\Git\LeetCode\96. Unique Binary Search Trees\96. Unique Binary Search Trees\obj\Debug\netcoreapp3.1\96. Unique Binary Search Trees.csproj.CoreCompileInputs.cache
+C:\Users\Z\source\repos\Git\LeetCode\96. Unique Binary Search Trees\96. Unique Binary Search Trees\obj\Debug\netcoreapp3.1\96. Unique Binary Search Trees.dll
+C:\Users\Z\source\repos\Git\LeetCode\96. Unique Binary Search Trees\96. Unique Binary Search Trees\obj\Debug\netcoreapp3.1\96. Unique Binary Search Trees.pdb
+C:\Users\Z\source\repos\Git\LeetCode\96. Unique Binary Search Trees\96. Unique Binary Search Trees\obj\Debug\netcoreapp3.1\96. Unique Binary Search Trees.genruntimeconfig.cache
