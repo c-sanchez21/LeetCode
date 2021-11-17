@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "1413. Minimum Value to Get Positive Step by Step Sum/1.0.0": {
+        "runtime": {
+          "1413. Minimum Value to Get Positive Step by Step Sum.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "1413. Minimum Value to Get Positive Step by Step Sum/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

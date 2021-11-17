@@ -1,0 +1,12 @@
+C:\Users\Z\source\repos\Git\LeetCode\62. Unique Paths\62. Unique Paths\bin\Debug\netcoreapp3.1\62. Unique Paths.exe
+C:\Users\Z\source\repos\Git\LeetCode\62. Unique Paths\62. Unique Paths\bin\Debug\netcoreapp3.1\62. Unique Paths.deps.json
+C:\Users\Z\source\repos\Git\LeetCode\62. Unique Paths\62. Unique Paths\bin\Debug\netcoreapp3.1\62. Unique Paths.runtimeconfig.json
+C:\Users\Z\source\repos\Git\LeetCode\62. Unique Paths\62. Unique Paths\bin\Debug\netcoreapp3.1\62. Unique Paths.runtimeconfig.dev.json
+C:\Users\Z\source\repos\Git\LeetCode\62. Unique Paths\62. Unique Paths\bin\Debug\netcoreapp3.1\62. Unique Paths.dll
+C:\Users\Z\source\repos\Git\LeetCode\62. Unique Paths\62. Unique Paths\bin\Debug\netcoreapp3.1\62. Unique Paths.pdb
+C:\Users\Z\source\repos\Git\LeetCode\62. Unique Paths\62. Unique Paths\obj\Debug\netcoreapp3.1\62. Unique Paths.AssemblyInfoInputs.cache
+C:\Users\Z\source\repos\Git\LeetCode\62. Unique Paths\62. Unique Paths\obj\Debug\netcoreapp3.1\62. Unique Paths.AssemblyInfo.cs
+C:\Users\Z\source\repos\Git\LeetCode\62. Unique Paths\62. Unique Paths\obj\Debug\netcoreapp3.1\62. Unique Paths.csproj.CoreCompileInputs.cache
+C:\Users\Z\source\repos\Git\LeetCode\62. Unique Paths\62. Unique Paths\obj\Debug\netcoreapp3.1\62. Unique Paths.dll
+C:\Users\Z\source\repos\Git\LeetCode\62. Unique Paths\62. Unique Paths\obj\Debug\netcoreapp3.1\62. Unique Paths.pdb
+C:\Users\Z\source\repos\Git\LeetCode\62. Unique Paths\62. Unique Paths\obj\Debug\netcoreapp3.1\62. Unique Paths.genruntimeconfig.cache
