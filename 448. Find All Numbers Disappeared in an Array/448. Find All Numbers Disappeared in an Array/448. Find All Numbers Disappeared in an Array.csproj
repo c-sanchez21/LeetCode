@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>_448._Find_All_Numbers_Disappeared_in_an_Array</RootNamespace>
+  </PropertyGroup>
+
+</Project>

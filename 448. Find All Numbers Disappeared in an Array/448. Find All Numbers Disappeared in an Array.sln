@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31402.337
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "448. Find All Numbers Disappeared in an Array", "448. Find All Numbers Disappeared in an Array\448. Find All Numbers Disappeared in an Array.csproj", "{70C36037-372C-43F9-B663-D884D9406DAB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{70C36037-372C-43F9-B663-D884D9406DAB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{70C36037-372C-43F9-B663-D884D9406DAB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{70C36037-372C-43F9-B663-D884D9406DAB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{70C36037-372C-43F9-B663-D884D9406DAB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CE0F87E8-F6EE-4A74-B92F-361366012704}
+	EndGlobalSection
+EndGlobal

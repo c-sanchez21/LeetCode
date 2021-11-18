@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "448. Find All Numbers Disappeared in an Array/1.0.0": {
+        "runtime": {
+          "448. Find All Numbers Disappeared in an Array.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "448. Find All Numbers Disappeared in an Array/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
