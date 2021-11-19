@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "461. Hamming Distance/1.0.0": {
+        "runtime": {
+          "461. Hamming Distance.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "461. Hamming Distance/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
