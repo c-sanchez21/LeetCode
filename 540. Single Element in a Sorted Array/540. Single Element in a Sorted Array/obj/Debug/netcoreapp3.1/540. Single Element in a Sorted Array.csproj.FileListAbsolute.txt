@@ -1,0 +1,13 @@
+C:\Users\Z\source\repos\Git\LeetCode\540. Single Element in a Sorted Array\540. Single Element in a Sorted Array\bin\Debug\netcoreapp3.1\540. Single Element in a Sorted Array.exe
+C:\Users\Z\source\repos\Git\LeetCode\540. Single Element in a Sorted Array\540. Single Element in a Sorted Array\bin\Debug\netcoreapp3.1\540. Single Element in a Sorted Array.deps.json
+C:\Users\Z\source\repos\Git\LeetCode\540. Single Element in a Sorted Array\540. Single Element in a Sorted Array\bin\Debug\netcoreapp3.1\540. Single Element in a Sorted Array.runtimeconfig.json
+C:\Users\Z\source\repos\Git\LeetCode\540. Single Element in a Sorted Array\540. Single Element in a Sorted Array\bin\Debug\netcoreapp3.1\540. Single Element in a Sorted Array.runtimeconfig.dev.json
+C:\Users\Z\source\repos\Git\LeetCode\540. Single Element in a Sorted Array\540. Single Element in a Sorted Array\bin\Debug\netcoreapp3.1\540. Single Element in a Sorted Array.dll
+C:\Users\Z\source\repos\Git\LeetCode\540. Single Element in a Sorted Array\540. Single Element in a Sorted Array\bin\Debug\netcoreapp3.1\540. Single Element in a Sorted Array.pdb
+C:\Users\Z\source\repos\Git\LeetCode\540. Single Element in a Sorted Array\540. Single Element in a Sorted Array\obj\Debug\netcoreapp3.1\540. Single Element in a Sorted Array.csproj.AssemblyReference.cache
+C:\Users\Z\source\repos\Git\LeetCode\540. Single Element in a Sorted Array\540. Single Element in a Sorted Array\obj\Debug\netcoreapp3.1\540. Single Element in a Sorted Array.AssemblyInfoInputs.cache
+C:\Users\Z\source\repos\Git\LeetCode\540. Single Element in a Sorted Array\540. Single Element in a Sorted Array\obj\Debug\netcoreapp3.1\540. Single Element in a Sorted Array.AssemblyInfo.cs
+C:\Users\Z\source\repos\Git\LeetCode\540. Single Element in a Sorted Array\540. Single Element in a Sorted Array\obj\Debug\netcoreapp3.1\540. Single Element in a Sorted Array.csproj.CoreCompileInputs.cache
+C:\Users\Z\source\repos\Git\LeetCode\540. Single Element in a Sorted Array\540. Single Element in a Sorted Array\obj\Debug\netcoreapp3.1\540. Single Element in a Sorted Array.dll
+C:\Users\Z\source\repos\Git\LeetCode\540. Single Element in a Sorted Array\540. Single Element in a Sorted Array\obj\Debug\netcoreapp3.1\540. Single Element in a Sorted Array.pdb
+C:\Users\Z\source\repos\Git\LeetCode\540. Single Element in a Sorted Array\540. Single Element in a Sorted Array\obj\Debug\netcoreapp3.1\540. Single Element in a Sorted Array.genruntimeconfig.cache

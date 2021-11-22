@@ -1,0 +1,13 @@
+C:\Users\Z\source\repos\Git\LeetCode\106. Construct Binary Tree from Traversal\106. Construct Binary Tree from Traversal\bin\Debug\netcoreapp3.1\106. Construct Binary Tree from Traversal.exe
+C:\Users\Z\source\repos\Git\LeetCode\106. Construct Binary Tree from Traversal\106. Construct Binary Tree from Traversal\bin\Debug\netcoreapp3.1\106. Construct Binary Tree from Traversal.deps.json
+C:\Users\Z\source\repos\Git\LeetCode\106. Construct Binary Tree from Traversal\106. Construct Binary Tree from Traversal\bin\Debug\netcoreapp3.1\106. Construct Binary Tree from Traversal.runtimeconfig.json
+C:\Users\Z\source\repos\Git\LeetCode\106. Construct Binary Tree from Traversal\106. Construct Binary Tree from Traversal\bin\Debug\netcoreapp3.1\106. Construct Binary Tree from Traversal.runtimeconfig.dev.json
+C:\Users\Z\source\repos\Git\LeetCode\106. Construct Binary Tree from Traversal\106. Construct Binary Tree from Traversal\bin\Debug\netcoreapp3.1\106. Construct Binary Tree from Traversal.dll
+C:\Users\Z\source\repos\Git\LeetCode\106. Construct Binary Tree from Traversal\106. Construct Binary Tree from Traversal\bin\Debug\netcoreapp3.1\106. Construct Binary Tree from Traversal.pdb
+C:\Users\Z\source\repos\Git\LeetCode\106. Construct Binary Tree from Traversal\106. Construct Binary Tree from Traversal\obj\Debug\netcoreapp3.1\106. Construct Binary Tree from Traversal.csproj.AssemblyReference.cache
+C:\Users\Z\source\repos\Git\LeetCode\106. Construct Binary Tree from Traversal\106. Construct Binary Tree from Traversal\obj\Debug\netcoreapp3.1\106. Construct Binary Tree from Traversal.AssemblyInfoInputs.cache
+C:\Users\Z\source\repos\Git\LeetCode\106. Construct Binary Tree from Traversal\106. Construct Binary Tree from Traversal\obj\Debug\netcoreapp3.1\106. Construct Binary Tree from Traversal.AssemblyInfo.cs
+C:\Users\Z\source\repos\Git\LeetCode\106. Construct Binary Tree from Traversal\106. Construct Binary Tree from Traversal\obj\Debug\netcoreapp3.1\106. Construct Binary Tree from Traversal.csproj.CoreCompileInputs.cache
+C:\Users\Z\source\repos\Git\LeetCode\106. Construct Binary Tree from Traversal\106. Construct Binary Tree from Traversal\obj\Debug\netcoreapp3.1\106. Construct Binary Tree from Traversal.dll
+C:\Users\Z\source\repos\Git\LeetCode\106. Construct Binary Tree from Traversal\106. Construct Binary Tree from Traversal\obj\Debug\netcoreapp3.1\106. Construct Binary Tree from Traversal.pdb
+C:\Users\Z\source\repos\Git\LeetCode\106. Construct Binary Tree from Traversal\106. Construct Binary Tree from Traversal\obj\Debug\netcoreapp3.1\106. Construct Binary Tree from Traversal.genruntimeconfig.cache
