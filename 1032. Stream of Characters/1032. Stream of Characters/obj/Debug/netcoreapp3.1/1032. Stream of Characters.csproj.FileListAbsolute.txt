@@ -1,0 +1,13 @@
+C:\Users\Z\source\repos\Git\LeetCode\1032. Stream of Characters\1032. Stream of Characters\bin\Debug\netcoreapp3.1\1032. Stream of Characters.exe
+C:\Users\Z\source\repos\Git\LeetCode\1032. Stream of Characters\1032. Stream of Characters\bin\Debug\netcoreapp3.1\1032. Stream of Characters.deps.json
+C:\Users\Z\source\repos\Git\LeetCode\1032. Stream of Characters\1032. Stream of Characters\bin\Debug\netcoreapp3.1\1032. Stream of Characters.runtimeconfig.json
+C:\Users\Z\source\repos\Git\LeetCode\1032. Stream of Characters\1032. Stream of Characters\bin\Debug\netcoreapp3.1\1032. Stream of Characters.runtimeconfig.dev.json
+C:\Users\Z\source\repos\Git\LeetCode\1032. Stream of Characters\1032. Stream of Characters\bin\Debug\netcoreapp3.1\1032. Stream of Characters.dll
+C:\Users\Z\source\repos\Git\LeetCode\1032. Stream of Characters\1032. Stream of Characters\bin\Debug\netcoreapp3.1\1032. Stream of Characters.pdb
+C:\Users\Z\source\repos\Git\LeetCode\1032. Stream of Characters\1032. Stream of Characters\obj\Debug\netcoreapp3.1\1032. Stream of Characters.csproj.AssemblyReference.cache
+C:\Users\Z\source\repos\Git\LeetCode\1032. Stream of Characters\1032. Stream of Characters\obj\Debug\netcoreapp3.1\1032. Stream of Characters.AssemblyInfoInputs.cache
+C:\Users\Z\source\repos\Git\LeetCode\1032. Stream of Characters\1032. Stream of Characters\obj\Debug\netcoreapp3.1\1032. Stream of Characters.AssemblyInfo.cs
+C:\Users\Z\source\repos\Git\LeetCode\1032. Stream of Characters\1032. Stream of Characters\obj\Debug\netcoreapp3.1\1032. Stream of Characters.csproj.CoreCompileInputs.cache
+C:\Users\Z\source\repos\Git\LeetCode\1032. Stream of Characters\1032. Stream of Characters\obj\Debug\netcoreapp3.1\1032. Stream of Characters.dll
+C:\Users\Z\source\repos\Git\LeetCode\1032. Stream of Characters\1032. Stream of Characters\obj\Debug\netcoreapp3.1\1032. Stream of Characters.pdb
+C:\Users\Z\source\repos\Git\LeetCode\1032. Stream of Characters\1032. Stream of Characters\obj\Debug\netcoreapp3.1\1032. Stream of Characters.genruntimeconfig.cache
