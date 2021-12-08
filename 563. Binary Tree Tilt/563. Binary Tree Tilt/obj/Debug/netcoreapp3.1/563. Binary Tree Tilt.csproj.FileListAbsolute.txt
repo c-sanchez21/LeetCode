@@ -1,0 +1,13 @@
+C:\Users\Z\source\repos\Git\LeetCode\563. Binary Tree Tilt\563. Binary Tree Tilt\bin\Debug\netcoreapp3.1\563. Binary Tree Tilt.exe
+C:\Users\Z\source\repos\Git\LeetCode\563. Binary Tree Tilt\563. Binary Tree Tilt\bin\Debug\netcoreapp3.1\563. Binary Tree Tilt.deps.json
+C:\Users\Z\source\repos\Git\LeetCode\563. Binary Tree Tilt\563. Binary Tree Tilt\bin\Debug\netcoreapp3.1\563. Binary Tree Tilt.runtimeconfig.json
+C:\Users\Z\source\repos\Git\LeetCode\563. Binary Tree Tilt\563. Binary Tree Tilt\bin\Debug\netcoreapp3.1\563. Binary Tree Tilt.runtimeconfig.dev.json
+C:\Users\Z\source\repos\Git\LeetCode\563. Binary Tree Tilt\563. Binary Tree Tilt\bin\Debug\netcoreapp3.1\563. Binary Tree Tilt.dll
+C:\Users\Z\source\repos\Git\LeetCode\563. Binary Tree Tilt\563. Binary Tree Tilt\bin\Debug\netcoreapp3.1\563. Binary Tree Tilt.pdb
+C:\Users\Z\source\repos\Git\LeetCode\563. Binary Tree Tilt\563. Binary Tree Tilt\obj\Debug\netcoreapp3.1\563. Binary Tree Tilt.csproj.AssemblyReference.cache
+C:\Users\Z\source\repos\Git\LeetCode\563. Binary Tree Tilt\563. Binary Tree Tilt\obj\Debug\netcoreapp3.1\563. Binary Tree Tilt.AssemblyInfoInputs.cache
+C:\Users\Z\source\repos\Git\LeetCode\563. Binary Tree Tilt\563. Binary Tree Tilt\obj\Debug\netcoreapp3.1\563. Binary Tree Tilt.AssemblyInfo.cs
+C:\Users\Z\source\repos\Git\LeetCode\563. Binary Tree Tilt\563. Binary Tree Tilt\obj\Debug\netcoreapp3.1\563. Binary Tree Tilt.csproj.CoreCompileInputs.cache
+C:\Users\Z\source\repos\Git\LeetCode\563. Binary Tree Tilt\563. Binary Tree Tilt\obj\Debug\netcoreapp3.1\563. Binary Tree Tilt.dll
+C:\Users\Z\source\repos\Git\LeetCode\563. Binary Tree Tilt\563. Binary Tree Tilt\obj\Debug\netcoreapp3.1\563. Binary Tree Tilt.pdb
+C:\Users\Z\source\repos\Git\LeetCode\563. Binary Tree Tilt\563. Binary Tree Tilt\obj\Debug\netcoreapp3.1\563. Binary Tree Tilt.genruntimeconfig.cache
