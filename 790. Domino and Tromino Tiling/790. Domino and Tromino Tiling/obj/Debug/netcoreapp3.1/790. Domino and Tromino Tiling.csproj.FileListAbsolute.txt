@@ -1,0 +1,13 @@
+C:\Users\Z\source\repos\Git\LeetCode\790. Domino and Tromino Tiling\790. Domino and Tromino Tiling\bin\Debug\netcoreapp3.1\790. Domino and Tromino Tiling.exe
+C:\Users\Z\source\repos\Git\LeetCode\790. Domino and Tromino Tiling\790. Domino and Tromino Tiling\bin\Debug\netcoreapp3.1\790. Domino and Tromino Tiling.deps.json
+C:\Users\Z\source\repos\Git\LeetCode\790. Domino and Tromino Tiling\790. Domino and Tromino Tiling\bin\Debug\netcoreapp3.1\790. Domino and Tromino Tiling.runtimeconfig.json
+C:\Users\Z\source\repos\Git\LeetCode\790. Domino and Tromino Tiling\790. Domino and Tromino Tiling\bin\Debug\netcoreapp3.1\790. Domino and Tromino Tiling.runtimeconfig.dev.json
+C:\Users\Z\source\repos\Git\LeetCode\790. Domino and Tromino Tiling\790. Domino and Tromino Tiling\bin\Debug\netcoreapp3.1\790. Domino and Tromino Tiling.dll
+C:\Users\Z\source\repos\Git\LeetCode\790. Domino and Tromino Tiling\790. Domino and Tromino Tiling\bin\Debug\netcoreapp3.1\790. Domino and Tromino Tiling.pdb
+C:\Users\Z\source\repos\Git\LeetCode\790. Domino and Tromino Tiling\790. Domino and Tromino Tiling\obj\Debug\netcoreapp3.1\790. Domino and Tromino Tiling.csproj.AssemblyReference.cache
+C:\Users\Z\source\repos\Git\LeetCode\790. Domino and Tromino Tiling\790. Domino and Tromino Tiling\obj\Debug\netcoreapp3.1\790. Domino and Tromino Tiling.AssemblyInfoInputs.cache
+C:\Users\Z\source\repos\Git\LeetCode\790. Domino and Tromino Tiling\790. Domino and Tromino Tiling\obj\Debug\netcoreapp3.1\790. Domino and Tromino Tiling.AssemblyInfo.cs
+C:\Users\Z\source\repos\Git\LeetCode\790. Domino and Tromino Tiling\790. Domino and Tromino Tiling\obj\Debug\netcoreapp3.1\790. Domino and Tromino Tiling.csproj.CoreCompileInputs.cache
+C:\Users\Z\source\repos\Git\LeetCode\790. Domino and Tromino Tiling\790. Domino and Tromino Tiling\obj\Debug\netcoreapp3.1\790. Domino and Tromino Tiling.dll
+C:\Users\Z\source\repos\Git\LeetCode\790. Domino and Tromino Tiling\790. Domino and Tromino Tiling\obj\Debug\netcoreapp3.1\790. Domino and Tromino Tiling.pdb
+C:\Users\Z\source\repos\Git\LeetCode\790. Domino and Tromino Tiling\790. Domino and Tromino Tiling\obj\Debug\netcoreapp3.1\790. Domino and Tromino Tiling.genruntimeconfig.cache
