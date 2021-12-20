@@ -1,0 +1,13 @@
+C:\Users\Z\source\repos\Git\LeetCode\1200. Minimum Absolute Difference\1200. Minimum Absolute Difference\obj\Debug\netcoreapp3.1\1200. Minimum Absolute Difference.csproj.AssemblyReference.cache
+C:\Users\Z\source\repos\Git\LeetCode\1200. Minimum Absolute Difference\1200. Minimum Absolute Difference\obj\Debug\netcoreapp3.1\1200. Minimum Absolute Difference.AssemblyInfoInputs.cache
+C:\Users\Z\source\repos\Git\LeetCode\1200. Minimum Absolute Difference\1200. Minimum Absolute Difference\obj\Debug\netcoreapp3.1\1200. Minimum Absolute Difference.AssemblyInfo.cs
+C:\Users\Z\source\repos\Git\LeetCode\1200. Minimum Absolute Difference\1200. Minimum Absolute Difference\obj\Debug\netcoreapp3.1\1200. Minimum Absolute Difference.csproj.CoreCompileInputs.cache
+C:\Users\Z\source\repos\Git\LeetCode\1200. Minimum Absolute Difference\1200. Minimum Absolute Difference\bin\Debug\netcoreapp3.1\1200. Minimum Absolute Difference.exe
+C:\Users\Z\source\repos\Git\LeetCode\1200. Minimum Absolute Difference\1200. Minimum Absolute Difference\bin\Debug\netcoreapp3.1\1200. Minimum Absolute Difference.deps.json
+C:\Users\Z\source\repos\Git\LeetCode\1200. Minimum Absolute Difference\1200. Minimum Absolute Difference\bin\Debug\netcoreapp3.1\1200. Minimum Absolute Difference.runtimeconfig.json
+C:\Users\Z\source\repos\Git\LeetCode\1200. Minimum Absolute Difference\1200. Minimum Absolute Difference\bin\Debug\netcoreapp3.1\1200. Minimum Absolute Difference.runtimeconfig.dev.json
+C:\Users\Z\source\repos\Git\LeetCode\1200. Minimum Absolute Difference\1200. Minimum Absolute Difference\bin\Debug\netcoreapp3.1\1200. Minimum Absolute Difference.dll
+C:\Users\Z\source\repos\Git\LeetCode\1200. Minimum Absolute Difference\1200. Minimum Absolute Difference\bin\Debug\netcoreapp3.1\1200. Minimum Absolute Difference.pdb
+C:\Users\Z\source\repos\Git\LeetCode\1200. Minimum Absolute Difference\1200. Minimum Absolute Difference\obj\Debug\netcoreapp3.1\1200. Minimum Absolute Difference.dll
+C:\Users\Z\source\repos\Git\LeetCode\1200. Minimum Absolute Difference\1200. Minimum Absolute Difference\obj\Debug\netcoreapp3.1\1200. Minimum Absolute Difference.pdb
+C:\Users\Z\source\repos\Git\LeetCode\1200. Minimum Absolute Difference\1200. Minimum Absolute Difference\obj\Debug\netcoreapp3.1\1200. Minimum Absolute Difference.genruntimeconfig.cache
