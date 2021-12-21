@@ -1,0 +1,13 @@
+C:\Users\Z\source\repos\Git\LeetCode\231. Power of Two\231. Power of Two\bin\Debug\netcoreapp3.1\231. Power of Two.exe
+C:\Users\Z\source\repos\Git\LeetCode\231. Power of Two\231. Power of Two\bin\Debug\netcoreapp3.1\231. Power of Two.deps.json
+C:\Users\Z\source\repos\Git\LeetCode\231. Power of Two\231. Power of Two\bin\Debug\netcoreapp3.1\231. Power of Two.runtimeconfig.json
+C:\Users\Z\source\repos\Git\LeetCode\231. Power of Two\231. Power of Two\bin\Debug\netcoreapp3.1\231. Power of Two.runtimeconfig.dev.json
+C:\Users\Z\source\repos\Git\LeetCode\231. Power of Two\231. Power of Two\bin\Debug\netcoreapp3.1\231. Power of Two.dll
+C:\Users\Z\source\repos\Git\LeetCode\231. Power of Two\231. Power of Two\bin\Debug\netcoreapp3.1\231. Power of Two.pdb
+C:\Users\Z\source\repos\Git\LeetCode\231. Power of Two\231. Power of Two\obj\Debug\netcoreapp3.1\231. Power of Two.csproj.AssemblyReference.cache
+C:\Users\Z\source\repos\Git\LeetCode\231. Power of Two\231. Power of Two\obj\Debug\netcoreapp3.1\231. Power of Two.AssemblyInfoInputs.cache
+C:\Users\Z\source\repos\Git\LeetCode\231. Power of Two\231. Power of Two\obj\Debug\netcoreapp3.1\231. Power of Two.AssemblyInfo.cs
+C:\Users\Z\source\repos\Git\LeetCode\231. Power of Two\231. Power of Two\obj\Debug\netcoreapp3.1\231. Power of Two.csproj.CoreCompileInputs.cache
+C:\Users\Z\source\repos\Git\LeetCode\231. Power of Two\231. Power of Two\obj\Debug\netcoreapp3.1\231. Power of Two.dll
+C:\Users\Z\source\repos\Git\LeetCode\231. Power of Two\231. Power of Two\obj\Debug\netcoreapp3.1\231. Power of Two.pdb
+C:\Users\Z\source\repos\Git\LeetCode\231. Power of Two\231. Power of Two\obj\Debug\netcoreapp3.1\231. Power of Two.genruntimeconfig.cache
