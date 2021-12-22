@@ -1,0 +1,13 @@
+C:\Users\Z\source\repos\Git\LeetCode\143. Reorder List\143. Reorder List\bin\Debug\netcoreapp3.1\143. Reorder List.exe
+C:\Users\Z\source\repos\Git\LeetCode\143. Reorder List\143. Reorder List\bin\Debug\netcoreapp3.1\143. Reorder List.deps.json
+C:\Users\Z\source\repos\Git\LeetCode\143. Reorder List\143. Reorder List\bin\Debug\netcoreapp3.1\143. Reorder List.runtimeconfig.json
+C:\Users\Z\source\repos\Git\LeetCode\143. Reorder List\143. Reorder List\bin\Debug\netcoreapp3.1\143. Reorder List.runtimeconfig.dev.json
+C:\Users\Z\source\repos\Git\LeetCode\143. Reorder List\143. Reorder List\bin\Debug\netcoreapp3.1\143. Reorder List.dll
+C:\Users\Z\source\repos\Git\LeetCode\143. Reorder List\143. Reorder List\bin\Debug\netcoreapp3.1\143. Reorder List.pdb
+C:\Users\Z\source\repos\Git\LeetCode\143. Reorder List\143. Reorder List\obj\Debug\netcoreapp3.1\143. Reorder List.csproj.AssemblyReference.cache
+C:\Users\Z\source\repos\Git\LeetCode\143. Reorder List\143. Reorder List\obj\Debug\netcoreapp3.1\143. Reorder List.AssemblyInfoInputs.cache
+C:\Users\Z\source\repos\Git\LeetCode\143. Reorder List\143. Reorder List\obj\Debug\netcoreapp3.1\143. Reorder List.AssemblyInfo.cs
+C:\Users\Z\source\repos\Git\LeetCode\143. Reorder List\143. Reorder List\obj\Debug\netcoreapp3.1\143. Reorder List.csproj.CoreCompileInputs.cache
+C:\Users\Z\source\repos\Git\LeetCode\143. Reorder List\143. Reorder List\obj\Debug\netcoreapp3.1\143. Reorder List.dll
+C:\Users\Z\source\repos\Git\LeetCode\143. Reorder List\143. Reorder List\obj\Debug\netcoreapp3.1\143. Reorder List.pdb
+C:\Users\Z\source\repos\Git\LeetCode\143. Reorder List\143. Reorder List\obj\Debug\netcoreapp3.1\143. Reorder List.genruntimeconfig.cache
