@@ -1,0 +1,13 @@
+C:\Users\Z\source\repos\Git\LeetCode\210. Course Schedule II\210. Course Schedule II\bin\Debug\netcoreapp3.1\210. Course Schedule II.exe
+C:\Users\Z\source\repos\Git\LeetCode\210. Course Schedule II\210. Course Schedule II\bin\Debug\netcoreapp3.1\210. Course Schedule II.deps.json
+C:\Users\Z\source\repos\Git\LeetCode\210. Course Schedule II\210. Course Schedule II\bin\Debug\netcoreapp3.1\210. Course Schedule II.runtimeconfig.json
+C:\Users\Z\source\repos\Git\LeetCode\210. Course Schedule II\210. Course Schedule II\bin\Debug\netcoreapp3.1\210. Course Schedule II.runtimeconfig.dev.json
+C:\Users\Z\source\repos\Git\LeetCode\210. Course Schedule II\210. Course Schedule II\bin\Debug\netcoreapp3.1\210. Course Schedule II.dll
+C:\Users\Z\source\repos\Git\LeetCode\210. Course Schedule II\210. Course Schedule II\bin\Debug\netcoreapp3.1\210. Course Schedule II.pdb
+C:\Users\Z\source\repos\Git\LeetCode\210. Course Schedule II\210. Course Schedule II\obj\Debug\netcoreapp3.1\210. Course Schedule II.csproj.AssemblyReference.cache
+C:\Users\Z\source\repos\Git\LeetCode\210. Course Schedule II\210. Course Schedule II\obj\Debug\netcoreapp3.1\210. Course Schedule II.AssemblyInfoInputs.cache
+C:\Users\Z\source\repos\Git\LeetCode\210. Course Schedule II\210. Course Schedule II\obj\Debug\netcoreapp3.1\210. Course Schedule II.AssemblyInfo.cs
+C:\Users\Z\source\repos\Git\LeetCode\210. Course Schedule II\210. Course Schedule II\obj\Debug\netcoreapp3.1\210. Course Schedule II.csproj.CoreCompileInputs.cache
+C:\Users\Z\source\repos\Git\LeetCode\210. Course Schedule II\210. Course Schedule II\obj\Debug\netcoreapp3.1\210. Course Schedule II.dll
+C:\Users\Z\source\repos\Git\LeetCode\210. Course Schedule II\210. Course Schedule II\obj\Debug\netcoreapp3.1\210. Course Schedule II.pdb
+C:\Users\Z\source\repos\Git\LeetCode\210. Course Schedule II\210. Course Schedule II\obj\Debug\netcoreapp3.1\210. Course Schedule II.genruntimeconfig.cache
