@@ -1,0 +1,13 @@
+C:\Users\Z\source\repos\Git\LeetCode\56. Merge Intervals\56. Merge Intervals\bin\Debug\netcoreapp3.1\56. Merge Intervals.exe
+C:\Users\Z\source\repos\Git\LeetCode\56. Merge Intervals\56. Merge Intervals\bin\Debug\netcoreapp3.1\56. Merge Intervals.deps.json
+C:\Users\Z\source\repos\Git\LeetCode\56. Merge Intervals\56. Merge Intervals\bin\Debug\netcoreapp3.1\56. Merge Intervals.runtimeconfig.json
+C:\Users\Z\source\repos\Git\LeetCode\56. Merge Intervals\56. Merge Intervals\bin\Debug\netcoreapp3.1\56. Merge Intervals.runtimeconfig.dev.json
+C:\Users\Z\source\repos\Git\LeetCode\56. Merge Intervals\56. Merge Intervals\bin\Debug\netcoreapp3.1\56. Merge Intervals.dll
+C:\Users\Z\source\repos\Git\LeetCode\56. Merge Intervals\56. Merge Intervals\bin\Debug\netcoreapp3.1\56. Merge Intervals.pdb
+C:\Users\Z\source\repos\Git\LeetCode\56. Merge Intervals\56. Merge Intervals\obj\Debug\netcoreapp3.1\56. Merge Intervals.csproj.AssemblyReference.cache
+C:\Users\Z\source\repos\Git\LeetCode\56. Merge Intervals\56. Merge Intervals\obj\Debug\netcoreapp3.1\56. Merge Intervals.AssemblyInfoInputs.cache
+C:\Users\Z\source\repos\Git\LeetCode\56. Merge Intervals\56. Merge Intervals\obj\Debug\netcoreapp3.1\56. Merge Intervals.AssemblyInfo.cs
+C:\Users\Z\source\repos\Git\LeetCode\56. Merge Intervals\56. Merge Intervals\obj\Debug\netcoreapp3.1\56. Merge Intervals.csproj.CoreCompileInputs.cache
+C:\Users\Z\source\repos\Git\LeetCode\56. Merge Intervals\56. Merge Intervals\obj\Debug\netcoreapp3.1\56. Merge Intervals.dll
+C:\Users\Z\source\repos\Git\LeetCode\56. Merge Intervals\56. Merge Intervals\obj\Debug\netcoreapp3.1\56. Merge Intervals.pdb
+C:\Users\Z\source\repos\Git\LeetCode\56. Merge Intervals\56. Merge Intervals\obj\Debug\netcoreapp3.1\56. Merge Intervals.genruntimeconfig.cache
