@@ -1,0 +1,13 @@
+C:\Users\Z\source\repos\Git\LeetCode\227. Basic Calculator II\227. Basic Calculator II\bin\Debug\netcoreapp3.1\227. Basic Calculator II.exe
+C:\Users\Z\source\repos\Git\LeetCode\227. Basic Calculator II\227. Basic Calculator II\bin\Debug\netcoreapp3.1\227. Basic Calculator II.deps.json
+C:\Users\Z\source\repos\Git\LeetCode\227. Basic Calculator II\227. Basic Calculator II\bin\Debug\netcoreapp3.1\227. Basic Calculator II.runtimeconfig.json
+C:\Users\Z\source\repos\Git\LeetCode\227. Basic Calculator II\227. Basic Calculator II\bin\Debug\netcoreapp3.1\227. Basic Calculator II.runtimeconfig.dev.json
+C:\Users\Z\source\repos\Git\LeetCode\227. Basic Calculator II\227. Basic Calculator II\bin\Debug\netcoreapp3.1\227. Basic Calculator II.dll
+C:\Users\Z\source\repos\Git\LeetCode\227. Basic Calculator II\227. Basic Calculator II\bin\Debug\netcoreapp3.1\227. Basic Calculator II.pdb
+C:\Users\Z\source\repos\Git\LeetCode\227. Basic Calculator II\227. Basic Calculator II\obj\Debug\netcoreapp3.1\227. Basic Calculator II.csproj.AssemblyReference.cache
+C:\Users\Z\source\repos\Git\LeetCode\227. Basic Calculator II\227. Basic Calculator II\obj\Debug\netcoreapp3.1\227. Basic Calculator II.AssemblyInfoInputs.cache
+C:\Users\Z\source\repos\Git\LeetCode\227. Basic Calculator II\227. Basic Calculator II\obj\Debug\netcoreapp3.1\227. Basic Calculator II.AssemblyInfo.cs
+C:\Users\Z\source\repos\Git\LeetCode\227. Basic Calculator II\227. Basic Calculator II\obj\Debug\netcoreapp3.1\227. Basic Calculator II.csproj.CoreCompileInputs.cache
+C:\Users\Z\source\repos\Git\LeetCode\227. Basic Calculator II\227. Basic Calculator II\obj\Debug\netcoreapp3.1\227. Basic Calculator II.dll
+C:\Users\Z\source\repos\Git\LeetCode\227. Basic Calculator II\227. Basic Calculator II\obj\Debug\netcoreapp3.1\227. Basic Calculator II.pdb
+C:\Users\Z\source\repos\Git\LeetCode\227. Basic Calculator II\227. Basic Calculator II\obj\Debug\netcoreapp3.1\227. Basic Calculator II.genruntimeconfig.cache
