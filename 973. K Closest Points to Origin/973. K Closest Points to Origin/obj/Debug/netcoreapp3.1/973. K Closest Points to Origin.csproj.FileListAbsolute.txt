@@ -1,0 +1,13 @@
+C:\Users\Z\source\repos\Git\LeetCode\973. K Closest Points to Origin\973. K Closest Points to Origin\obj\Debug\netcoreapp3.1\973. K Closest Points to Origin.csproj.AssemblyReference.cache
+C:\Users\Z\source\repos\Git\LeetCode\973. K Closest Points to Origin\973. K Closest Points to Origin\obj\Debug\netcoreapp3.1\973. K Closest Points to Origin.AssemblyInfoInputs.cache
+C:\Users\Z\source\repos\Git\LeetCode\973. K Closest Points to Origin\973. K Closest Points to Origin\obj\Debug\netcoreapp3.1\973. K Closest Points to Origin.AssemblyInfo.cs
+C:\Users\Z\source\repos\Git\LeetCode\973. K Closest Points to Origin\973. K Closest Points to Origin\obj\Debug\netcoreapp3.1\973. K Closest Points to Origin.csproj.CoreCompileInputs.cache
+C:\Users\Z\source\repos\Git\LeetCode\973. K Closest Points to Origin\973. K Closest Points to Origin\bin\Debug\netcoreapp3.1\973. K Closest Points to Origin.exe
+C:\Users\Z\source\repos\Git\LeetCode\973. K Closest Points to Origin\973. K Closest Points to Origin\bin\Debug\netcoreapp3.1\973. K Closest Points to Origin.deps.json
+C:\Users\Z\source\repos\Git\LeetCode\973. K Closest Points to Origin\973. K Closest Points to Origin\bin\Debug\netcoreapp3.1\973. K Closest Points to Origin.runtimeconfig.json
+C:\Users\Z\source\repos\Git\LeetCode\973. K Closest Points to Origin\973. K Closest Points to Origin\bin\Debug\netcoreapp3.1\973. K Closest Points to Origin.runtimeconfig.dev.json
+C:\Users\Z\source\repos\Git\LeetCode\973. K Closest Points to Origin\973. K Closest Points to Origin\bin\Debug\netcoreapp3.1\973. K Closest Points to Origin.dll
+C:\Users\Z\source\repos\Git\LeetCode\973. K Closest Points to Origin\973. K Closest Points to Origin\bin\Debug\netcoreapp3.1\973. K Closest Points to Origin.pdb
+C:\Users\Z\source\repos\Git\LeetCode\973. K Closest Points to Origin\973. K Closest Points to Origin\obj\Debug\netcoreapp3.1\973. K Closest Points to Origin.dll
+C:\Users\Z\source\repos\Git\LeetCode\973. K Closest Points to Origin\973. K Closest Points to Origin\obj\Debug\netcoreapp3.1\973. K Closest Points to Origin.pdb
+C:\Users\Z\source\repos\Git\LeetCode\973. K Closest Points to Origin\973. K Closest Points to Origin\obj\Debug\netcoreapp3.1\973. K Closest Points to Origin.genruntimeconfig.cache
