@@ -1,0 +1,13 @@
+C:\Users\Z\source\repos\Git\LeetCode\476. Number Complement\476. Number Complement\bin\Debug\netcoreapp3.1\476. Number Complement.exe
+C:\Users\Z\source\repos\Git\LeetCode\476. Number Complement\476. Number Complement\bin\Debug\netcoreapp3.1\476. Number Complement.deps.json
+C:\Users\Z\source\repos\Git\LeetCode\476. Number Complement\476. Number Complement\bin\Debug\netcoreapp3.1\476. Number Complement.runtimeconfig.json
+C:\Users\Z\source\repos\Git\LeetCode\476. Number Complement\476. Number Complement\bin\Debug\netcoreapp3.1\476. Number Complement.runtimeconfig.dev.json
+C:\Users\Z\source\repos\Git\LeetCode\476. Number Complement\476. Number Complement\bin\Debug\netcoreapp3.1\476. Number Complement.dll
+C:\Users\Z\source\repos\Git\LeetCode\476. Number Complement\476. Number Complement\bin\Debug\netcoreapp3.1\476. Number Complement.pdb
+C:\Users\Z\source\repos\Git\LeetCode\476. Number Complement\476. Number Complement\obj\Debug\netcoreapp3.1\476. Number Complement.csproj.AssemblyReference.cache
+C:\Users\Z\source\repos\Git\LeetCode\476. Number Complement\476. Number Complement\obj\Debug\netcoreapp3.1\476. Number Complement.AssemblyInfoInputs.cache
+C:\Users\Z\source\repos\Git\LeetCode\476. Number Complement\476. Number Complement\obj\Debug\netcoreapp3.1\476. Number Complement.AssemblyInfo.cs
+C:\Users\Z\source\repos\Git\LeetCode\476. Number Complement\476. Number Complement\obj\Debug\netcoreapp3.1\476. Number Complement.csproj.CoreCompileInputs.cache
+C:\Users\Z\source\repos\Git\LeetCode\476. Number Complement\476. Number Complement\obj\Debug\netcoreapp3.1\476. Number Complement.dll
+C:\Users\Z\source\repos\Git\LeetCode\476. Number Complement\476. Number Complement\obj\Debug\netcoreapp3.1\476. Number Complement.pdb
+C:\Users\Z\source\repos\Git\LeetCode\476. Number Complement\476. Number Complement\obj\Debug\netcoreapp3.1\476. Number Complement.genruntimeconfig.cache
