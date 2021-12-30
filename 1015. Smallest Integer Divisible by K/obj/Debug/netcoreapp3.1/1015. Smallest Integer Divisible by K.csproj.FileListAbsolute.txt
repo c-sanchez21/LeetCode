@@ -1,0 +1,13 @@
+C:\Users\Z\source\repos\Git\LeetCode\1015. Smallest Integer Divisible by K\bin\Debug\netcoreapp3.1\1015. Smallest Integer Divisible by K.exe
+C:\Users\Z\source\repos\Git\LeetCode\1015. Smallest Integer Divisible by K\bin\Debug\netcoreapp3.1\1015. Smallest Integer Divisible by K.deps.json
+C:\Users\Z\source\repos\Git\LeetCode\1015. Smallest Integer Divisible by K\bin\Debug\netcoreapp3.1\1015. Smallest Integer Divisible by K.runtimeconfig.json
+C:\Users\Z\source\repos\Git\LeetCode\1015. Smallest Integer Divisible by K\bin\Debug\netcoreapp3.1\1015. Smallest Integer Divisible by K.runtimeconfig.dev.json
+C:\Users\Z\source\repos\Git\LeetCode\1015. Smallest Integer Divisible by K\bin\Debug\netcoreapp3.1\1015. Smallest Integer Divisible by K.dll
+C:\Users\Z\source\repos\Git\LeetCode\1015. Smallest Integer Divisible by K\bin\Debug\netcoreapp3.1\1015. Smallest Integer Divisible by K.pdb
+C:\Users\Z\source\repos\Git\LeetCode\1015. Smallest Integer Divisible by K\obj\Debug\netcoreapp3.1\1015. Smallest Integer Divisible by K.csproj.AssemblyReference.cache
+C:\Users\Z\source\repos\Git\LeetCode\1015. Smallest Integer Divisible by K\obj\Debug\netcoreapp3.1\1015. Smallest Integer Divisible by K.AssemblyInfoInputs.cache
+C:\Users\Z\source\repos\Git\LeetCode\1015. Smallest Integer Divisible by K\obj\Debug\netcoreapp3.1\1015. Smallest Integer Divisible by K.AssemblyInfo.cs
+C:\Users\Z\source\repos\Git\LeetCode\1015. Smallest Integer Divisible by K\obj\Debug\netcoreapp3.1\1015. Smallest Integer Divisible by K.csproj.CoreCompileInputs.cache
+C:\Users\Z\source\repos\Git\LeetCode\1015. Smallest Integer Divisible by K\obj\Debug\netcoreapp3.1\1015. Smallest Integer Divisible by K.dll
+C:\Users\Z\source\repos\Git\LeetCode\1015. Smallest Integer Divisible by K\obj\Debug\netcoreapp3.1\1015. Smallest Integer Divisible by K.pdb
+C:\Users\Z\source\repos\Git\LeetCode\1015. Smallest Integer Divisible by K\obj\Debug\netcoreapp3.1\1015. Smallest Integer Divisible by K.genruntimeconfig.cache
