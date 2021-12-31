@@ -1,0 +1,13 @@
+C:\Users\Z\source\repos\Git\LeetCode\1026. Maximum Difference Between Node and Ancestor\bin\Debug\netcoreapp3.1\1026. Maximum Difference Between Node and Ancestor.exe
+C:\Users\Z\source\repos\Git\LeetCode\1026. Maximum Difference Between Node and Ancestor\bin\Debug\netcoreapp3.1\1026. Maximum Difference Between Node and Ancestor.deps.json
+C:\Users\Z\source\repos\Git\LeetCode\1026. Maximum Difference Between Node and Ancestor\bin\Debug\netcoreapp3.1\1026. Maximum Difference Between Node and Ancestor.runtimeconfig.json
+C:\Users\Z\source\repos\Git\LeetCode\1026. Maximum Difference Between Node and Ancestor\bin\Debug\netcoreapp3.1\1026. Maximum Difference Between Node and Ancestor.runtimeconfig.dev.json
+C:\Users\Z\source\repos\Git\LeetCode\1026. Maximum Difference Between Node and Ancestor\bin\Debug\netcoreapp3.1\1026. Maximum Difference Between Node and Ancestor.dll
+C:\Users\Z\source\repos\Git\LeetCode\1026. Maximum Difference Between Node and Ancestor\bin\Debug\netcoreapp3.1\1026. Maximum Difference Between Node and Ancestor.pdb
+C:\Users\Z\source\repos\Git\LeetCode\1026. Maximum Difference Between Node and Ancestor\obj\Debug\netcoreapp3.1\1026. Maximum Difference Between Node and Ancestor.csproj.AssemblyReference.cache
+C:\Users\Z\source\repos\Git\LeetCode\1026. Maximum Difference Between Node and Ancestor\obj\Debug\netcoreapp3.1\1026. Maximum Difference Between Node and Ancestor.AssemblyInfoInputs.cache
+C:\Users\Z\source\repos\Git\LeetCode\1026. Maximum Difference Between Node and Ancestor\obj\Debug\netcoreapp3.1\1026. Maximum Difference Between Node and Ancestor.AssemblyInfo.cs
+C:\Users\Z\source\repos\Git\LeetCode\1026. Maximum Difference Between Node and Ancestor\obj\Debug\netcoreapp3.1\1026. Maximum Difference Between Node and Ancestor.csproj.CoreCompileInputs.cache
+C:\Users\Z\source\repos\Git\LeetCode\1026. Maximum Difference Between Node and Ancestor\obj\Debug\netcoreapp3.1\1026. Maximum Difference Between Node and Ancestor.dll
+C:\Users\Z\source\repos\Git\LeetCode\1026. Maximum Difference Between Node and Ancestor\obj\Debug\netcoreapp3.1\1026. Maximum Difference Between Node and Ancestor.pdb
+C:\Users\Z\source\repos\Git\LeetCode\1026. Maximum Difference Between Node and Ancestor\obj\Debug\netcoreapp3.1\1026. Maximum Difference Between Node and Ancestor.genruntimeconfig.cache
