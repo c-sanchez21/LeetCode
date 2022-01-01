@@ -1,0 +1,13 @@
+C:\Users\Z\source\repos\Git\LeetCode\312. Burst Balloons\bin\Debug\netcoreapp3.1\312. Burst Balloons.exe
+C:\Users\Z\source\repos\Git\LeetCode\312. Burst Balloons\bin\Debug\netcoreapp3.1\312. Burst Balloons.deps.json
+C:\Users\Z\source\repos\Git\LeetCode\312. Burst Balloons\bin\Debug\netcoreapp3.1\312. Burst Balloons.runtimeconfig.json
+C:\Users\Z\source\repos\Git\LeetCode\312. Burst Balloons\bin\Debug\netcoreapp3.1\312. Burst Balloons.runtimeconfig.dev.json
+C:\Users\Z\source\repos\Git\LeetCode\312. Burst Balloons\bin\Debug\netcoreapp3.1\312. Burst Balloons.dll
+C:\Users\Z\source\repos\Git\LeetCode\312. Burst Balloons\bin\Debug\netcoreapp3.1\312. Burst Balloons.pdb
+C:\Users\Z\source\repos\Git\LeetCode\312. Burst Balloons\obj\Debug\netcoreapp3.1\312. Burst Balloons.csproj.AssemblyReference.cache
+C:\Users\Z\source\repos\Git\LeetCode\312. Burst Balloons\obj\Debug\netcoreapp3.1\312. Burst Balloons.AssemblyInfoInputs.cache
+C:\Users\Z\source\repos\Git\LeetCode\312. Burst Balloons\obj\Debug\netcoreapp3.1\312. Burst Balloons.AssemblyInfo.cs
+C:\Users\Z\source\repos\Git\LeetCode\312. Burst Balloons\obj\Debug\netcoreapp3.1\312. Burst Balloons.csproj.CoreCompileInputs.cache
+C:\Users\Z\source\repos\Git\LeetCode\312. Burst Balloons\obj\Debug\netcoreapp3.1\312. Burst Balloons.dll
+C:\Users\Z\source\repos\Git\LeetCode\312. Burst Balloons\obj\Debug\netcoreapp3.1\312. Burst Balloons.pdb
+C:\Users\Z\source\repos\Git\LeetCode\312. Burst Balloons\obj\Debug\netcoreapp3.1\312. Burst Balloons.genruntimeconfig.cache
