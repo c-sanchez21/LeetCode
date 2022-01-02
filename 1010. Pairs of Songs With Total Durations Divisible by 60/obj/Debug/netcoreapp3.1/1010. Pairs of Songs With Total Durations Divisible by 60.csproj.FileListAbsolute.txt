@@ -1,0 +1,13 @@
+C:\Users\Z\source\repos\Git\LeetCode\1010. Pairs of Songs With Total Durations Divisible by 60\bin\Debug\netcoreapp3.1\1010. Pairs of Songs With Total Durations Divisible by 60.exe
+C:\Users\Z\source\repos\Git\LeetCode\1010. Pairs of Songs With Total Durations Divisible by 60\bin\Debug\netcoreapp3.1\1010. Pairs of Songs With Total Durations Divisible by 60.deps.json
+C:\Users\Z\source\repos\Git\LeetCode\1010. Pairs of Songs With Total Durations Divisible by 60\bin\Debug\netcoreapp3.1\1010. Pairs of Songs With Total Durations Divisible by 60.runtimeconfig.json
+C:\Users\Z\source\repos\Git\LeetCode\1010. Pairs of Songs With Total Durations Divisible by 60\bin\Debug\netcoreapp3.1\1010. Pairs of Songs With Total Durations Divisible by 60.runtimeconfig.dev.json
+C:\Users\Z\source\repos\Git\LeetCode\1010. Pairs of Songs With Total Durations Divisible by 60\bin\Debug\netcoreapp3.1\1010. Pairs of Songs With Total Durations Divisible by 60.dll
+C:\Users\Z\source\repos\Git\LeetCode\1010. Pairs of Songs With Total Durations Divisible by 60\bin\Debug\netcoreapp3.1\1010. Pairs of Songs With Total Durations Divisible by 60.pdb
+C:\Users\Z\source\repos\Git\LeetCode\1010. Pairs of Songs With Total Durations Divisible by 60\obj\Debug\netcoreapp3.1\1010. Pairs of Songs With Total Durations Divisible by 60.csproj.AssemblyReference.cache
+C:\Users\Z\source\repos\Git\LeetCode\1010. Pairs of Songs With Total Durations Divisible by 60\obj\Debug\netcoreapp3.1\1010. Pairs of Songs With Total Durations Divisible by 60.AssemblyInfoInputs.cache
+C:\Users\Z\source\repos\Git\LeetCode\1010. Pairs of Songs With Total Durations Divisible by 60\obj\Debug\netcoreapp3.1\1010. Pairs of Songs With Total Durations Divisible by 60.AssemblyInfo.cs
+C:\Users\Z\source\repos\Git\LeetCode\1010. Pairs of Songs With Total Durations Divisible by 60\obj\Debug\netcoreapp3.1\1010. Pairs of Songs With Total Durations Divisible by 60.csproj.CoreCompileInputs.cache
+C:\Users\Z\source\repos\Git\LeetCode\1010. Pairs of Songs With Total Durations Divisible by 60\obj\Debug\netcoreapp3.1\1010. Pairs of Songs With Total Durations Divisible by 60.dll
+C:\Users\Z\source\repos\Git\LeetCode\1010. Pairs of Songs With Total Durations Divisible by 60\obj\Debug\netcoreapp3.1\1010. Pairs of Songs With Total Durations Divisible by 60.pdb
+C:\Users\Z\source\repos\Git\LeetCode\1010. Pairs of Songs With Total Durations Divisible by 60\obj\Debug\netcoreapp3.1\1010. Pairs of Songs With Total Durations Divisible by 60.genruntimeconfig.cache
