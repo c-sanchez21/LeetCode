@@ -1,0 +1,13 @@
+C:\Users\Z\source\repos\67. Add Binary\bin\Debug\netcoreapp3.1\67. Add Binary.exe
+C:\Users\Z\source\repos\67. Add Binary\bin\Debug\netcoreapp3.1\67. Add Binary.deps.json
+C:\Users\Z\source\repos\67. Add Binary\bin\Debug\netcoreapp3.1\67. Add Binary.runtimeconfig.json
+C:\Users\Z\source\repos\67. Add Binary\bin\Debug\netcoreapp3.1\67. Add Binary.runtimeconfig.dev.json
+C:\Users\Z\source\repos\67. Add Binary\bin\Debug\netcoreapp3.1\67. Add Binary.dll
+C:\Users\Z\source\repos\67. Add Binary\bin\Debug\netcoreapp3.1\67. Add Binary.pdb
+C:\Users\Z\source\repos\67. Add Binary\obj\Debug\netcoreapp3.1\67. Add Binary.csproj.AssemblyReference.cache
+C:\Users\Z\source\repos\67. Add Binary\obj\Debug\netcoreapp3.1\67. Add Binary.AssemblyInfoInputs.cache
+C:\Users\Z\source\repos\67. Add Binary\obj\Debug\netcoreapp3.1\67. Add Binary.AssemblyInfo.cs
+C:\Users\Z\source\repos\67. Add Binary\obj\Debug\netcoreapp3.1\67. Add Binary.csproj.CoreCompileInputs.cache
+C:\Users\Z\source\repos\67. Add Binary\obj\Debug\netcoreapp3.1\67. Add Binary.dll
+C:\Users\Z\source\repos\67. Add Binary\obj\Debug\netcoreapp3.1\67. Add Binary.pdb
+C:\Users\Z\source\repos\67. Add Binary\obj\Debug\netcoreapp3.1\67. Add Binary.genruntimeconfig.cache
