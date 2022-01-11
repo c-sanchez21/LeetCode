@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "1022. Sum of Root To Leaf Binary Numbers/1.0.0": {
+        "runtime": {
+          "1022. Sum of Root To Leaf Binary Numbers.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "1022. Sum of Root To Leaf Binary Numbers/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

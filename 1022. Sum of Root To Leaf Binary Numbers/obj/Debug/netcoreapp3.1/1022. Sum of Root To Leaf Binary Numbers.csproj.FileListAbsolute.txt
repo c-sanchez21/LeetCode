@@ -1,0 +1,13 @@
+C:\Users\Z\source\repos\Git\LeetCode\1022. Sum of Root To Leaf Binary Numbers\bin\Debug\netcoreapp3.1\1022. Sum of Root To Leaf Binary Numbers.exe
+C:\Users\Z\source\repos\Git\LeetCode\1022. Sum of Root To Leaf Binary Numbers\bin\Debug\netcoreapp3.1\1022. Sum of Root To Leaf Binary Numbers.deps.json
+C:\Users\Z\source\repos\Git\LeetCode\1022. Sum of Root To Leaf Binary Numbers\bin\Debug\netcoreapp3.1\1022. Sum of Root To Leaf Binary Numbers.runtimeconfig.json
+C:\Users\Z\source\repos\Git\LeetCode\1022. Sum of Root To Leaf Binary Numbers\bin\Debug\netcoreapp3.1\1022. Sum of Root To Leaf Binary Numbers.runtimeconfig.dev.json
+C:\Users\Z\source\repos\Git\LeetCode\1022. Sum of Root To Leaf Binary Numbers\bin\Debug\netcoreapp3.1\1022. Sum of Root To Leaf Binary Numbers.dll
+C:\Users\Z\source\repos\Git\LeetCode\1022. Sum of Root To Leaf Binary Numbers\bin\Debug\netcoreapp3.1\1022. Sum of Root To Leaf Binary Numbers.pdb
+C:\Users\Z\source\repos\Git\LeetCode\1022. Sum of Root To Leaf Binary Numbers\obj\Debug\netcoreapp3.1\1022. Sum of Root To Leaf Binary Numbers.csproj.AssemblyReference.cache
+C:\Users\Z\source\repos\Git\LeetCode\1022. Sum of Root To Leaf Binary Numbers\obj\Debug\netcoreapp3.1\1022. Sum of Root To Leaf Binary Numbers.AssemblyInfoInputs.cache
+C:\Users\Z\source\repos\Git\LeetCode\1022. Sum of Root To Leaf Binary Numbers\obj\Debug\netcoreapp3.1\1022. Sum of Root To Leaf Binary Numbers.AssemblyInfo.cs
+C:\Users\Z\source\repos\Git\LeetCode\1022. Sum of Root To Leaf Binary Numbers\obj\Debug\netcoreapp3.1\1022. Sum of Root To Leaf Binary Numbers.csproj.CoreCompileInputs.cache
+C:\Users\Z\source\repos\Git\LeetCode\1022. Sum of Root To Leaf Binary Numbers\obj\Debug\netcoreapp3.1\1022. Sum of Root To Leaf Binary Numbers.dll
+C:\Users\Z\source\repos\Git\LeetCode\1022. Sum of Root To Leaf Binary Numbers\obj\Debug\netcoreapp3.1\1022. Sum of Root To Leaf Binary Numbers.pdb
+C:\Users\Z\source\repos\Git\LeetCode\1022. Sum of Root To Leaf Binary Numbers\obj\Debug\netcoreapp3.1\1022. Sum of Root To Leaf Binary Numbers.genruntimeconfig.cache
