@@ -49,7 +49,7 @@ namespace _1022._Sum_of_Root_To_Leaf_Binary_Numbers
             if (n.left == null && n.right == null)
             {
                 RootToLeafValue += cur;
-                Console.WriteLine(cur);
+                //Console.WriteLine(cur);
             }
 
             //Continue Pre-Order traversal on children. 
