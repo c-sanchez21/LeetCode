@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "w/UYDJHlyfbOqhw8WpJczMQ5fZ1b1datQtF0ByDUTeRmBcqnHyycbNZ56gUIYCeyXqEFnbHIMWwzgkTm1Iu3Hg==",
+  "dgSpecHash": "zWhDx23PecnhDRvdXRpMeIS8MphxAnrFRskN7jcUP3nqTK92H64C62m+TQkhot+ZHBPntn/z6HOTri1AfJbCOQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Z\\source\\repos\\StringToIntegerAtoi\\StringToIntegerAtoi\\StringToIntegerAtoi.csproj",
+  "projectFilePath": "C:\\Users\\Z\\source\\repos\\Git\\LeetCode\\AMZ\\StringToIntegerAtoi\\StringToIntegerAtoi\\StringToIntegerAtoi.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
