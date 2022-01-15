@@ -19,14 +19,19 @@ namespace Course_Schedule
         //Checks to see if all prerequisites can be satisfied
         public static bool CanFinish(int numCourses, int[][] prerequisites)
         {
+            //Rrerequisites - Edges 
             Dictionary<int, HashSet<int>> prq = new Dictionary<int, HashSet<int>>();
+            
+            //Course 1, Course 2
             int c1, c2;
+
+            //Iterate thru all Prerequisites - and add edges
             foreach(int[] p in prerequisites)
             {
                 //"To take course1 p[0] need to take course2 p[1] first"
                 c1 = p[0]; //Course1
                 c2 = p[1]; //Course2
-                if (c1 == c2) return false;
+                if (c1 == c2) return false; 
 
                 //Add edge
                 if (!prq.ContainsKey(c2))
@@ -36,6 +41,7 @@ namespace Course_Schedule
 
             HashSet<int> visited = new HashSet<int>();
             HashSet<int> check = new HashSet<int>();
+
             //Check for cycles
             for (int i = 0; i < numCourses; i++)
                 if (HasCycle(prq, i, visited,check))
@@ -50,11 +56,10 @@ namespace Course_Schedule
             if (visited.Contains(c)) return true;
             if (!prq.ContainsKey(c)) return false;
 
-
             //Backtracking
             visited.Add(c);
             bool result = false;
-            foreach(int i in prq[c])
+            foreach(int i in prq[c])//Iterate thru all the prerequisites/edges
             {
                 result = HasCycle(prq, i, visited, check);
                 if (result == true) break;//Cycle detected

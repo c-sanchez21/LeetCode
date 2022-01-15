@@ -1,0 +1,13 @@
+C:\Users\Z\source\repos\Git\LeetCode\1345. Jump Game IV\bin\Debug\netcoreapp3.1\1345. Jump Game IV.exe
+C:\Users\Z\source\repos\Git\LeetCode\1345. Jump Game IV\bin\Debug\netcoreapp3.1\1345. Jump Game IV.deps.json
+C:\Users\Z\source\repos\Git\LeetCode\1345. Jump Game IV\bin\Debug\netcoreapp3.1\1345. Jump Game IV.runtimeconfig.json
+C:\Users\Z\source\repos\Git\LeetCode\1345. Jump Game IV\bin\Debug\netcoreapp3.1\1345. Jump Game IV.runtimeconfig.dev.json
+C:\Users\Z\source\repos\Git\LeetCode\1345. Jump Game IV\bin\Debug\netcoreapp3.1\1345. Jump Game IV.dll
+C:\Users\Z\source\repos\Git\LeetCode\1345. Jump Game IV\bin\Debug\netcoreapp3.1\1345. Jump Game IV.pdb
+C:\Users\Z\source\repos\Git\LeetCode\1345. Jump Game IV\obj\Debug\netcoreapp3.1\1345. Jump Game IV.csproj.AssemblyReference.cache
+C:\Users\Z\source\repos\Git\LeetCode\1345. Jump Game IV\obj\Debug\netcoreapp3.1\1345. Jump Game IV.AssemblyInfoInputs.cache
+C:\Users\Z\source\repos\Git\LeetCode\1345. Jump Game IV\obj\Debug\netcoreapp3.1\1345. Jump Game IV.AssemblyInfo.cs
+C:\Users\Z\source\repos\Git\LeetCode\1345. Jump Game IV\obj\Debug\netcoreapp3.1\1345. Jump Game IV.csproj.CoreCompileInputs.cache
+C:\Users\Z\source\repos\Git\LeetCode\1345. Jump Game IV\obj\Debug\netcoreapp3.1\1345. Jump Game IV.dll
+C:\Users\Z\source\repos\Git\LeetCode\1345. Jump Game IV\obj\Debug\netcoreapp3.1\1345. Jump Game IV.pdb
+C:\Users\Z\source\repos\Git\LeetCode\1345. Jump Game IV\obj\Debug\netcoreapp3.1\1345. Jump Game IV.genruntimeconfig.cache

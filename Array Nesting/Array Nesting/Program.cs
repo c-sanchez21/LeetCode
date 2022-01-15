@@ -16,9 +16,11 @@ namespace Array_Nesting
             int max = nums.Length; 
             bool[] visited = new bool[max];
             int ans = 0;
+
+            //Iterate thru nums - find longest set possible
             for (int i = 0; i < max; i++)
             {
-                if (!visited[i])
+                if (!visited[i]) //Skip sets are visited
                 {
                     int start = nums[i], count = 0;
                     do
@@ -27,7 +29,9 @@ namespace Array_Nesting
                         count++;
                         visited[start] = true;
                     }
-                    while (start != nums[i]);
+                    while (start != nums[i]); //Stop at first cycle 
+
+                    //Keep track of the largest possible set
                     ans = Math.Max(ans, count);
                 }
             }
