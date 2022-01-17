@@ -1,0 +1,13 @@
+C:\Users\Z\source\repos\Git\LeetCode\849. Maximize Distance to Closest Person\bin\Debug\netcoreapp3.1\849. Maximize Distance to Closest Person.exe
+C:\Users\Z\source\repos\Git\LeetCode\849. Maximize Distance to Closest Person\bin\Debug\netcoreapp3.1\849. Maximize Distance to Closest Person.deps.json
+C:\Users\Z\source\repos\Git\LeetCode\849. Maximize Distance to Closest Person\bin\Debug\netcoreapp3.1\849. Maximize Distance to Closest Person.runtimeconfig.json
+C:\Users\Z\source\repos\Git\LeetCode\849. Maximize Distance to Closest Person\bin\Debug\netcoreapp3.1\849. Maximize Distance to Closest Person.runtimeconfig.dev.json
+C:\Users\Z\source\repos\Git\LeetCode\849. Maximize Distance to Closest Person\bin\Debug\netcoreapp3.1\849. Maximize Distance to Closest Person.dll
+C:\Users\Z\source\repos\Git\LeetCode\849. Maximize Distance to Closest Person\bin\Debug\netcoreapp3.1\849. Maximize Distance to Closest Person.pdb
+C:\Users\Z\source\repos\Git\LeetCode\849. Maximize Distance to Closest Person\obj\Debug\netcoreapp3.1\849. Maximize Distance to Closest Person.csproj.AssemblyReference.cache
+C:\Users\Z\source\repos\Git\LeetCode\849. Maximize Distance to Closest Person\obj\Debug\netcoreapp3.1\849. Maximize Distance to Closest Person.AssemblyInfoInputs.cache
+C:\Users\Z\source\repos\Git\LeetCode\849. Maximize Distance to Closest Person\obj\Debug\netcoreapp3.1\849. Maximize Distance to Closest Person.AssemblyInfo.cs
+C:\Users\Z\source\repos\Git\LeetCode\849. Maximize Distance to Closest Person\obj\Debug\netcoreapp3.1\849. Maximize Distance to Closest Person.csproj.CoreCompileInputs.cache
+C:\Users\Z\source\repos\Git\LeetCode\849. Maximize Distance to Closest Person\obj\Debug\netcoreapp3.1\849. Maximize Distance to Closest Person.dll
+C:\Users\Z\source\repos\Git\LeetCode\849. Maximize Distance to Closest Person\obj\Debug\netcoreapp3.1\849. Maximize Distance to Closest Person.pdb
+C:\Users\Z\source\repos\Git\LeetCode\849. Maximize Distance to Closest Person\obj\Debug\netcoreapp3.1\849. Maximize Distance to Closest Person.genruntimeconfig.cache
