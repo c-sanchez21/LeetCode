@@ -1,0 +1,13 @@
+C:\Users\Z\source\repos\Git\LeetCode\605. Can Place Flowers\bin\Debug\netcoreapp3.1\605. Can Place Flowers.exe
+C:\Users\Z\source\repos\Git\LeetCode\605. Can Place Flowers\bin\Debug\netcoreapp3.1\605. Can Place Flowers.deps.json
+C:\Users\Z\source\repos\Git\LeetCode\605. Can Place Flowers\bin\Debug\netcoreapp3.1\605. Can Place Flowers.runtimeconfig.json
+C:\Users\Z\source\repos\Git\LeetCode\605. Can Place Flowers\bin\Debug\netcoreapp3.1\605. Can Place Flowers.runtimeconfig.dev.json
+C:\Users\Z\source\repos\Git\LeetCode\605. Can Place Flowers\bin\Debug\netcoreapp3.1\605. Can Place Flowers.dll
+C:\Users\Z\source\repos\Git\LeetCode\605. Can Place Flowers\bin\Debug\netcoreapp3.1\605. Can Place Flowers.pdb
+C:\Users\Z\source\repos\Git\LeetCode\605. Can Place Flowers\obj\Debug\netcoreapp3.1\605. Can Place Flowers.csproj.AssemblyReference.cache
+C:\Users\Z\source\repos\Git\LeetCode\605. Can Place Flowers\obj\Debug\netcoreapp3.1\605. Can Place Flowers.AssemblyInfoInputs.cache
+C:\Users\Z\source\repos\Git\LeetCode\605. Can Place Flowers\obj\Debug\netcoreapp3.1\605. Can Place Flowers.AssemblyInfo.cs
+C:\Users\Z\source\repos\Git\LeetCode\605. Can Place Flowers\obj\Debug\netcoreapp3.1\605. Can Place Flowers.csproj.CoreCompileInputs.cache
+C:\Users\Z\source\repos\Git\LeetCode\605. Can Place Flowers\obj\Debug\netcoreapp3.1\605. Can Place Flowers.dll
+C:\Users\Z\source\repos\Git\LeetCode\605. Can Place Flowers\obj\Debug\netcoreapp3.1\605. Can Place Flowers.pdb
+C:\Users\Z\source\repos\Git\LeetCode\605. Can Place Flowers\obj\Debug\netcoreapp3.1\605. Can Place Flowers.genruntimeconfig.cache
