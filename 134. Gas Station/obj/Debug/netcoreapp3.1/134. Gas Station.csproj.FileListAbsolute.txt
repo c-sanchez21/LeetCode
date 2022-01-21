@@ -1,0 +1,13 @@
+C:\Users\Z\source\repos\Git\LeetCode\134. Gas Station\bin\Debug\netcoreapp3.1\134. Gas Station.exe
+C:\Users\Z\source\repos\Git\LeetCode\134. Gas Station\bin\Debug\netcoreapp3.1\134. Gas Station.deps.json
+C:\Users\Z\source\repos\Git\LeetCode\134. Gas Station\bin\Debug\netcoreapp3.1\134. Gas Station.runtimeconfig.json
+C:\Users\Z\source\repos\Git\LeetCode\134. Gas Station\bin\Debug\netcoreapp3.1\134. Gas Station.runtimeconfig.dev.json
+C:\Users\Z\source\repos\Git\LeetCode\134. Gas Station\bin\Debug\netcoreapp3.1\134. Gas Station.dll
+C:\Users\Z\source\repos\Git\LeetCode\134. Gas Station\bin\Debug\netcoreapp3.1\134. Gas Station.pdb
+C:\Users\Z\source\repos\Git\LeetCode\134. Gas Station\obj\Debug\netcoreapp3.1\134. Gas Station.csproj.AssemblyReference.cache
+C:\Users\Z\source\repos\Git\LeetCode\134. Gas Station\obj\Debug\netcoreapp3.1\134. Gas Station.AssemblyInfoInputs.cache
+C:\Users\Z\source\repos\Git\LeetCode\134. Gas Station\obj\Debug\netcoreapp3.1\134. Gas Station.AssemblyInfo.cs
+C:\Users\Z\source\repos\Git\LeetCode\134. Gas Station\obj\Debug\netcoreapp3.1\134. Gas Station.csproj.CoreCompileInputs.cache
+C:\Users\Z\source\repos\Git\LeetCode\134. Gas Station\obj\Debug\netcoreapp3.1\134. Gas Station.dll
+C:\Users\Z\source\repos\Git\LeetCode\134. Gas Station\obj\Debug\netcoreapp3.1\134. Gas Station.pdb
+C:\Users\Z\source\repos\Git\LeetCode\134. Gas Station\obj\Debug\netcoreapp3.1\134. Gas Station.genruntimeconfig.cache
