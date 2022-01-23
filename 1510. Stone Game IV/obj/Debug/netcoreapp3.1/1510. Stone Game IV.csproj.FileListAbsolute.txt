@@ -1,0 +1,13 @@
+C:\Users\Z\source\repos\Git\LeetCode\1510. Stone Game IV\bin\Debug\netcoreapp3.1\1510. Stone Game IV.exe
+C:\Users\Z\source\repos\Git\LeetCode\1510. Stone Game IV\bin\Debug\netcoreapp3.1\1510. Stone Game IV.deps.json
+C:\Users\Z\source\repos\Git\LeetCode\1510. Stone Game IV\bin\Debug\netcoreapp3.1\1510. Stone Game IV.runtimeconfig.json
+C:\Users\Z\source\repos\Git\LeetCode\1510. Stone Game IV\bin\Debug\netcoreapp3.1\1510. Stone Game IV.runtimeconfig.dev.json
+C:\Users\Z\source\repos\Git\LeetCode\1510. Stone Game IV\bin\Debug\netcoreapp3.1\1510. Stone Game IV.dll
+C:\Users\Z\source\repos\Git\LeetCode\1510. Stone Game IV\bin\Debug\netcoreapp3.1\1510. Stone Game IV.pdb
+C:\Users\Z\source\repos\Git\LeetCode\1510. Stone Game IV\obj\Debug\netcoreapp3.1\1510. Stone Game IV.csproj.AssemblyReference.cache
+C:\Users\Z\source\repos\Git\LeetCode\1510. Stone Game IV\obj\Debug\netcoreapp3.1\1510. Stone Game IV.AssemblyInfoInputs.cache
+C:\Users\Z\source\repos\Git\LeetCode\1510. Stone Game IV\obj\Debug\netcoreapp3.1\1510. Stone Game IV.AssemblyInfo.cs
+C:\Users\Z\source\repos\Git\LeetCode\1510. Stone Game IV\obj\Debug\netcoreapp3.1\1510. Stone Game IV.csproj.CoreCompileInputs.cache
+C:\Users\Z\source\repos\Git\LeetCode\1510. Stone Game IV\obj\Debug\netcoreapp3.1\1510. Stone Game IV.dll
+C:\Users\Z\source\repos\Git\LeetCode\1510. Stone Game IV\obj\Debug\netcoreapp3.1\1510. Stone Game IV.pdb
+C:\Users\Z\source\repos\Git\LeetCode\1510. Stone Game IV\obj\Debug\netcoreapp3.1\1510. Stone Game IV.genruntimeconfig.cache

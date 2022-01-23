@@ -1,0 +1,13 @@
+C:\Users\Z\source\repos\Git\LeetCode\1291. Sequential Digits\bin\Debug\netcoreapp3.1\1291. Sequential Digits.exe
+C:\Users\Z\source\repos\Git\LeetCode\1291. Sequential Digits\bin\Debug\netcoreapp3.1\1291. Sequential Digits.deps.json
+C:\Users\Z\source\repos\Git\LeetCode\1291. Sequential Digits\bin\Debug\netcoreapp3.1\1291. Sequential Digits.runtimeconfig.json
+C:\Users\Z\source\repos\Git\LeetCode\1291. Sequential Digits\bin\Debug\netcoreapp3.1\1291. Sequential Digits.runtimeconfig.dev.json
+C:\Users\Z\source\repos\Git\LeetCode\1291. Sequential Digits\bin\Debug\netcoreapp3.1\1291. Sequential Digits.dll
+C:\Users\Z\source\repos\Git\LeetCode\1291. Sequential Digits\bin\Debug\netcoreapp3.1\1291. Sequential Digits.pdb
+C:\Users\Z\source\repos\Git\LeetCode\1291. Sequential Digits\obj\Debug\netcoreapp3.1\1291. Sequential Digits.csproj.AssemblyReference.cache
+C:\Users\Z\source\repos\Git\LeetCode\1291. Sequential Digits\obj\Debug\netcoreapp3.1\1291. Sequential Digits.AssemblyInfoInputs.cache
+C:\Users\Z\source\repos\Git\LeetCode\1291. Sequential Digits\obj\Debug\netcoreapp3.1\1291. Sequential Digits.AssemblyInfo.cs
+C:\Users\Z\source\repos\Git\LeetCode\1291. Sequential Digits\obj\Debug\netcoreapp3.1\1291. Sequential Digits.csproj.CoreCompileInputs.cache
+C:\Users\Z\source\repos\Git\LeetCode\1291. Sequential Digits\obj\Debug\netcoreapp3.1\1291. Sequential Digits.dll
+C:\Users\Z\source\repos\Git\LeetCode\1291. Sequential Digits\obj\Debug\netcoreapp3.1\1291. Sequential Digits.pdb
+C:\Users\Z\source\repos\Git\LeetCode\1291. Sequential Digits\obj\Debug\netcoreapp3.1\1291. Sequential Digits.genruntimeconfig.cache
