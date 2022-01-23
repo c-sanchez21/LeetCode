@@ -4,6 +4,7 @@ namespace _1510._Stone_Game_IV
 {
     class Program
     {
+        //https://leetcode.com/problems/stone-game-iv/
         static void Main(string[] args)
         {
             for (int i = 1; i <= 10; i++)

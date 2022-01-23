@@ -5,6 +5,7 @@ namespace _1291._Sequential_Digits
 {
     class Program
     {
+        //https://leetcode.com/problems/sequential-digits/
         static void Main(string[] args)
         {
             Console.WriteLine("Exmaple 1:");
