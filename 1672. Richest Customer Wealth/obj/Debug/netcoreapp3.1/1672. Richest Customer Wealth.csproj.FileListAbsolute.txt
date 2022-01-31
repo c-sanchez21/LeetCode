@@ -1,0 +1,13 @@
+C:\Users\Z\source\repos\Git\LeetCode\1672. Richest Customer Wealth\bin\Debug\netcoreapp3.1\1672. Richest Customer Wealth.exe
+C:\Users\Z\source\repos\Git\LeetCode\1672. Richest Customer Wealth\bin\Debug\netcoreapp3.1\1672. Richest Customer Wealth.deps.json
+C:\Users\Z\source\repos\Git\LeetCode\1672. Richest Customer Wealth\bin\Debug\netcoreapp3.1\1672. Richest Customer Wealth.runtimeconfig.json
+C:\Users\Z\source\repos\Git\LeetCode\1672. Richest Customer Wealth\bin\Debug\netcoreapp3.1\1672. Richest Customer Wealth.runtimeconfig.dev.json
+C:\Users\Z\source\repos\Git\LeetCode\1672. Richest Customer Wealth\bin\Debug\netcoreapp3.1\1672. Richest Customer Wealth.dll
+C:\Users\Z\source\repos\Git\LeetCode\1672. Richest Customer Wealth\bin\Debug\netcoreapp3.1\1672. Richest Customer Wealth.pdb
+C:\Users\Z\source\repos\Git\LeetCode\1672. Richest Customer Wealth\obj\Debug\netcoreapp3.1\1672. Richest Customer Wealth.csproj.AssemblyReference.cache
+C:\Users\Z\source\repos\Git\LeetCode\1672. Richest Customer Wealth\obj\Debug\netcoreapp3.1\1672. Richest Customer Wealth.AssemblyInfoInputs.cache
+C:\Users\Z\source\repos\Git\LeetCode\1672. Richest Customer Wealth\obj\Debug\netcoreapp3.1\1672. Richest Customer Wealth.AssemblyInfo.cs
+C:\Users\Z\source\repos\Git\LeetCode\1672. Richest Customer Wealth\obj\Debug\netcoreapp3.1\1672. Richest Customer Wealth.csproj.CoreCompileInputs.cache
+C:\Users\Z\source\repos\Git\LeetCode\1672. Richest Customer Wealth\obj\Debug\netcoreapp3.1\1672. Richest Customer Wealth.dll
+C:\Users\Z\source\repos\Git\LeetCode\1672. Richest Customer Wealth\obj\Debug\netcoreapp3.1\1672. Richest Customer Wealth.pdb
+C:\Users\Z\source\repos\Git\LeetCode\1672. Richest Customer Wealth\obj\Debug\netcoreapp3.1\1672. Richest Customer Wealth.genruntimeconfig.cache

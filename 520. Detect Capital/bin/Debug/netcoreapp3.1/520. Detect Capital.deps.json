@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "520. Detect Capital/1.0.0": {
+        "runtime": {
+          "520. Detect Capital.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "520. Detect Capital/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
