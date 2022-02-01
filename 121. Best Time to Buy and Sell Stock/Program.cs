@@ -4,13 +4,13 @@ namespace _121._Best_Time_to_Buy_and_Sell_Stock
 {
     class Program
     {
+        //https://leetcode.com/problems/best-time-to-buy-and-sell-stock/
         static void Main(string[] args)
         {
             //Test Cases
             Console.WriteLine(MaxProfit(new int[] { 7, 1, 5, 3, 6, 4 }));
             Console.WriteLine(MaxProfit(new int[] { 7, 6, 4, 3, 1 }));
             Console.WriteLine(MaxProfit(new int[] { 2,6,1,2,2,3 }));
-
         }
 
         public static int MaxProfit(int[] prices)
