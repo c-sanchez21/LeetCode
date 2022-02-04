@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31402.337
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "438. Find All Anagrams in a String", "438. Find All Anagrams in a String.csproj", "{32115584-781B-4AD3-AA99-C2FD08C81EF1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{32115584-781B-4AD3-AA99-C2FD08C81EF1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{32115584-781B-4AD3-AA99-C2FD08C81EF1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{32115584-781B-4AD3-AA99-C2FD08C81EF1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{32115584-781B-4AD3-AA99-C2FD08C81EF1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4F24BC34-C326-495B-890A-E87408F6F19F}
+	EndGlobalSection
+EndGlobal

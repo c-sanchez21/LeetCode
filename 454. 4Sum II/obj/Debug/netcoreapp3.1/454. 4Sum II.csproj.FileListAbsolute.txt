@@ -1,0 +1,13 @@
+C:\Users\Z\source\repos\Git\LeetCode\454. 4Sum II\bin\Debug\netcoreapp3.1\454. 4Sum II.exe
+C:\Users\Z\source\repos\Git\LeetCode\454. 4Sum II\bin\Debug\netcoreapp3.1\454. 4Sum II.deps.json
+C:\Users\Z\source\repos\Git\LeetCode\454. 4Sum II\bin\Debug\netcoreapp3.1\454. 4Sum II.runtimeconfig.json
+C:\Users\Z\source\repos\Git\LeetCode\454. 4Sum II\bin\Debug\netcoreapp3.1\454. 4Sum II.runtimeconfig.dev.json
+C:\Users\Z\source\repos\Git\LeetCode\454. 4Sum II\bin\Debug\netcoreapp3.1\454. 4Sum II.dll
+C:\Users\Z\source\repos\Git\LeetCode\454. 4Sum II\bin\Debug\netcoreapp3.1\454. 4Sum II.pdb
+C:\Users\Z\source\repos\Git\LeetCode\454. 4Sum II\obj\Debug\netcoreapp3.1\454. 4Sum II.csproj.AssemblyReference.cache
+C:\Users\Z\source\repos\Git\LeetCode\454. 4Sum II\obj\Debug\netcoreapp3.1\454. 4Sum II.AssemblyInfoInputs.cache
+C:\Users\Z\source\repos\Git\LeetCode\454. 4Sum II\obj\Debug\netcoreapp3.1\454. 4Sum II.AssemblyInfo.cs
+C:\Users\Z\source\repos\Git\LeetCode\454. 4Sum II\obj\Debug\netcoreapp3.1\454. 4Sum II.csproj.CoreCompileInputs.cache
+C:\Users\Z\source\repos\Git\LeetCode\454. 4Sum II\obj\Debug\netcoreapp3.1\454. 4Sum II.dll
+C:\Users\Z\source\repos\Git\LeetCode\454. 4Sum II\obj\Debug\netcoreapp3.1\454. 4Sum II.pdb
+C:\Users\Z\source\repos\Git\LeetCode\454. 4Sum II\obj\Debug\netcoreapp3.1\454. 4Sum II.genruntimeconfig.cache
