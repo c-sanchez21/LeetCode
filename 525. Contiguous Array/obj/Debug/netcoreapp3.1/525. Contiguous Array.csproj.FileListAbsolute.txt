@@ -1,0 +1,13 @@
+C:\Users\Z\source\repos\Git\LeetCode\525. Contiguous Array\bin\Debug\netcoreapp3.1\525. Contiguous Array.exe
+C:\Users\Z\source\repos\Git\LeetCode\525. Contiguous Array\bin\Debug\netcoreapp3.1\525. Contiguous Array.deps.json
+C:\Users\Z\source\repos\Git\LeetCode\525. Contiguous Array\bin\Debug\netcoreapp3.1\525. Contiguous Array.runtimeconfig.json
+C:\Users\Z\source\repos\Git\LeetCode\525. Contiguous Array\bin\Debug\netcoreapp3.1\525. Contiguous Array.runtimeconfig.dev.json
+C:\Users\Z\source\repos\Git\LeetCode\525. Contiguous Array\bin\Debug\netcoreapp3.1\525. Contiguous Array.dll
+C:\Users\Z\source\repos\Git\LeetCode\525. Contiguous Array\bin\Debug\netcoreapp3.1\525. Contiguous Array.pdb
+C:\Users\Z\source\repos\Git\LeetCode\525. Contiguous Array\obj\Debug\netcoreapp3.1\525. Contiguous Array.csproj.AssemblyReference.cache
+C:\Users\Z\source\repos\Git\LeetCode\525. Contiguous Array\obj\Debug\netcoreapp3.1\525. Contiguous Array.AssemblyInfoInputs.cache
+C:\Users\Z\source\repos\Git\LeetCode\525. Contiguous Array\obj\Debug\netcoreapp3.1\525. Contiguous Array.AssemblyInfo.cs
+C:\Users\Z\source\repos\Git\LeetCode\525. Contiguous Array\obj\Debug\netcoreapp3.1\525. Contiguous Array.csproj.CoreCompileInputs.cache
+C:\Users\Z\source\repos\Git\LeetCode\525. Contiguous Array\obj\Debug\netcoreapp3.1\525. Contiguous Array.dll
+C:\Users\Z\source\repos\Git\LeetCode\525. Contiguous Array\obj\Debug\netcoreapp3.1\525. Contiguous Array.pdb
+C:\Users\Z\source\repos\Git\LeetCode\525. Contiguous Array\obj\Debug\netcoreapp3.1\525. Contiguous Array.genruntimeconfig.cache
