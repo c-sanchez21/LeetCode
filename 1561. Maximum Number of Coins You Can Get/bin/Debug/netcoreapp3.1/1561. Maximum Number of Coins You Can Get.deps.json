@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "1561. Maximum Number of Coins You Can Get/1.0.0": {
+        "runtime": {
+          "1561. Maximum Number of Coins You Can Get.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "1561. Maximum Number of Coins You Can Get/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

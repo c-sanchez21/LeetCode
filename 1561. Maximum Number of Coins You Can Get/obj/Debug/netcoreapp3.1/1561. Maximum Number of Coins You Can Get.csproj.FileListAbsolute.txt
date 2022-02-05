@@ -1,0 +1,12 @@
+C:\Users\Z\source\repos\1561. Maximum Number of Coins You Can Get\bin\Debug\netcoreapp3.1\1561. Maximum Number of Coins You Can Get.exe
+C:\Users\Z\source\repos\1561. Maximum Number of Coins You Can Get\bin\Debug\netcoreapp3.1\1561. Maximum Number of Coins You Can Get.deps.json
+C:\Users\Z\source\repos\1561. Maximum Number of Coins You Can Get\bin\Debug\netcoreapp3.1\1561. Maximum Number of Coins You Can Get.runtimeconfig.json
+C:\Users\Z\source\repos\1561. Maximum Number of Coins You Can Get\bin\Debug\netcoreapp3.1\1561. Maximum Number of Coins You Can Get.runtimeconfig.dev.json
+C:\Users\Z\source\repos\1561. Maximum Number of Coins You Can Get\bin\Debug\netcoreapp3.1\1561. Maximum Number of Coins You Can Get.dll
+C:\Users\Z\source\repos\1561. Maximum Number of Coins You Can Get\bin\Debug\netcoreapp3.1\1561. Maximum Number of Coins You Can Get.pdb
+C:\Users\Z\source\repos\1561. Maximum Number of Coins You Can Get\obj\Debug\netcoreapp3.1\1561. Maximum Number of Coins You Can Get.AssemblyInfoInputs.cache
+C:\Users\Z\source\repos\1561. Maximum Number of Coins You Can Get\obj\Debug\netcoreapp3.1\1561. Maximum Number of Coins You Can Get.AssemblyInfo.cs
+C:\Users\Z\source\repos\1561. Maximum Number of Coins You Can Get\obj\Debug\netcoreapp3.1\1561. Maximum Number of Coins You Can Get.csproj.CoreCompileInputs.cache
+C:\Users\Z\source\repos\1561. Maximum Number of Coins You Can Get\obj\Debug\netcoreapp3.1\1561. Maximum Number of Coins You Can Get.dll
+C:\Users\Z\source\repos\1561. Maximum Number of Coins You Can Get\obj\Debug\netcoreapp3.1\1561. Maximum Number of Coins You Can Get.pdb
+C:\Users\Z\source\repos\1561. Maximum Number of Coins You Can Get\obj\Debug\netcoreapp3.1\1561. Maximum Number of Coins You Can Get.genruntimeconfig.cache
