@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "1431. Kids With the Greatest Number of Candies/1.0.0": {
+        "runtime": {
+          "1431. Kids With the Greatest Number of Candies.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "1431. Kids With the Greatest Number of Candies/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
