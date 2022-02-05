@@ -1,0 +1,13 @@
+C:\Users\Z\source\repos\Git\LeetCode\23. Merge k Sorted Lists\bin\Debug\netcoreapp3.1\23. Merge k Sorted Lists.exe
+C:\Users\Z\source\repos\Git\LeetCode\23. Merge k Sorted Lists\bin\Debug\netcoreapp3.1\23. Merge k Sorted Lists.deps.json
+C:\Users\Z\source\repos\Git\LeetCode\23. Merge k Sorted Lists\bin\Debug\netcoreapp3.1\23. Merge k Sorted Lists.runtimeconfig.json
+C:\Users\Z\source\repos\Git\LeetCode\23. Merge k Sorted Lists\bin\Debug\netcoreapp3.1\23. Merge k Sorted Lists.runtimeconfig.dev.json
+C:\Users\Z\source\repos\Git\LeetCode\23. Merge k Sorted Lists\bin\Debug\netcoreapp3.1\23. Merge k Sorted Lists.dll
+C:\Users\Z\source\repos\Git\LeetCode\23. Merge k Sorted Lists\bin\Debug\netcoreapp3.1\23. Merge k Sorted Lists.pdb
+C:\Users\Z\source\repos\Git\LeetCode\23. Merge k Sorted Lists\obj\Debug\netcoreapp3.1\23. Merge k Sorted Lists.csproj.AssemblyReference.cache
+C:\Users\Z\source\repos\Git\LeetCode\23. Merge k Sorted Lists\obj\Debug\netcoreapp3.1\23. Merge k Sorted Lists.AssemblyInfoInputs.cache
+C:\Users\Z\source\repos\Git\LeetCode\23. Merge k Sorted Lists\obj\Debug\netcoreapp3.1\23. Merge k Sorted Lists.AssemblyInfo.cs
+C:\Users\Z\source\repos\Git\LeetCode\23. Merge k Sorted Lists\obj\Debug\netcoreapp3.1\23. Merge k Sorted Lists.csproj.CoreCompileInputs.cache
+C:\Users\Z\source\repos\Git\LeetCode\23. Merge k Sorted Lists\obj\Debug\netcoreapp3.1\23. Merge k Sorted Lists.dll
+C:\Users\Z\source\repos\Git\LeetCode\23. Merge k Sorted Lists\obj\Debug\netcoreapp3.1\23. Merge k Sorted Lists.pdb
+C:\Users\Z\source\repos\Git\LeetCode\23. Merge k Sorted Lists\obj\Debug\netcoreapp3.1\23. Merge k Sorted Lists.genruntimeconfig.cache
