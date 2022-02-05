@@ -1,0 +1,13 @@
+C:\Users\Z\source\repos\Git\LeetCode\1282. Group the People\bin\Debug\netcoreapp3.1\1282. Group the People.exe
+C:\Users\Z\source\repos\Git\LeetCode\1282. Group the People\bin\Debug\netcoreapp3.1\1282. Group the People.deps.json
+C:\Users\Z\source\repos\Git\LeetCode\1282. Group the People\bin\Debug\netcoreapp3.1\1282. Group the People.runtimeconfig.json
+C:\Users\Z\source\repos\Git\LeetCode\1282. Group the People\bin\Debug\netcoreapp3.1\1282. Group the People.runtimeconfig.dev.json
+C:\Users\Z\source\repos\Git\LeetCode\1282. Group the People\bin\Debug\netcoreapp3.1\1282. Group the People.dll
+C:\Users\Z\source\repos\Git\LeetCode\1282. Group the People\bin\Debug\netcoreapp3.1\1282. Group the People.pdb
+C:\Users\Z\source\repos\Git\LeetCode\1282. Group the People\obj\Debug\netcoreapp3.1\1282. Group the People.csproj.AssemblyReference.cache
+C:\Users\Z\source\repos\Git\LeetCode\1282. Group the People\obj\Debug\netcoreapp3.1\1282. Group the People.AssemblyInfoInputs.cache
+C:\Users\Z\source\repos\Git\LeetCode\1282. Group the People\obj\Debug\netcoreapp3.1\1282. Group the People.AssemblyInfo.cs
+C:\Users\Z\source\repos\Git\LeetCode\1282. Group the People\obj\Debug\netcoreapp3.1\1282. Group the People.csproj.CoreCompileInputs.cache
+C:\Users\Z\source\repos\Git\LeetCode\1282. Group the People\obj\Debug\netcoreapp3.1\1282. Group the People.dll
+C:\Users\Z\source\repos\Git\LeetCode\1282. Group the People\obj\Debug\netcoreapp3.1\1282. Group the People.pdb
+C:\Users\Z\source\repos\Git\LeetCode\1282. Group the People\obj\Debug\netcoreapp3.1\1282. Group the People.genruntimeconfig.cache
