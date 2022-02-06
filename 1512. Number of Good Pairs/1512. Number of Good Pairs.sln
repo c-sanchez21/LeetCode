@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31402.337
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1512. Number of Good Pairs", "1512. Number of Good Pairs.csproj", "{411DABD0-ACF2-40F5-BD6A-DB762D80C562}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{411DABD0-ACF2-40F5-BD6A-DB762D80C562}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{411DABD0-ACF2-40F5-BD6A-DB762D80C562}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{411DABD0-ACF2-40F5-BD6A-DB762D80C562}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{411DABD0-ACF2-40F5-BD6A-DB762D80C562}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3006BB24-4325-474F-9EC6-6B16FD9F3A13}
+	EndGlobalSection
+EndGlobal
