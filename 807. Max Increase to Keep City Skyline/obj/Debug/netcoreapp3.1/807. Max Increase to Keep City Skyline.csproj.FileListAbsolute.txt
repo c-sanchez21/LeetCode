@@ -1,0 +1,13 @@
+C:\Users\Z\source\repos\Git\LeetCode\807. Max Increase to Keep City Skyline\obj\Debug\netcoreapp3.1\807. Max Increase to Keep City Skyline.csproj.AssemblyReference.cache
+C:\Users\Z\source\repos\Git\LeetCode\807. Max Increase to Keep City Skyline\obj\Debug\netcoreapp3.1\807. Max Increase to Keep City Skyline.AssemblyInfoInputs.cache
+C:\Users\Z\source\repos\Git\LeetCode\807. Max Increase to Keep City Skyline\obj\Debug\netcoreapp3.1\807. Max Increase to Keep City Skyline.AssemblyInfo.cs
+C:\Users\Z\source\repos\Git\LeetCode\807. Max Increase to Keep City Skyline\obj\Debug\netcoreapp3.1\807. Max Increase to Keep City Skyline.csproj.CoreCompileInputs.cache
+C:\Users\Z\source\repos\Git\LeetCode\807. Max Increase to Keep City Skyline\bin\Debug\netcoreapp3.1\807. Max Increase to Keep City Skyline.exe
+C:\Users\Z\source\repos\Git\LeetCode\807. Max Increase to Keep City Skyline\bin\Debug\netcoreapp3.1\807. Max Increase to Keep City Skyline.deps.json
+C:\Users\Z\source\repos\Git\LeetCode\807. Max Increase to Keep City Skyline\bin\Debug\netcoreapp3.1\807. Max Increase to Keep City Skyline.runtimeconfig.json
+C:\Users\Z\source\repos\Git\LeetCode\807. Max Increase to Keep City Skyline\bin\Debug\netcoreapp3.1\807. Max Increase to Keep City Skyline.runtimeconfig.dev.json
+C:\Users\Z\source\repos\Git\LeetCode\807. Max Increase to Keep City Skyline\bin\Debug\netcoreapp3.1\807. Max Increase to Keep City Skyline.dll
+C:\Users\Z\source\repos\Git\LeetCode\807. Max Increase to Keep City Skyline\bin\Debug\netcoreapp3.1\807. Max Increase to Keep City Skyline.pdb
+C:\Users\Z\source\repos\Git\LeetCode\807. Max Increase to Keep City Skyline\obj\Debug\netcoreapp3.1\807. Max Increase to Keep City Skyline.dll
+C:\Users\Z\source\repos\Git\LeetCode\807. Max Increase to Keep City Skyline\obj\Debug\netcoreapp3.1\807. Max Increase to Keep City Skyline.pdb
+C:\Users\Z\source\repos\Git\LeetCode\807. Max Increase to Keep City Skyline\obj\Debug\netcoreapp3.1\807. Max Increase to Keep City Skyline.genruntimeconfig.cache
