@@ -1,0 +1,13 @@
+C:\Users\Z\source\repos\Git\LeetCode\389. Find the Difference\bin\Debug\netcoreapp3.1\389. Find the Difference.exe
+C:\Users\Z\source\repos\Git\LeetCode\389. Find the Difference\bin\Debug\netcoreapp3.1\389. Find the Difference.deps.json
+C:\Users\Z\source\repos\Git\LeetCode\389. Find the Difference\bin\Debug\netcoreapp3.1\389. Find the Difference.runtimeconfig.json
+C:\Users\Z\source\repos\Git\LeetCode\389. Find the Difference\bin\Debug\netcoreapp3.1\389. Find the Difference.runtimeconfig.dev.json
+C:\Users\Z\source\repos\Git\LeetCode\389. Find the Difference\bin\Debug\netcoreapp3.1\389. Find the Difference.dll
+C:\Users\Z\source\repos\Git\LeetCode\389. Find the Difference\bin\Debug\netcoreapp3.1\389. Find the Difference.pdb
+C:\Users\Z\source\repos\Git\LeetCode\389. Find the Difference\obj\Debug\netcoreapp3.1\389. Find the Difference.csproj.AssemblyReference.cache
+C:\Users\Z\source\repos\Git\LeetCode\389. Find the Difference\obj\Debug\netcoreapp3.1\389. Find the Difference.AssemblyInfoInputs.cache
+C:\Users\Z\source\repos\Git\LeetCode\389. Find the Difference\obj\Debug\netcoreapp3.1\389. Find the Difference.AssemblyInfo.cs
+C:\Users\Z\source\repos\Git\LeetCode\389. Find the Difference\obj\Debug\netcoreapp3.1\389. Find the Difference.csproj.CoreCompileInputs.cache
+C:\Users\Z\source\repos\Git\LeetCode\389. Find the Difference\obj\Debug\netcoreapp3.1\389. Find the Difference.dll
+C:\Users\Z\source\repos\Git\LeetCode\389. Find the Difference\obj\Debug\netcoreapp3.1\389. Find the Difference.pdb
+C:\Users\Z\source\repos\Git\LeetCode\389. Find the Difference\obj\Debug\netcoreapp3.1\389. Find the Difference.genruntimeconfig.cache

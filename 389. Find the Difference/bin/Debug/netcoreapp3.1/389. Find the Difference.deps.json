@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "389. Find the Difference/1.0.0": {
+        "runtime": {
+          "389. Find the Difference.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "389. Find the Difference/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
