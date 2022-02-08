@@ -1,0 +1,13 @@
+C:\Users\Z\source\repos\Git\LeetCode\258. Add Digits\bin\Debug\netcoreapp3.1\258. Add Digits.exe
+C:\Users\Z\source\repos\Git\LeetCode\258. Add Digits\bin\Debug\netcoreapp3.1\258. Add Digits.deps.json
+C:\Users\Z\source\repos\Git\LeetCode\258. Add Digits\bin\Debug\netcoreapp3.1\258. Add Digits.runtimeconfig.json
+C:\Users\Z\source\repos\Git\LeetCode\258. Add Digits\bin\Debug\netcoreapp3.1\258. Add Digits.runtimeconfig.dev.json
+C:\Users\Z\source\repos\Git\LeetCode\258. Add Digits\bin\Debug\netcoreapp3.1\258. Add Digits.dll
+C:\Users\Z\source\repos\Git\LeetCode\258. Add Digits\bin\Debug\netcoreapp3.1\258. Add Digits.pdb
+C:\Users\Z\source\repos\Git\LeetCode\258. Add Digits\obj\Debug\netcoreapp3.1\258. Add Digits.csproj.AssemblyReference.cache
+C:\Users\Z\source\repos\Git\LeetCode\258. Add Digits\obj\Debug\netcoreapp3.1\258. Add Digits.AssemblyInfoInputs.cache
+C:\Users\Z\source\repos\Git\LeetCode\258. Add Digits\obj\Debug\netcoreapp3.1\258. Add Digits.AssemblyInfo.cs
+C:\Users\Z\source\repos\Git\LeetCode\258. Add Digits\obj\Debug\netcoreapp3.1\258. Add Digits.csproj.CoreCompileInputs.cache
+C:\Users\Z\source\repos\Git\LeetCode\258. Add Digits\obj\Debug\netcoreapp3.1\258. Add Digits.dll
+C:\Users\Z\source\repos\Git\LeetCode\258. Add Digits\obj\Debug\netcoreapp3.1\258. Add Digits.pdb
+C:\Users\Z\source\repos\Git\LeetCode\258. Add Digits\obj\Debug\netcoreapp3.1\258. Add Digits.genruntimeconfig.cache
