@@ -1,0 +1,12 @@
+C:\Users\Z\source\repos\Git\LeetCode\763. Partition Labels\bin\Debug\netcoreapp3.1\763. Partition Labels.exe
+C:\Users\Z\source\repos\Git\LeetCode\763. Partition Labels\bin\Debug\netcoreapp3.1\763. Partition Labels.deps.json
+C:\Users\Z\source\repos\Git\LeetCode\763. Partition Labels\bin\Debug\netcoreapp3.1\763. Partition Labels.runtimeconfig.json
+C:\Users\Z\source\repos\Git\LeetCode\763. Partition Labels\bin\Debug\netcoreapp3.1\763. Partition Labels.runtimeconfig.dev.json
+C:\Users\Z\source\repos\Git\LeetCode\763. Partition Labels\bin\Debug\netcoreapp3.1\763. Partition Labels.dll
+C:\Users\Z\source\repos\Git\LeetCode\763. Partition Labels\bin\Debug\netcoreapp3.1\763. Partition Labels.pdb
+C:\Users\Z\source\repos\Git\LeetCode\763. Partition Labels\obj\Debug\netcoreapp3.1\763. Partition Labels.AssemblyInfoInputs.cache
+C:\Users\Z\source\repos\Git\LeetCode\763. Partition Labels\obj\Debug\netcoreapp3.1\763. Partition Labels.AssemblyInfo.cs
+C:\Users\Z\source\repos\Git\LeetCode\763. Partition Labels\obj\Debug\netcoreapp3.1\763. Partition Labels.csproj.CoreCompileInputs.cache
+C:\Users\Z\source\repos\Git\LeetCode\763. Partition Labels\obj\Debug\netcoreapp3.1\763. Partition Labels.dll
+C:\Users\Z\source\repos\Git\LeetCode\763. Partition Labels\obj\Debug\netcoreapp3.1\763. Partition Labels.pdb
+C:\Users\Z\source\repos\Git\LeetCode\763. Partition Labels\obj\Debug\netcoreapp3.1\763. Partition Labels.genruntimeconfig.cache
