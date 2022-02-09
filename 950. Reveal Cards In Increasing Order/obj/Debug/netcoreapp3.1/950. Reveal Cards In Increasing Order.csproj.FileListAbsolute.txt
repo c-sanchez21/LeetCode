@@ -1,0 +1,14 @@
+C:\Users\Z\source\repos\Git\LeetCode\950. Reveal Cards In Increasing Order\bin\Debug\netcoreapp3.1\950. Reveal Cards In Increasing Order.exe
+C:\Users\Z\source\repos\Git\LeetCode\950. Reveal Cards In Increasing Order\bin\Debug\netcoreapp3.1\950. Reveal Cards In Increasing Order.deps.json
+C:\Users\Z\source\repos\Git\LeetCode\950. Reveal Cards In Increasing Order\bin\Debug\netcoreapp3.1\950. Reveal Cards In Increasing Order.runtimeconfig.json
+C:\Users\Z\source\repos\Git\LeetCode\950. Reveal Cards In Increasing Order\bin\Debug\netcoreapp3.1\950. Reveal Cards In Increasing Order.runtimeconfig.dev.json
+C:\Users\Z\source\repos\Git\LeetCode\950. Reveal Cards In Increasing Order\bin\Debug\netcoreapp3.1\950. Reveal Cards In Increasing Order.dll
+C:\Users\Z\source\repos\Git\LeetCode\950. Reveal Cards In Increasing Order\bin\Debug\netcoreapp3.1\950. Reveal Cards In Increasing Order.pdb
+C:\Users\Z\source\repos\Git\LeetCode\950. Reveal Cards In Increasing Order\obj\Debug\netcoreapp3.1\950. Reveal Cards In Increasing Order.csproj.AssemblyReference.cache
+C:\Users\Z\source\repos\Git\LeetCode\950. Reveal Cards In Increasing Order\obj\Debug\netcoreapp3.1\950. Reveal Cards In Increasing Order.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Z\source\repos\Git\LeetCode\950. Reveal Cards In Increasing Order\obj\Debug\netcoreapp3.1\950. Reveal Cards In Increasing Order.AssemblyInfoInputs.cache
+C:\Users\Z\source\repos\Git\LeetCode\950. Reveal Cards In Increasing Order\obj\Debug\netcoreapp3.1\950. Reveal Cards In Increasing Order.AssemblyInfo.cs
+C:\Users\Z\source\repos\Git\LeetCode\950. Reveal Cards In Increasing Order\obj\Debug\netcoreapp3.1\950. Reveal Cards In Increasing Order.csproj.CoreCompileInputs.cache
+C:\Users\Z\source\repos\Git\LeetCode\950. Reveal Cards In Increasing Order\obj\Debug\netcoreapp3.1\950. Reveal Cards In Increasing Order.dll
+C:\Users\Z\source\repos\Git\LeetCode\950. Reveal Cards In Increasing Order\obj\Debug\netcoreapp3.1\950. Reveal Cards In Increasing Order.pdb
+C:\Users\Z\source\repos\Git\LeetCode\950. Reveal Cards In Increasing Order\obj\Debug\netcoreapp3.1\950. Reveal Cards In Increasing Order.genruntimeconfig.cache
