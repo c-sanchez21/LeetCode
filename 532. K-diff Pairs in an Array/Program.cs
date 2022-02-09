@@ -5,6 +5,7 @@ namespace _532._K_diff_Pairs_in_an_Array
 {
     class Program
     {
+        //https://leetcode.com/problems/k-diff-pairs-in-an-array/
         static void Main(string[] args)
         {
             //Examples
@@ -13,7 +14,6 @@ namespace _532._K_diff_Pairs_in_an_Array
             Console.WriteLine(FindPairs(new int[] { 1, 3, 1, 5, 4, 1}, 0));
             Console.WriteLine(FindPairs(new int[] { 1, 2, 4, 4, 3, 3, 0, 9, 2, 3}, 3)); //2
             Console.WriteLine(FindPairs(new int[] { 0, 0, 0, 0, 1, 1, 1, }, 0));
-
         }
 
         public static int FindPairs(int[] nums, int k)
@@ -28,9 +28,9 @@ namespace _532._K_diff_Pairs_in_an_Array
                 if (!counts.ContainsKey(nums[i]))
                     counts.Add(nums[i], 0);
                 counts[nums[i]]++;
-                //else counts[nums[i]] = counts[nums[i]]++;
             }
 
+            //Iterate thru all the numbers and find unique pairs
             int a, b;
             int pairs = 0;
             for(int i = 0; i < nums.Length; i++)
@@ -39,23 +39,19 @@ namespace _532._K_diff_Pairs_in_an_Array
                 if (counts[a] == 0) continue;
                 counts[a]--; //Avoid using twice
                 
-                //a-b = k, or b-a = k ==>
-                //a-k = b, or k+a = b;
+                //a-b = k, or b = a-k
                 b = a - k;
                 if (counts.ContainsKey(b) && counts[b] > 0)
                 {
                     //1st Pair Unique Pair
                     pairs++;
                     counts[a] = 0; //Avoid using the same pair twice - Case K = 0;
-                    Console.WriteLine("[{0},{1}]", a, b);
                 }
 
+                //b-a = k, or b = k+a
                 b = k + a;
                 if (counts.ContainsKey(b) && counts[b] > 0)
-                {
                     pairs++;
-                    Console.WriteLine("[{0},{1}]", a, b);
-                }
 
                 counts[a] = 0; //Pairs for a found already.
             }
