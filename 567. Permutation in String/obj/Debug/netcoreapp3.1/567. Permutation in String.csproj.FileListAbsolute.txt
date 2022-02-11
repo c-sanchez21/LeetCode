@@ -1,0 +1,14 @@
+C:\Users\Z\source\repos\Git\LeetCode\567. Permutation in String\obj\Debug\netcoreapp3.1\567. Permutation in String.csproj.AssemblyReference.cache
+C:\Users\Z\source\repos\Git\LeetCode\567. Permutation in String\obj\Debug\netcoreapp3.1\567. Permutation in String.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Z\source\repos\Git\LeetCode\567. Permutation in String\obj\Debug\netcoreapp3.1\567. Permutation in String.AssemblyInfoInputs.cache
+C:\Users\Z\source\repos\Git\LeetCode\567. Permutation in String\obj\Debug\netcoreapp3.1\567. Permutation in String.AssemblyInfo.cs
+C:\Users\Z\source\repos\Git\LeetCode\567. Permutation in String\obj\Debug\netcoreapp3.1\567. Permutation in String.csproj.CoreCompileInputs.cache
+C:\Users\Z\source\repos\Git\LeetCode\567. Permutation in String\bin\Debug\netcoreapp3.1\567. Permutation in String.exe
+C:\Users\Z\source\repos\Git\LeetCode\567. Permutation in String\bin\Debug\netcoreapp3.1\567. Permutation in String.deps.json
+C:\Users\Z\source\repos\Git\LeetCode\567. Permutation in String\bin\Debug\netcoreapp3.1\567. Permutation in String.runtimeconfig.json
+C:\Users\Z\source\repos\Git\LeetCode\567. Permutation in String\bin\Debug\netcoreapp3.1\567. Permutation in String.runtimeconfig.dev.json
+C:\Users\Z\source\repos\Git\LeetCode\567. Permutation in String\bin\Debug\netcoreapp3.1\567. Permutation in String.dll
+C:\Users\Z\source\repos\Git\LeetCode\567. Permutation in String\bin\Debug\netcoreapp3.1\567. Permutation in String.pdb
+C:\Users\Z\source\repos\Git\LeetCode\567. Permutation in String\obj\Debug\netcoreapp3.1\567. Permutation in String.dll
+C:\Users\Z\source\repos\Git\LeetCode\567. Permutation in String\obj\Debug\netcoreapp3.1\567. Permutation in String.pdb
+C:\Users\Z\source\repos\Git\LeetCode\567. Permutation in String\obj\Debug\netcoreapp3.1\567. Permutation in String.genruntimeconfig.cache

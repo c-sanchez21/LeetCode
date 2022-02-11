@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "560. Subarray Sum Equals K/1.0.0": {
+        "runtime": {
+          "560. Subarray Sum Equals K.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "560. Subarray Sum Equals K/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

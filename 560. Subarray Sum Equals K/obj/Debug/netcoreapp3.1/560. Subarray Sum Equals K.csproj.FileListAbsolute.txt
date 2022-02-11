@@ -1,0 +1,14 @@
+C:\Users\Z\source\repos\Git\LeetCode\560. Subarray Sum Equals K\bin\Debug\netcoreapp3.1\560. Subarray Sum Equals K.exe
+C:\Users\Z\source\repos\Git\LeetCode\560. Subarray Sum Equals K\bin\Debug\netcoreapp3.1\560. Subarray Sum Equals K.deps.json
+C:\Users\Z\source\repos\Git\LeetCode\560. Subarray Sum Equals K\bin\Debug\netcoreapp3.1\560. Subarray Sum Equals K.runtimeconfig.json
+C:\Users\Z\source\repos\Git\LeetCode\560. Subarray Sum Equals K\bin\Debug\netcoreapp3.1\560. Subarray Sum Equals K.runtimeconfig.dev.json
+C:\Users\Z\source\repos\Git\LeetCode\560. Subarray Sum Equals K\bin\Debug\netcoreapp3.1\560. Subarray Sum Equals K.dll
+C:\Users\Z\source\repos\Git\LeetCode\560. Subarray Sum Equals K\bin\Debug\netcoreapp3.1\560. Subarray Sum Equals K.pdb
+C:\Users\Z\source\repos\Git\LeetCode\560. Subarray Sum Equals K\obj\Debug\netcoreapp3.1\560. Subarray Sum Equals K.csproj.AssemblyReference.cache
+C:\Users\Z\source\repos\Git\LeetCode\560. Subarray Sum Equals K\obj\Debug\netcoreapp3.1\560. Subarray Sum Equals K.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Z\source\repos\Git\LeetCode\560. Subarray Sum Equals K\obj\Debug\netcoreapp3.1\560. Subarray Sum Equals K.AssemblyInfoInputs.cache
+C:\Users\Z\source\repos\Git\LeetCode\560. Subarray Sum Equals K\obj\Debug\netcoreapp3.1\560. Subarray Sum Equals K.AssemblyInfo.cs
+C:\Users\Z\source\repos\Git\LeetCode\560. Subarray Sum Equals K\obj\Debug\netcoreapp3.1\560. Subarray Sum Equals K.csproj.CoreCompileInputs.cache
+C:\Users\Z\source\repos\Git\LeetCode\560. Subarray Sum Equals K\obj\Debug\netcoreapp3.1\560. Subarray Sum Equals K.dll
+C:\Users\Z\source\repos\Git\LeetCode\560. Subarray Sum Equals K\obj\Debug\netcoreapp3.1\560. Subarray Sum Equals K.pdb
+C:\Users\Z\source\repos\Git\LeetCode\560. Subarray Sum Equals K\obj\Debug\netcoreapp3.1\560. Subarray Sum Equals K.genruntimeconfig.cache
