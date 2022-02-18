@@ -1,0 +1,14 @@
+C:\Users\Z\source\repos\Git\LeetCode\402. Remove K Digits\bin\Debug\netcoreapp3.1\402. Remove K Digits.exe
+C:\Users\Z\source\repos\Git\LeetCode\402. Remove K Digits\bin\Debug\netcoreapp3.1\402. Remove K Digits.deps.json
+C:\Users\Z\source\repos\Git\LeetCode\402. Remove K Digits\bin\Debug\netcoreapp3.1\402. Remove K Digits.runtimeconfig.json
+C:\Users\Z\source\repos\Git\LeetCode\402. Remove K Digits\bin\Debug\netcoreapp3.1\402. Remove K Digits.runtimeconfig.dev.json
+C:\Users\Z\source\repos\Git\LeetCode\402. Remove K Digits\bin\Debug\netcoreapp3.1\402. Remove K Digits.dll
+C:\Users\Z\source\repos\Git\LeetCode\402. Remove K Digits\bin\Debug\netcoreapp3.1\402. Remove K Digits.pdb
+C:\Users\Z\source\repos\Git\LeetCode\402. Remove K Digits\obj\Debug\netcoreapp3.1\402. Remove K Digits.csproj.AssemblyReference.cache
+C:\Users\Z\source\repos\Git\LeetCode\402. Remove K Digits\obj\Debug\netcoreapp3.1\402. Remove K Digits.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Z\source\repos\Git\LeetCode\402. Remove K Digits\obj\Debug\netcoreapp3.1\402. Remove K Digits.AssemblyInfoInputs.cache
+C:\Users\Z\source\repos\Git\LeetCode\402. Remove K Digits\obj\Debug\netcoreapp3.1\402. Remove K Digits.AssemblyInfo.cs
+C:\Users\Z\source\repos\Git\LeetCode\402. Remove K Digits\obj\Debug\netcoreapp3.1\402. Remove K Digits.csproj.CoreCompileInputs.cache
+C:\Users\Z\source\repos\Git\LeetCode\402. Remove K Digits\obj\Debug\netcoreapp3.1\402. Remove K Digits.dll
+C:\Users\Z\source\repos\Git\LeetCode\402. Remove K Digits\obj\Debug\netcoreapp3.1\402. Remove K Digits.pdb
+C:\Users\Z\source\repos\Git\LeetCode\402. Remove K Digits\obj\Debug\netcoreapp3.1\402. Remove K Digits.genruntimeconfig.cache
