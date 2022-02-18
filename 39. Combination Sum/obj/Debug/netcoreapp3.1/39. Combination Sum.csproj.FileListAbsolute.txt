@@ -1,0 +1,14 @@
+C:\Users\Z\source\repos\Git\LeetCode\39. Combination Sum\bin\Debug\netcoreapp3.1\39. Combination Sum.exe
+C:\Users\Z\source\repos\Git\LeetCode\39. Combination Sum\bin\Debug\netcoreapp3.1\39. Combination Sum.deps.json
+C:\Users\Z\source\repos\Git\LeetCode\39. Combination Sum\bin\Debug\netcoreapp3.1\39. Combination Sum.runtimeconfig.json
+C:\Users\Z\source\repos\Git\LeetCode\39. Combination Sum\bin\Debug\netcoreapp3.1\39. Combination Sum.runtimeconfig.dev.json
+C:\Users\Z\source\repos\Git\LeetCode\39. Combination Sum\bin\Debug\netcoreapp3.1\39. Combination Sum.dll
+C:\Users\Z\source\repos\Git\LeetCode\39. Combination Sum\bin\Debug\netcoreapp3.1\39. Combination Sum.pdb
+C:\Users\Z\source\repos\Git\LeetCode\39. Combination Sum\obj\Debug\netcoreapp3.1\39. Combination Sum.csproj.AssemblyReference.cache
+C:\Users\Z\source\repos\Git\LeetCode\39. Combination Sum\obj\Debug\netcoreapp3.1\39. Combination Sum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Z\source\repos\Git\LeetCode\39. Combination Sum\obj\Debug\netcoreapp3.1\39. Combination Sum.AssemblyInfoInputs.cache
+C:\Users\Z\source\repos\Git\LeetCode\39. Combination Sum\obj\Debug\netcoreapp3.1\39. Combination Sum.AssemblyInfo.cs
+C:\Users\Z\source\repos\Git\LeetCode\39. Combination Sum\obj\Debug\netcoreapp3.1\39. Combination Sum.csproj.CoreCompileInputs.cache
+C:\Users\Z\source\repos\Git\LeetCode\39. Combination Sum\obj\Debug\netcoreapp3.1\39. Combination Sum.dll
+C:\Users\Z\source\repos\Git\LeetCode\39. Combination Sum\obj\Debug\netcoreapp3.1\39. Combination Sum.pdb
+C:\Users\Z\source\repos\Git\LeetCode\39. Combination Sum\obj\Debug\netcoreapp3.1\39. Combination Sum.genruntimeconfig.cache
