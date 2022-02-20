@@ -1,0 +1,14 @@
+C:\Users\Z\source\repos\Git\LeetCode\1288. Remove Covered Intervals\bin\Debug\netcoreapp3.1\1288. Remove Covered Intervals.exe
+C:\Users\Z\source\repos\Git\LeetCode\1288. Remove Covered Intervals\bin\Debug\netcoreapp3.1\1288. Remove Covered Intervals.deps.json
+C:\Users\Z\source\repos\Git\LeetCode\1288. Remove Covered Intervals\bin\Debug\netcoreapp3.1\1288. Remove Covered Intervals.runtimeconfig.json
+C:\Users\Z\source\repos\Git\LeetCode\1288. Remove Covered Intervals\bin\Debug\netcoreapp3.1\1288. Remove Covered Intervals.runtimeconfig.dev.json
+C:\Users\Z\source\repos\Git\LeetCode\1288. Remove Covered Intervals\bin\Debug\netcoreapp3.1\1288. Remove Covered Intervals.dll
+C:\Users\Z\source\repos\Git\LeetCode\1288. Remove Covered Intervals\bin\Debug\netcoreapp3.1\1288. Remove Covered Intervals.pdb
+C:\Users\Z\source\repos\Git\LeetCode\1288. Remove Covered Intervals\obj\Debug\netcoreapp3.1\1288. Remove Covered Intervals.csproj.AssemblyReference.cache
+C:\Users\Z\source\repos\Git\LeetCode\1288. Remove Covered Intervals\obj\Debug\netcoreapp3.1\1288. Remove Covered Intervals.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Z\source\repos\Git\LeetCode\1288. Remove Covered Intervals\obj\Debug\netcoreapp3.1\1288. Remove Covered Intervals.AssemblyInfoInputs.cache
+C:\Users\Z\source\repos\Git\LeetCode\1288. Remove Covered Intervals\obj\Debug\netcoreapp3.1\1288. Remove Covered Intervals.AssemblyInfo.cs
+C:\Users\Z\source\repos\Git\LeetCode\1288. Remove Covered Intervals\obj\Debug\netcoreapp3.1\1288. Remove Covered Intervals.csproj.CoreCompileInputs.cache
+C:\Users\Z\source\repos\Git\LeetCode\1288. Remove Covered Intervals\obj\Debug\netcoreapp3.1\1288. Remove Covered Intervals.dll
+C:\Users\Z\source\repos\Git\LeetCode\1288. Remove Covered Intervals\obj\Debug\netcoreapp3.1\1288. Remove Covered Intervals.pdb
+C:\Users\Z\source\repos\Git\LeetCode\1288. Remove Covered Intervals\obj\Debug\netcoreapp3.1\1288. Remove Covered Intervals.genruntimeconfig.cache
