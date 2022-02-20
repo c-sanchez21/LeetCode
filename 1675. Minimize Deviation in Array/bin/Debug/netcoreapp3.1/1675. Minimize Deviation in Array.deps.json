@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "1675. Minimize Deviation in Array/1.0.0": {
+        "runtime": {
+          "1675. Minimize Deviation in Array.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "1675. Minimize Deviation in Array/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

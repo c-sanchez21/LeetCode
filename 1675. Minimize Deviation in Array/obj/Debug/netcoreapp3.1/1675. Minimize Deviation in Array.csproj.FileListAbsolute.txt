@@ -1,0 +1,14 @@
+C:\Users\Z\source\repos\Git\LeetCode\1675. Minimize Deviation in Array\bin\Debug\netcoreapp3.1\1675. Minimize Deviation in Array.exe
+C:\Users\Z\source\repos\Git\LeetCode\1675. Minimize Deviation in Array\bin\Debug\netcoreapp3.1\1675. Minimize Deviation in Array.deps.json
+C:\Users\Z\source\repos\Git\LeetCode\1675. Minimize Deviation in Array\bin\Debug\netcoreapp3.1\1675. Minimize Deviation in Array.runtimeconfig.json
+C:\Users\Z\source\repos\Git\LeetCode\1675. Minimize Deviation in Array\bin\Debug\netcoreapp3.1\1675. Minimize Deviation in Array.runtimeconfig.dev.json
+C:\Users\Z\source\repos\Git\LeetCode\1675. Minimize Deviation in Array\bin\Debug\netcoreapp3.1\1675. Minimize Deviation in Array.dll
+C:\Users\Z\source\repos\Git\LeetCode\1675. Minimize Deviation in Array\bin\Debug\netcoreapp3.1\1675. Minimize Deviation in Array.pdb
+C:\Users\Z\source\repos\Git\LeetCode\1675. Minimize Deviation in Array\obj\Debug\netcoreapp3.1\1675. Minimize Deviation in Array.csproj.AssemblyReference.cache
+C:\Users\Z\source\repos\Git\LeetCode\1675. Minimize Deviation in Array\obj\Debug\netcoreapp3.1\1675. Minimize Deviation in Array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Z\source\repos\Git\LeetCode\1675. Minimize Deviation in Array\obj\Debug\netcoreapp3.1\1675. Minimize Deviation in Array.AssemblyInfoInputs.cache
+C:\Users\Z\source\repos\Git\LeetCode\1675. Minimize Deviation in Array\obj\Debug\netcoreapp3.1\1675. Minimize Deviation in Array.AssemblyInfo.cs
+C:\Users\Z\source\repos\Git\LeetCode\1675. Minimize Deviation in Array\obj\Debug\netcoreapp3.1\1675. Minimize Deviation in Array.csproj.CoreCompileInputs.cache
+C:\Users\Z\source\repos\Git\LeetCode\1675. Minimize Deviation in Array\obj\Debug\netcoreapp3.1\1675. Minimize Deviation in Array.dll
+C:\Users\Z\source\repos\Git\LeetCode\1675. Minimize Deviation in Array\obj\Debug\netcoreapp3.1\1675. Minimize Deviation in Array.pdb
+C:\Users\Z\source\repos\Git\LeetCode\1675. Minimize Deviation in Array\obj\Debug\netcoreapp3.1\1675. Minimize Deviation in Array.genruntimeconfig.cache
