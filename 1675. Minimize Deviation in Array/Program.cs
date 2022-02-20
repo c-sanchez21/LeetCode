@@ -5,10 +5,11 @@ namespace _1675._Minimize_Deviation_in_Array
 {
     class Program
     {
+        //Difficulty Rating : Hard
         //https://leetcode.com/problems/minimize-deviation-in-array/
         static void Main(string[] args)
         {
-            //Example1
+            //Example
             Console.WriteLine(MinimumDeviation(new int[] { 8, 5, 1, 6 }));
             Console.WriteLine(MinimumDeviation(new int[] { 1, 2, 3, 4 }));
             Console.WriteLine(MinimumDeviation(new int[] { 4, 1, 5, 20,3 }));
