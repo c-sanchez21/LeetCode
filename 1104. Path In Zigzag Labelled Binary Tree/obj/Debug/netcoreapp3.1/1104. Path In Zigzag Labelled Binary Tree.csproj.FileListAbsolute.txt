@@ -1,0 +1,14 @@
+C:\Users\Z\source\repos\Git\LeetCode\1104. Path In Zigzag Labelled Binary Tree\bin\Debug\netcoreapp3.1\1104. Path In Zigzag Labelled Binary Tree.exe
+C:\Users\Z\source\repos\Git\LeetCode\1104. Path In Zigzag Labelled Binary Tree\bin\Debug\netcoreapp3.1\1104. Path In Zigzag Labelled Binary Tree.deps.json
+C:\Users\Z\source\repos\Git\LeetCode\1104. Path In Zigzag Labelled Binary Tree\bin\Debug\netcoreapp3.1\1104. Path In Zigzag Labelled Binary Tree.runtimeconfig.json
+C:\Users\Z\source\repos\Git\LeetCode\1104. Path In Zigzag Labelled Binary Tree\bin\Debug\netcoreapp3.1\1104. Path In Zigzag Labelled Binary Tree.runtimeconfig.dev.json
+C:\Users\Z\source\repos\Git\LeetCode\1104. Path In Zigzag Labelled Binary Tree\bin\Debug\netcoreapp3.1\1104. Path In Zigzag Labelled Binary Tree.dll
+C:\Users\Z\source\repos\Git\LeetCode\1104. Path In Zigzag Labelled Binary Tree\bin\Debug\netcoreapp3.1\1104. Path In Zigzag Labelled Binary Tree.pdb
+C:\Users\Z\source\repos\Git\LeetCode\1104. Path In Zigzag Labelled Binary Tree\obj\Debug\netcoreapp3.1\1104. Path In Zigzag Labelled Binary Tree.csproj.AssemblyReference.cache
+C:\Users\Z\source\repos\Git\LeetCode\1104. Path In Zigzag Labelled Binary Tree\obj\Debug\netcoreapp3.1\1104. Path In Zigzag Labelled Binary Tree.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Z\source\repos\Git\LeetCode\1104. Path In Zigzag Labelled Binary Tree\obj\Debug\netcoreapp3.1\1104. Path In Zigzag Labelled Binary Tree.AssemblyInfoInputs.cache
+C:\Users\Z\source\repos\Git\LeetCode\1104. Path In Zigzag Labelled Binary Tree\obj\Debug\netcoreapp3.1\1104. Path In Zigzag Labelled Binary Tree.AssemblyInfo.cs
+C:\Users\Z\source\repos\Git\LeetCode\1104. Path In Zigzag Labelled Binary Tree\obj\Debug\netcoreapp3.1\1104. Path In Zigzag Labelled Binary Tree.csproj.CoreCompileInputs.cache
+C:\Users\Z\source\repos\Git\LeetCode\1104. Path In Zigzag Labelled Binary Tree\obj\Debug\netcoreapp3.1\1104. Path In Zigzag Labelled Binary Tree.dll
+C:\Users\Z\source\repos\Git\LeetCode\1104. Path In Zigzag Labelled Binary Tree\obj\Debug\netcoreapp3.1\1104. Path In Zigzag Labelled Binary Tree.pdb
+C:\Users\Z\source\repos\Git\LeetCode\1104. Path In Zigzag Labelled Binary Tree\obj\Debug\netcoreapp3.1\1104. Path In Zigzag Labelled Binary Tree.genruntimeconfig.cache
