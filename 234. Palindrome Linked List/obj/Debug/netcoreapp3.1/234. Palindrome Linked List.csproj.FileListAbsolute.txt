@@ -1,0 +1,14 @@
+C:\Users\Z\source\repos\Git\LeetCode\234. Palindrome Linked List\bin\Debug\netcoreapp3.1\234. Palindrome Linked List.exe
+C:\Users\Z\source\repos\Git\LeetCode\234. Palindrome Linked List\bin\Debug\netcoreapp3.1\234. Palindrome Linked List.deps.json
+C:\Users\Z\source\repos\Git\LeetCode\234. Palindrome Linked List\bin\Debug\netcoreapp3.1\234. Palindrome Linked List.runtimeconfig.json
+C:\Users\Z\source\repos\Git\LeetCode\234. Palindrome Linked List\bin\Debug\netcoreapp3.1\234. Palindrome Linked List.runtimeconfig.dev.json
+C:\Users\Z\source\repos\Git\LeetCode\234. Palindrome Linked List\bin\Debug\netcoreapp3.1\234. Palindrome Linked List.dll
+C:\Users\Z\source\repos\Git\LeetCode\234. Palindrome Linked List\bin\Debug\netcoreapp3.1\234. Palindrome Linked List.pdb
+C:\Users\Z\source\repos\Git\LeetCode\234. Palindrome Linked List\obj\Debug\netcoreapp3.1\234. Palindrome Linked List.csproj.AssemblyReference.cache
+C:\Users\Z\source\repos\Git\LeetCode\234. Palindrome Linked List\obj\Debug\netcoreapp3.1\234. Palindrome Linked List.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Z\source\repos\Git\LeetCode\234. Palindrome Linked List\obj\Debug\netcoreapp3.1\234. Palindrome Linked List.AssemblyInfoInputs.cache
+C:\Users\Z\source\repos\Git\LeetCode\234. Palindrome Linked List\obj\Debug\netcoreapp3.1\234. Palindrome Linked List.AssemblyInfo.cs
+C:\Users\Z\source\repos\Git\LeetCode\234. Palindrome Linked List\obj\Debug\netcoreapp3.1\234. Palindrome Linked List.csproj.CoreCompileInputs.cache
+C:\Users\Z\source\repos\Git\LeetCode\234. Palindrome Linked List\obj\Debug\netcoreapp3.1\234. Palindrome Linked List.dll
+C:\Users\Z\source\repos\Git\LeetCode\234. Palindrome Linked List\obj\Debug\netcoreapp3.1\234. Palindrome Linked List.pdb
+C:\Users\Z\source\repos\Git\LeetCode\234. Palindrome Linked List\obj\Debug\netcoreapp3.1\234. Palindrome Linked List.genruntimeconfig.cache
