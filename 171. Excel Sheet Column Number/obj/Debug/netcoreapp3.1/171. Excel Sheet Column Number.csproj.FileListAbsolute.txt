@@ -1,0 +1,14 @@
+C:\Users\Z\source\repos\Git\LeetCode\171. Excel Sheet Column Number\obj\Debug\netcoreapp3.1\171. Excel Sheet Column Number.csproj.AssemblyReference.cache
+C:\Users\Z\source\repos\Git\LeetCode\171. Excel Sheet Column Number\obj\Debug\netcoreapp3.1\171. Excel Sheet Column Number.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Z\source\repos\Git\LeetCode\171. Excel Sheet Column Number\obj\Debug\netcoreapp3.1\171. Excel Sheet Column Number.AssemblyInfoInputs.cache
+C:\Users\Z\source\repos\Git\LeetCode\171. Excel Sheet Column Number\obj\Debug\netcoreapp3.1\171. Excel Sheet Column Number.AssemblyInfo.cs
+C:\Users\Z\source\repos\Git\LeetCode\171. Excel Sheet Column Number\obj\Debug\netcoreapp3.1\171. Excel Sheet Column Number.csproj.CoreCompileInputs.cache
+C:\Users\Z\source\repos\Git\LeetCode\171. Excel Sheet Column Number\bin\Debug\netcoreapp3.1\171. Excel Sheet Column Number.exe
+C:\Users\Z\source\repos\Git\LeetCode\171. Excel Sheet Column Number\bin\Debug\netcoreapp3.1\171. Excel Sheet Column Number.deps.json
+C:\Users\Z\source\repos\Git\LeetCode\171. Excel Sheet Column Number\bin\Debug\netcoreapp3.1\171. Excel Sheet Column Number.runtimeconfig.json
+C:\Users\Z\source\repos\Git\LeetCode\171. Excel Sheet Column Number\bin\Debug\netcoreapp3.1\171. Excel Sheet Column Number.runtimeconfig.dev.json
+C:\Users\Z\source\repos\Git\LeetCode\171. Excel Sheet Column Number\bin\Debug\netcoreapp3.1\171. Excel Sheet Column Number.dll
+C:\Users\Z\source\repos\Git\LeetCode\171. Excel Sheet Column Number\bin\Debug\netcoreapp3.1\171. Excel Sheet Column Number.pdb
+C:\Users\Z\source\repos\Git\LeetCode\171. Excel Sheet Column Number\obj\Debug\netcoreapp3.1\171. Excel Sheet Column Number.dll
+C:\Users\Z\source\repos\Git\LeetCode\171. Excel Sheet Column Number\obj\Debug\netcoreapp3.1\171. Excel Sheet Column Number.pdb
+C:\Users\Z\source\repos\Git\LeetCode\171. Excel Sheet Column Number\obj\Debug\netcoreapp3.1\171. Excel Sheet Column Number.genruntimeconfig.cache
