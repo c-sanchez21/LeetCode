@@ -2,10 +2,12 @@
 
 namespace _171._Excel_Sheet_Column_Number
 {
+    //https://leetcode.com/problems/excel-sheet-column-number/
     class Program
     {
         static void Main(string[] args)
         {
+            //Examples
             Console.WriteLine(TitleToNumber("A"));
             Console.WriteLine(TitleToNumber("B"));
             Console.WriteLine(TitleToNumber("AA"));
