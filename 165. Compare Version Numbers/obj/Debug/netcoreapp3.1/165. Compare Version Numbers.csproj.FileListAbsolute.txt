@@ -1,0 +1,13 @@
+C:\Users\Z\source\repos\Git\LeetCode\165. Compare Version Numbers\bin\Debug\netcoreapp3.1\165. Compare Version Numbers.exe
+C:\Users\Z\source\repos\Git\LeetCode\165. Compare Version Numbers\bin\Debug\netcoreapp3.1\165. Compare Version Numbers.deps.json
+C:\Users\Z\source\repos\Git\LeetCode\165. Compare Version Numbers\bin\Debug\netcoreapp3.1\165. Compare Version Numbers.runtimeconfig.json
+C:\Users\Z\source\repos\Git\LeetCode\165. Compare Version Numbers\bin\Debug\netcoreapp3.1\165. Compare Version Numbers.runtimeconfig.dev.json
+C:\Users\Z\source\repos\Git\LeetCode\165. Compare Version Numbers\bin\Debug\netcoreapp3.1\165. Compare Version Numbers.dll
+C:\Users\Z\source\repos\Git\LeetCode\165. Compare Version Numbers\bin\Debug\netcoreapp3.1\165. Compare Version Numbers.pdb
+C:\Users\Z\source\repos\Git\LeetCode\165. Compare Version Numbers\obj\Debug\netcoreapp3.1\165. Compare Version Numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Z\source\repos\Git\LeetCode\165. Compare Version Numbers\obj\Debug\netcoreapp3.1\165. Compare Version Numbers.AssemblyInfoInputs.cache
+C:\Users\Z\source\repos\Git\LeetCode\165. Compare Version Numbers\obj\Debug\netcoreapp3.1\165. Compare Version Numbers.AssemblyInfo.cs
+C:\Users\Z\source\repos\Git\LeetCode\165. Compare Version Numbers\obj\Debug\netcoreapp3.1\165. Compare Version Numbers.csproj.CoreCompileInputs.cache
+C:\Users\Z\source\repos\Git\LeetCode\165. Compare Version Numbers\obj\Debug\netcoreapp3.1\165. Compare Version Numbers.dll
+C:\Users\Z\source\repos\Git\LeetCode\165. Compare Version Numbers\obj\Debug\netcoreapp3.1\165. Compare Version Numbers.pdb
+C:\Users\Z\source\repos\Git\LeetCode\165. Compare Version Numbers\obj\Debug\netcoreapp3.1\165. Compare Version Numbers.genruntimeconfig.cache
