@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Z\\source\\repos\\Git\\LeetCode\\AMZ\\3Sum\\3Sum\\3Sum.csproj",
-      "projectName": "3Sum",
-      "projectPath": "C:\\Users\\Z\\source\\repos\\Git\\LeetCode\\AMZ\\3Sum\\3Sum\\3Sum.csproj",
+      "projectUniqueName": "C:\\Users\\Z\\source\\repos\\Git\\LeetCode\\16. 3Sum Closest\\16. 3Sum Closest.csproj",
+      "projectName": "16. 3Sum Closest",
+      "projectPath": "C:\\Users\\Z\\source\\repos\\Git\\LeetCode\\16. 3Sum Closest\\16. 3Sum Closest.csproj",
       "packagesPath": "C:\\Users\\Z\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Z\\source\\repos\\Git\\LeetCode\\AMZ\\3Sum\\3Sum\\obj\\",
+      "outputPath": "C:\\Users\\Z\\source\\repos\\Git\\LeetCode\\16. 3Sum Closest\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

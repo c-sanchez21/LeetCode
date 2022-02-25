@@ -1,0 +1,14 @@
+C:\Users\Z\source\repos\Git\LeetCode\16. 3Sum Closest\bin\Debug\netcoreapp3.1\16. 3Sum Closest.exe
+C:\Users\Z\source\repos\Git\LeetCode\16. 3Sum Closest\bin\Debug\netcoreapp3.1\16. 3Sum Closest.deps.json
+C:\Users\Z\source\repos\Git\LeetCode\16. 3Sum Closest\bin\Debug\netcoreapp3.1\16. 3Sum Closest.runtimeconfig.json
+C:\Users\Z\source\repos\Git\LeetCode\16. 3Sum Closest\bin\Debug\netcoreapp3.1\16. 3Sum Closest.runtimeconfig.dev.json
+C:\Users\Z\source\repos\Git\LeetCode\16. 3Sum Closest\bin\Debug\netcoreapp3.1\16. 3Sum Closest.dll
+C:\Users\Z\source\repos\Git\LeetCode\16. 3Sum Closest\bin\Debug\netcoreapp3.1\16. 3Sum Closest.pdb
+C:\Users\Z\source\repos\Git\LeetCode\16. 3Sum Closest\obj\Debug\netcoreapp3.1\16. 3Sum Closest.csproj.AssemblyReference.cache
+C:\Users\Z\source\repos\Git\LeetCode\16. 3Sum Closest\obj\Debug\netcoreapp3.1\16. 3Sum Closest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Z\source\repos\Git\LeetCode\16. 3Sum Closest\obj\Debug\netcoreapp3.1\16. 3Sum Closest.AssemblyInfoInputs.cache
+C:\Users\Z\source\repos\Git\LeetCode\16. 3Sum Closest\obj\Debug\netcoreapp3.1\16. 3Sum Closest.AssemblyInfo.cs
+C:\Users\Z\source\repos\Git\LeetCode\16. 3Sum Closest\obj\Debug\netcoreapp3.1\16. 3Sum Closest.csproj.CoreCompileInputs.cache
+C:\Users\Z\source\repos\Git\LeetCode\16. 3Sum Closest\obj\Debug\netcoreapp3.1\16. 3Sum Closest.dll
+C:\Users\Z\source\repos\Git\LeetCode\16. 3Sum Closest\obj\Debug\netcoreapp3.1\16. 3Sum Closest.pdb
+C:\Users\Z\source\repos\Git\LeetCode\16. 3Sum Closest\obj\Debug\netcoreapp3.1\16. 3Sum Closest.genruntimeconfig.cache
