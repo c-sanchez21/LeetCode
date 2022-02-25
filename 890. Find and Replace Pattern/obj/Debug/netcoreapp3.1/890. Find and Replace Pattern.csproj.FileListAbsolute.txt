@@ -1,0 +1,14 @@
+C:\Users\Z\source\repos\Git\LeetCode\890. Find and Replace Pattern\bin\Debug\netcoreapp3.1\890. Find and Replace Pattern.exe
+C:\Users\Z\source\repos\Git\LeetCode\890. Find and Replace Pattern\bin\Debug\netcoreapp3.1\890. Find and Replace Pattern.deps.json
+C:\Users\Z\source\repos\Git\LeetCode\890. Find and Replace Pattern\bin\Debug\netcoreapp3.1\890. Find and Replace Pattern.runtimeconfig.json
+C:\Users\Z\source\repos\Git\LeetCode\890. Find and Replace Pattern\bin\Debug\netcoreapp3.1\890. Find and Replace Pattern.runtimeconfig.dev.json
+C:\Users\Z\source\repos\Git\LeetCode\890. Find and Replace Pattern\bin\Debug\netcoreapp3.1\890. Find and Replace Pattern.dll
+C:\Users\Z\source\repos\Git\LeetCode\890. Find and Replace Pattern\bin\Debug\netcoreapp3.1\890. Find and Replace Pattern.pdb
+C:\Users\Z\source\repos\Git\LeetCode\890. Find and Replace Pattern\obj\Debug\netcoreapp3.1\890. Find and Replace Pattern.csproj.AssemblyReference.cache
+C:\Users\Z\source\repos\Git\LeetCode\890. Find and Replace Pattern\obj\Debug\netcoreapp3.1\890. Find and Replace Pattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Z\source\repos\Git\LeetCode\890. Find and Replace Pattern\obj\Debug\netcoreapp3.1\890. Find and Replace Pattern.AssemblyInfoInputs.cache
+C:\Users\Z\source\repos\Git\LeetCode\890. Find and Replace Pattern\obj\Debug\netcoreapp3.1\890. Find and Replace Pattern.AssemblyInfo.cs
+C:\Users\Z\source\repos\Git\LeetCode\890. Find and Replace Pattern\obj\Debug\netcoreapp3.1\890. Find and Replace Pattern.csproj.CoreCompileInputs.cache
+C:\Users\Z\source\repos\Git\LeetCode\890. Find and Replace Pattern\obj\Debug\netcoreapp3.1\890. Find and Replace Pattern.dll
+C:\Users\Z\source\repos\Git\LeetCode\890. Find and Replace Pattern\obj\Debug\netcoreapp3.1\890. Find and Replace Pattern.pdb
+C:\Users\Z\source\repos\Git\LeetCode\890. Find and Replace Pattern\obj\Debug\netcoreapp3.1\890. Find and Replace Pattern.genruntimeconfig.cache
