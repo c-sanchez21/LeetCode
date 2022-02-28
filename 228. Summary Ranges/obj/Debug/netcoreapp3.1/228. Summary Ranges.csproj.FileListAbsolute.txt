@@ -1,0 +1,14 @@
+C:\Users\Z\source\repos\Git\LeetCode\228. Summary Ranges\bin\Debug\netcoreapp3.1\228. Summary Ranges.exe
+C:\Users\Z\source\repos\Git\LeetCode\228. Summary Ranges\bin\Debug\netcoreapp3.1\228. Summary Ranges.deps.json
+C:\Users\Z\source\repos\Git\LeetCode\228. Summary Ranges\bin\Debug\netcoreapp3.1\228. Summary Ranges.runtimeconfig.json
+C:\Users\Z\source\repos\Git\LeetCode\228. Summary Ranges\bin\Debug\netcoreapp3.1\228. Summary Ranges.runtimeconfig.dev.json
+C:\Users\Z\source\repos\Git\LeetCode\228. Summary Ranges\bin\Debug\netcoreapp3.1\228. Summary Ranges.dll
+C:\Users\Z\source\repos\Git\LeetCode\228. Summary Ranges\bin\Debug\netcoreapp3.1\228. Summary Ranges.pdb
+C:\Users\Z\source\repos\Git\LeetCode\228. Summary Ranges\obj\Debug\netcoreapp3.1\228. Summary Ranges.csproj.AssemblyReference.cache
+C:\Users\Z\source\repos\Git\LeetCode\228. Summary Ranges\obj\Debug\netcoreapp3.1\228. Summary Ranges.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Z\source\repos\Git\LeetCode\228. Summary Ranges\obj\Debug\netcoreapp3.1\228. Summary Ranges.AssemblyInfoInputs.cache
+C:\Users\Z\source\repos\Git\LeetCode\228. Summary Ranges\obj\Debug\netcoreapp3.1\228. Summary Ranges.AssemblyInfo.cs
+C:\Users\Z\source\repos\Git\LeetCode\228. Summary Ranges\obj\Debug\netcoreapp3.1\228. Summary Ranges.csproj.CoreCompileInputs.cache
+C:\Users\Z\source\repos\Git\LeetCode\228. Summary Ranges\obj\Debug\netcoreapp3.1\228. Summary Ranges.dll
+C:\Users\Z\source\repos\Git\LeetCode\228. Summary Ranges\obj\Debug\netcoreapp3.1\228. Summary Ranges.pdb
+C:\Users\Z\source\repos\Git\LeetCode\228. Summary Ranges\obj\Debug\netcoreapp3.1\228. Summary Ranges.genruntimeconfig.cache
