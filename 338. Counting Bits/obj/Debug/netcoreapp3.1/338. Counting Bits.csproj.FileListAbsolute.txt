@@ -1,0 +1,14 @@
+C:\Users\Z\source\repos\Git\LeetCode\338. Counting Bits\bin\Debug\netcoreapp3.1\338. Counting Bits.exe
+C:\Users\Z\source\repos\Git\LeetCode\338. Counting Bits\bin\Debug\netcoreapp3.1\338. Counting Bits.deps.json
+C:\Users\Z\source\repos\Git\LeetCode\338. Counting Bits\bin\Debug\netcoreapp3.1\338. Counting Bits.runtimeconfig.json
+C:\Users\Z\source\repos\Git\LeetCode\338. Counting Bits\bin\Debug\netcoreapp3.1\338. Counting Bits.runtimeconfig.dev.json
+C:\Users\Z\source\repos\Git\LeetCode\338. Counting Bits\bin\Debug\netcoreapp3.1\338. Counting Bits.dll
+C:\Users\Z\source\repos\Git\LeetCode\338. Counting Bits\bin\Debug\netcoreapp3.1\338. Counting Bits.pdb
+C:\Users\Z\source\repos\Git\LeetCode\338. Counting Bits\obj\Debug\netcoreapp3.1\338. Counting Bits.csproj.AssemblyReference.cache
+C:\Users\Z\source\repos\Git\LeetCode\338. Counting Bits\obj\Debug\netcoreapp3.1\338. Counting Bits.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Z\source\repos\Git\LeetCode\338. Counting Bits\obj\Debug\netcoreapp3.1\338. Counting Bits.AssemblyInfoInputs.cache
+C:\Users\Z\source\repos\Git\LeetCode\338. Counting Bits\obj\Debug\netcoreapp3.1\338. Counting Bits.AssemblyInfo.cs
+C:\Users\Z\source\repos\Git\LeetCode\338. Counting Bits\obj\Debug\netcoreapp3.1\338. Counting Bits.csproj.CoreCompileInputs.cache
+C:\Users\Z\source\repos\Git\LeetCode\338. Counting Bits\obj\Debug\netcoreapp3.1\338. Counting Bits.dll
+C:\Users\Z\source\repos\Git\LeetCode\338. Counting Bits\obj\Debug\netcoreapp3.1\338. Counting Bits.pdb
+C:\Users\Z\source\repos\Git\LeetCode\338. Counting Bits\obj\Debug\netcoreapp3.1\338. Counting Bits.genruntimeconfig.cache
