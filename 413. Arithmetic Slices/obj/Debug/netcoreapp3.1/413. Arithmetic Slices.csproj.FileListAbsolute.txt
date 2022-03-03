@@ -1,0 +1,14 @@
+C:\Users\Z\source\repos\Git\LeetCode\413. Arithmetic Slices\bin\Debug\netcoreapp3.1\413. Arithmetic Slices.exe
+C:\Users\Z\source\repos\Git\LeetCode\413. Arithmetic Slices\bin\Debug\netcoreapp3.1\413. Arithmetic Slices.deps.json
+C:\Users\Z\source\repos\Git\LeetCode\413. Arithmetic Slices\bin\Debug\netcoreapp3.1\413. Arithmetic Slices.runtimeconfig.json
+C:\Users\Z\source\repos\Git\LeetCode\413. Arithmetic Slices\bin\Debug\netcoreapp3.1\413. Arithmetic Slices.runtimeconfig.dev.json
+C:\Users\Z\source\repos\Git\LeetCode\413. Arithmetic Slices\bin\Debug\netcoreapp3.1\413. Arithmetic Slices.dll
+C:\Users\Z\source\repos\Git\LeetCode\413. Arithmetic Slices\bin\Debug\netcoreapp3.1\413. Arithmetic Slices.pdb
+C:\Users\Z\source\repos\Git\LeetCode\413. Arithmetic Slices\obj\Debug\netcoreapp3.1\413. Arithmetic Slices.csproj.AssemblyReference.cache
+C:\Users\Z\source\repos\Git\LeetCode\413. Arithmetic Slices\obj\Debug\netcoreapp3.1\413. Arithmetic Slices.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Z\source\repos\Git\LeetCode\413. Arithmetic Slices\obj\Debug\netcoreapp3.1\413. Arithmetic Slices.AssemblyInfoInputs.cache
+C:\Users\Z\source\repos\Git\LeetCode\413. Arithmetic Slices\obj\Debug\netcoreapp3.1\413. Arithmetic Slices.AssemblyInfo.cs
+C:\Users\Z\source\repos\Git\LeetCode\413. Arithmetic Slices\obj\Debug\netcoreapp3.1\413. Arithmetic Slices.csproj.CoreCompileInputs.cache
+C:\Users\Z\source\repos\Git\LeetCode\413. Arithmetic Slices\obj\Debug\netcoreapp3.1\413. Arithmetic Slices.dll
+C:\Users\Z\source\repos\Git\LeetCode\413. Arithmetic Slices\obj\Debug\netcoreapp3.1\413. Arithmetic Slices.pdb
+C:\Users\Z\source\repos\Git\LeetCode\413. Arithmetic Slices\obj\Debug\netcoreapp3.1\413. Arithmetic Slices.genruntimeconfig.cache

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "413. Arithmetic Slices/1.0.0": {
+        "runtime": {
+          "413. Arithmetic Slices.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "413. Arithmetic Slices/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

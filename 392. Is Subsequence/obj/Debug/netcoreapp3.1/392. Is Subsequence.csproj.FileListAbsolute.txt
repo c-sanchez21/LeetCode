@@ -1,0 +1,14 @@
+C:\Users\Z\source\repos\Git\LeetCode\392. Is Subsequence\bin\Debug\netcoreapp3.1\392. Is Subsequence.exe
+C:\Users\Z\source\repos\Git\LeetCode\392. Is Subsequence\bin\Debug\netcoreapp3.1\392. Is Subsequence.deps.json
+C:\Users\Z\source\repos\Git\LeetCode\392. Is Subsequence\bin\Debug\netcoreapp3.1\392. Is Subsequence.runtimeconfig.json
+C:\Users\Z\source\repos\Git\LeetCode\392. Is Subsequence\bin\Debug\netcoreapp3.1\392. Is Subsequence.runtimeconfig.dev.json
+C:\Users\Z\source\repos\Git\LeetCode\392. Is Subsequence\bin\Debug\netcoreapp3.1\392. Is Subsequence.dll
+C:\Users\Z\source\repos\Git\LeetCode\392. Is Subsequence\bin\Debug\netcoreapp3.1\392. Is Subsequence.pdb
+C:\Users\Z\source\repos\Git\LeetCode\392. Is Subsequence\obj\Debug\netcoreapp3.1\392. Is Subsequence.csproj.AssemblyReference.cache
+C:\Users\Z\source\repos\Git\LeetCode\392. Is Subsequence\obj\Debug\netcoreapp3.1\392. Is Subsequence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Z\source\repos\Git\LeetCode\392. Is Subsequence\obj\Debug\netcoreapp3.1\392. Is Subsequence.AssemblyInfoInputs.cache
+C:\Users\Z\source\repos\Git\LeetCode\392. Is Subsequence\obj\Debug\netcoreapp3.1\392. Is Subsequence.AssemblyInfo.cs
+C:\Users\Z\source\repos\Git\LeetCode\392. Is Subsequence\obj\Debug\netcoreapp3.1\392. Is Subsequence.csproj.CoreCompileInputs.cache
+C:\Users\Z\source\repos\Git\LeetCode\392. Is Subsequence\obj\Debug\netcoreapp3.1\392. Is Subsequence.dll
+C:\Users\Z\source\repos\Git\LeetCode\392. Is Subsequence\obj\Debug\netcoreapp3.1\392. Is Subsequence.pdb
+C:\Users\Z\source\repos\Git\LeetCode\392. Is Subsequence\obj\Debug\netcoreapp3.1\392. Is Subsequence.genruntimeconfig.cache
