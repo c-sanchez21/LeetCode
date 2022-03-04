@@ -1,0 +1,14 @@
+C:\Users\Z\source\repos\Git\LeetCode\799. Champagne Tower\bin\Debug\netcoreapp3.1\799. Champagne Tower.exe
+C:\Users\Z\source\repos\Git\LeetCode\799. Champagne Tower\bin\Debug\netcoreapp3.1\799. Champagne Tower.deps.json
+C:\Users\Z\source\repos\Git\LeetCode\799. Champagne Tower\bin\Debug\netcoreapp3.1\799. Champagne Tower.runtimeconfig.json
+C:\Users\Z\source\repos\Git\LeetCode\799. Champagne Tower\bin\Debug\netcoreapp3.1\799. Champagne Tower.runtimeconfig.dev.json
+C:\Users\Z\source\repos\Git\LeetCode\799. Champagne Tower\bin\Debug\netcoreapp3.1\799. Champagne Tower.dll
+C:\Users\Z\source\repos\Git\LeetCode\799. Champagne Tower\bin\Debug\netcoreapp3.1\799. Champagne Tower.pdb
+C:\Users\Z\source\repos\Git\LeetCode\799. Champagne Tower\obj\Debug\netcoreapp3.1\799. Champagne Tower.csproj.AssemblyReference.cache
+C:\Users\Z\source\repos\Git\LeetCode\799. Champagne Tower\obj\Debug\netcoreapp3.1\799. Champagne Tower.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Z\source\repos\Git\LeetCode\799. Champagne Tower\obj\Debug\netcoreapp3.1\799. Champagne Tower.AssemblyInfoInputs.cache
+C:\Users\Z\source\repos\Git\LeetCode\799. Champagne Tower\obj\Debug\netcoreapp3.1\799. Champagne Tower.AssemblyInfo.cs
+C:\Users\Z\source\repos\Git\LeetCode\799. Champagne Tower\obj\Debug\netcoreapp3.1\799. Champagne Tower.csproj.CoreCompileInputs.cache
+C:\Users\Z\source\repos\Git\LeetCode\799. Champagne Tower\obj\Debug\netcoreapp3.1\799. Champagne Tower.dll
+C:\Users\Z\source\repos\Git\LeetCode\799. Champagne Tower\obj\Debug\netcoreapp3.1\799. Champagne Tower.pdb
+C:\Users\Z\source\repos\Git\LeetCode\799. Champagne Tower\obj\Debug\netcoreapp3.1\799. Champagne Tower.genruntimeconfig.cache
