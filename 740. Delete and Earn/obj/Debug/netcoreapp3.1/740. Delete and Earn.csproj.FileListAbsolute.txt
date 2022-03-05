@@ -1,0 +1,14 @@
+C:\Users\Z\source\repos\Git\LeetCode\740. Delete and Earn\bin\Debug\netcoreapp3.1\740. Delete and Earn.exe
+C:\Users\Z\source\repos\Git\LeetCode\740. Delete and Earn\bin\Debug\netcoreapp3.1\740. Delete and Earn.deps.json
+C:\Users\Z\source\repos\Git\LeetCode\740. Delete and Earn\bin\Debug\netcoreapp3.1\740. Delete and Earn.runtimeconfig.json
+C:\Users\Z\source\repos\Git\LeetCode\740. Delete and Earn\bin\Debug\netcoreapp3.1\740. Delete and Earn.runtimeconfig.dev.json
+C:\Users\Z\source\repos\Git\LeetCode\740. Delete and Earn\bin\Debug\netcoreapp3.1\740. Delete and Earn.dll
+C:\Users\Z\source\repos\Git\LeetCode\740. Delete and Earn\bin\Debug\netcoreapp3.1\740. Delete and Earn.pdb
+C:\Users\Z\source\repos\Git\LeetCode\740. Delete and Earn\obj\Debug\netcoreapp3.1\740. Delete and Earn.csproj.AssemblyReference.cache
+C:\Users\Z\source\repos\Git\LeetCode\740. Delete and Earn\obj\Debug\netcoreapp3.1\740. Delete and Earn.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Z\source\repos\Git\LeetCode\740. Delete and Earn\obj\Debug\netcoreapp3.1\740. Delete and Earn.AssemblyInfoInputs.cache
+C:\Users\Z\source\repos\Git\LeetCode\740. Delete and Earn\obj\Debug\netcoreapp3.1\740. Delete and Earn.AssemblyInfo.cs
+C:\Users\Z\source\repos\Git\LeetCode\740. Delete and Earn\obj\Debug\netcoreapp3.1\740. Delete and Earn.csproj.CoreCompileInputs.cache
+C:\Users\Z\source\repos\Git\LeetCode\740. Delete and Earn\obj\Debug\netcoreapp3.1\740. Delete and Earn.dll
+C:\Users\Z\source\repos\Git\LeetCode\740. Delete and Earn\obj\Debug\netcoreapp3.1\740. Delete and Earn.pdb
+C:\Users\Z\source\repos\Git\LeetCode\740. Delete and Earn\obj\Debug\netcoreapp3.1\740. Delete and Earn.genruntimeconfig.cache

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "740. Delete and Earn/1.0.0": {
+        "runtime": {
+          "740. Delete and Earn.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "740. Delete and Earn/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
