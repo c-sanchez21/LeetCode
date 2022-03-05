@@ -1,0 +1,14 @@
+C:\Users\Z\source\repos\Git\LeetCode\2085. Count Common Words With One Occurrence\bin\Debug\netcoreapp3.1\2085. Count Common Words With One Occurrence.exe
+C:\Users\Z\source\repos\Git\LeetCode\2085. Count Common Words With One Occurrence\bin\Debug\netcoreapp3.1\2085. Count Common Words With One Occurrence.deps.json
+C:\Users\Z\source\repos\Git\LeetCode\2085. Count Common Words With One Occurrence\bin\Debug\netcoreapp3.1\2085. Count Common Words With One Occurrence.runtimeconfig.json
+C:\Users\Z\source\repos\Git\LeetCode\2085. Count Common Words With One Occurrence\bin\Debug\netcoreapp3.1\2085. Count Common Words With One Occurrence.runtimeconfig.dev.json
+C:\Users\Z\source\repos\Git\LeetCode\2085. Count Common Words With One Occurrence\bin\Debug\netcoreapp3.1\2085. Count Common Words With One Occurrence.dll
+C:\Users\Z\source\repos\Git\LeetCode\2085. Count Common Words With One Occurrence\bin\Debug\netcoreapp3.1\2085. Count Common Words With One Occurrence.pdb
+C:\Users\Z\source\repos\Git\LeetCode\2085. Count Common Words With One Occurrence\obj\Debug\netcoreapp3.1\2085. Count Common Words With One Occurrence.csproj.AssemblyReference.cache
+C:\Users\Z\source\repos\Git\LeetCode\2085. Count Common Words With One Occurrence\obj\Debug\netcoreapp3.1\2085. Count Common Words With One Occurrence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Z\source\repos\Git\LeetCode\2085. Count Common Words With One Occurrence\obj\Debug\netcoreapp3.1\2085. Count Common Words With One Occurrence.AssemblyInfoInputs.cache
+C:\Users\Z\source\repos\Git\LeetCode\2085. Count Common Words With One Occurrence\obj\Debug\netcoreapp3.1\2085. Count Common Words With One Occurrence.AssemblyInfo.cs
+C:\Users\Z\source\repos\Git\LeetCode\2085. Count Common Words With One Occurrence\obj\Debug\netcoreapp3.1\2085. Count Common Words With One Occurrence.csproj.CoreCompileInputs.cache
+C:\Users\Z\source\repos\Git\LeetCode\2085. Count Common Words With One Occurrence\obj\Debug\netcoreapp3.1\2085. Count Common Words With One Occurrence.dll
+C:\Users\Z\source\repos\Git\LeetCode\2085. Count Common Words With One Occurrence\obj\Debug\netcoreapp3.1\2085. Count Common Words With One Occurrence.pdb
+C:\Users\Z\source\repos\Git\LeetCode\2085. Count Common Words With One Occurrence\obj\Debug\netcoreapp3.1\2085. Count Common Words With One Occurrence.genruntimeconfig.cache
