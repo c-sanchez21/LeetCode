@@ -1,0 +1,14 @@
+C:\Users\Z\source\repos\Git\LeetCode\Weekly Contest 283\bin\Debug\netcoreapp3.1\Weekly Contest 283.exe
+C:\Users\Z\source\repos\Git\LeetCode\Weekly Contest 283\bin\Debug\netcoreapp3.1\Weekly Contest 283.deps.json
+C:\Users\Z\source\repos\Git\LeetCode\Weekly Contest 283\bin\Debug\netcoreapp3.1\Weekly Contest 283.runtimeconfig.json
+C:\Users\Z\source\repos\Git\LeetCode\Weekly Contest 283\bin\Debug\netcoreapp3.1\Weekly Contest 283.runtimeconfig.dev.json
+C:\Users\Z\source\repos\Git\LeetCode\Weekly Contest 283\bin\Debug\netcoreapp3.1\Weekly Contest 283.dll
+C:\Users\Z\source\repos\Git\LeetCode\Weekly Contest 283\bin\Debug\netcoreapp3.1\Weekly Contest 283.pdb
+C:\Users\Z\source\repos\Git\LeetCode\Weekly Contest 283\obj\Debug\netcoreapp3.1\Weekly Contest 283.csproj.AssemblyReference.cache
+C:\Users\Z\source\repos\Git\LeetCode\Weekly Contest 283\obj\Debug\netcoreapp3.1\Weekly Contest 283.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Z\source\repos\Git\LeetCode\Weekly Contest 283\obj\Debug\netcoreapp3.1\Weekly Contest 283.AssemblyInfoInputs.cache
+C:\Users\Z\source\repos\Git\LeetCode\Weekly Contest 283\obj\Debug\netcoreapp3.1\Weekly Contest 283.AssemblyInfo.cs
+C:\Users\Z\source\repos\Git\LeetCode\Weekly Contest 283\obj\Debug\netcoreapp3.1\Weekly Contest 283.csproj.CoreCompileInputs.cache
+C:\Users\Z\source\repos\Git\LeetCode\Weekly Contest 283\obj\Debug\netcoreapp3.1\Weekly Contest 283.dll
+C:\Users\Z\source\repos\Git\LeetCode\Weekly Contest 283\obj\Debug\netcoreapp3.1\Weekly Contest 283.pdb
+C:\Users\Z\source\repos\Git\LeetCode\Weekly Contest 283\obj\Debug\netcoreapp3.1\Weekly Contest 283.genruntimeconfig.cache

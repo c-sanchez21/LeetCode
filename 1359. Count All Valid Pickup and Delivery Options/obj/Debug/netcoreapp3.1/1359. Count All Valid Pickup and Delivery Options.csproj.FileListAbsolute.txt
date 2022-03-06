@@ -1,0 +1,14 @@
+C:\Users\Z\source\repos\Git\LeetCode\1359. Count All Valid Pickup and Delivery Options\bin\Debug\netcoreapp3.1\1359. Count All Valid Pickup and Delivery Options.exe
+C:\Users\Z\source\repos\Git\LeetCode\1359. Count All Valid Pickup and Delivery Options\bin\Debug\netcoreapp3.1\1359. Count All Valid Pickup and Delivery Options.deps.json
+C:\Users\Z\source\repos\Git\LeetCode\1359. Count All Valid Pickup and Delivery Options\bin\Debug\netcoreapp3.1\1359. Count All Valid Pickup and Delivery Options.runtimeconfig.json
+C:\Users\Z\source\repos\Git\LeetCode\1359. Count All Valid Pickup and Delivery Options\bin\Debug\netcoreapp3.1\1359. Count All Valid Pickup and Delivery Options.runtimeconfig.dev.json
+C:\Users\Z\source\repos\Git\LeetCode\1359. Count All Valid Pickup and Delivery Options\bin\Debug\netcoreapp3.1\1359. Count All Valid Pickup and Delivery Options.dll
+C:\Users\Z\source\repos\Git\LeetCode\1359. Count All Valid Pickup and Delivery Options\bin\Debug\netcoreapp3.1\1359. Count All Valid Pickup and Delivery Options.pdb
+C:\Users\Z\source\repos\Git\LeetCode\1359. Count All Valid Pickup and Delivery Options\obj\Debug\netcoreapp3.1\1359. Count All Valid Pickup and Delivery Options.csproj.AssemblyReference.cache
+C:\Users\Z\source\repos\Git\LeetCode\1359. Count All Valid Pickup and Delivery Options\obj\Debug\netcoreapp3.1\1359. Count All Valid Pickup and Delivery Options.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Z\source\repos\Git\LeetCode\1359. Count All Valid Pickup and Delivery Options\obj\Debug\netcoreapp3.1\1359. Count All Valid Pickup and Delivery Options.AssemblyInfoInputs.cache
+C:\Users\Z\source\repos\Git\LeetCode\1359. Count All Valid Pickup and Delivery Options\obj\Debug\netcoreapp3.1\1359. Count All Valid Pickup and Delivery Options.AssemblyInfo.cs
+C:\Users\Z\source\repos\Git\LeetCode\1359. Count All Valid Pickup and Delivery Options\obj\Debug\netcoreapp3.1\1359. Count All Valid Pickup and Delivery Options.csproj.CoreCompileInputs.cache
+C:\Users\Z\source\repos\Git\LeetCode\1359. Count All Valid Pickup and Delivery Options\obj\Debug\netcoreapp3.1\1359. Count All Valid Pickup and Delivery Options.dll
+C:\Users\Z\source\repos\Git\LeetCode\1359. Count All Valid Pickup and Delivery Options\obj\Debug\netcoreapp3.1\1359. Count All Valid Pickup and Delivery Options.pdb
+C:\Users\Z\source\repos\Git\LeetCode\1359. Count All Valid Pickup and Delivery Options\obj\Debug\netcoreapp3.1\1359. Count All Valid Pickup and Delivery Options.genruntimeconfig.cache
