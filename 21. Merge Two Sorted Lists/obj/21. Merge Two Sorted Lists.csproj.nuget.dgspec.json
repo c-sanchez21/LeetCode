@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Z\\source\\repos\\Git\\LeetCode\\AMZ\\Merge Two Sorted Lists\\Merge Two Sorted Lists\\Merge Two Sorted Lists.csproj": {}
+    "C:\\Users\\Z\\source\\repos\\Git\\LeetCode\\21. Merge Two Sorted Lists\\21. Merge Two Sorted Lists.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Z\\source\\repos\\Git\\LeetCode\\AMZ\\Merge Two Sorted Lists\\Merge Two Sorted Lists\\Merge Two Sorted Lists.csproj": {
+    "C:\\Users\\Z\\source\\repos\\Git\\LeetCode\\21. Merge Two Sorted Lists\\21. Merge Two Sorted Lists.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Z\\source\\repos\\Git\\LeetCode\\AMZ\\Merge Two Sorted Lists\\Merge Two Sorted Lists\\Merge Two Sorted Lists.csproj",
-        "projectName": "Merge Two Sorted Lists",
-        "projectPath": "C:\\Users\\Z\\source\\repos\\Git\\LeetCode\\AMZ\\Merge Two Sorted Lists\\Merge Two Sorted Lists\\Merge Two Sorted Lists.csproj",
+        "projectUniqueName": "C:\\Users\\Z\\source\\repos\\Git\\LeetCode\\21. Merge Two Sorted Lists\\21. Merge Two Sorted Lists.csproj",
+        "projectName": "21. Merge Two Sorted Lists",
+        "projectPath": "C:\\Users\\Z\\source\\repos\\Git\\LeetCode\\21. Merge Two Sorted Lists\\21. Merge Two Sorted Lists.csproj",
         "packagesPath": "C:\\Users\\Z\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Z\\source\\repos\\Git\\LeetCode\\AMZ\\Merge Two Sorted Lists\\Merge Two Sorted Lists\\obj\\",
+        "outputPath": "C:\\Users\\Z\\source\\repos\\Git\\LeetCode\\21. Merge Two Sorted Lists\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
