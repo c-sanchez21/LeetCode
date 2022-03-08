@@ -1,0 +1,14 @@
+C:\Users\Z\source\repos\Git\LeetCode\938. Range Sum of BST\bin\Debug\netcoreapp3.1\938. Range Sum of BST.exe
+C:\Users\Z\source\repos\Git\LeetCode\938. Range Sum of BST\bin\Debug\netcoreapp3.1\938. Range Sum of BST.deps.json
+C:\Users\Z\source\repos\Git\LeetCode\938. Range Sum of BST\bin\Debug\netcoreapp3.1\938. Range Sum of BST.runtimeconfig.json
+C:\Users\Z\source\repos\Git\LeetCode\938. Range Sum of BST\bin\Debug\netcoreapp3.1\938. Range Sum of BST.runtimeconfig.dev.json
+C:\Users\Z\source\repos\Git\LeetCode\938. Range Sum of BST\bin\Debug\netcoreapp3.1\938. Range Sum of BST.dll
+C:\Users\Z\source\repos\Git\LeetCode\938. Range Sum of BST\bin\Debug\netcoreapp3.1\938. Range Sum of BST.pdb
+C:\Users\Z\source\repos\Git\LeetCode\938. Range Sum of BST\obj\Debug\netcoreapp3.1\938. Range Sum of BST.csproj.AssemblyReference.cache
+C:\Users\Z\source\repos\Git\LeetCode\938. Range Sum of BST\obj\Debug\netcoreapp3.1\938. Range Sum of BST.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Z\source\repos\Git\LeetCode\938. Range Sum of BST\obj\Debug\netcoreapp3.1\938. Range Sum of BST.AssemblyInfoInputs.cache
+C:\Users\Z\source\repos\Git\LeetCode\938. Range Sum of BST\obj\Debug\netcoreapp3.1\938. Range Sum of BST.AssemblyInfo.cs
+C:\Users\Z\source\repos\Git\LeetCode\938. Range Sum of BST\obj\Debug\netcoreapp3.1\938. Range Sum of BST.csproj.CoreCompileInputs.cache
+C:\Users\Z\source\repos\Git\LeetCode\938. Range Sum of BST\obj\Debug\netcoreapp3.1\938. Range Sum of BST.dll
+C:\Users\Z\source\repos\Git\LeetCode\938. Range Sum of BST\obj\Debug\netcoreapp3.1\938. Range Sum of BST.pdb
+C:\Users\Z\source\repos\Git\LeetCode\938. Range Sum of BST\obj\Debug\netcoreapp3.1\938. Range Sum of BST.genruntimeconfig.cache
