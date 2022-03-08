@@ -4,6 +4,7 @@ namespace _1022._Sum_of_Root_To_Leaf_Binary_Numbers
 {
     class Program
     {
+        //https://leetcode.com/problems/sum-of-root-to-leaf-binary-numbers/
 
         //Definition for a binary tree node.
         public class TreeNode
@@ -22,13 +23,10 @@ namespace _1022._Sum_of_Root_To_Leaf_Binary_Numbers
         {
             //Build the tree
             TreeNode n = new TreeNode(1);
-
             TreeNode nLeft = new TreeNode(0,
                 new TreeNode(0), new TreeNode(1));
-
             TreeNode nRight = new TreeNode(1,
                 new TreeNode(0), new TreeNode(1));
-
             n.left = nLeft;
             n.right = nRight;
 
@@ -36,6 +34,13 @@ namespace _1022._Sum_of_Root_To_Leaf_Binary_Numbers
         }
 
         static int RootToLeafValue = 0;
+        public static int SumRootToLeaf(TreeNode root)
+        {
+            RootToLeafValue = 0;
+            PreOrder(root, 0);
+            return RootToLeafValue;
+        }
+
         public static void PreOrder(TreeNode n, int cur)
         {
             //Base Case
@@ -47,19 +52,11 @@ namespace _1022._Sum_of_Root_To_Leaf_Binary_Numbers
 
             //If it's a leaf update the sum
             if (n.left == null && n.right == null)
-            {
                 RootToLeafValue += cur;
-                //Console.WriteLine(cur);
-            }
 
             //Continue Pre-Order traversal on children. 
             PreOrder(n.left, cur);
             PreOrder(n.right, cur);
-        }
-        public static int SumRootToLeaf(TreeNode root)
-        {
-            PreOrder(root, 0);
-            return RootToLeafValue;
         }
     }
 }
