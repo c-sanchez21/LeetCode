@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Z\\source\\repos\\Git\\LeetCode\\LinkedListIntersection\\LinkedListIntersection\\LinkedListIntersection.csproj",
-      "projectName": "LinkedListIntersection",
-      "projectPath": "C:\\Users\\Z\\source\\repos\\Git\\LeetCode\\LinkedListIntersection\\LinkedListIntersection\\LinkedListIntersection.csproj",
+      "projectUniqueName": "C:\\Users\\Z\\source\\repos\\Git\\LeetCode\\141. Linked List Cycle\\141. Linked List Cycle.csproj",
+      "projectName": "141. Linked List Cycle",
+      "projectPath": "C:\\Users\\Z\\source\\repos\\Git\\LeetCode\\141. Linked List Cycle\\141. Linked List Cycle.csproj",
       "packagesPath": "C:\\Users\\Z\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Z\\source\\repos\\Git\\LeetCode\\LinkedListIntersection\\LinkedListIntersection\\obj\\",
+      "outputPath": "C:\\Users\\Z\\source\\repos\\Git\\LeetCode\\141. Linked List Cycle\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
