@@ -1,0 +1,14 @@
+C:\Users\Z\source\repos\Git\LeetCode\869. Reordered Power of 2\bin\Debug\netcoreapp3.1\869. Reordered Power of 2.exe
+C:\Users\Z\source\repos\Git\LeetCode\869. Reordered Power of 2\bin\Debug\netcoreapp3.1\869. Reordered Power of 2.deps.json
+C:\Users\Z\source\repos\Git\LeetCode\869. Reordered Power of 2\bin\Debug\netcoreapp3.1\869. Reordered Power of 2.runtimeconfig.json
+C:\Users\Z\source\repos\Git\LeetCode\869. Reordered Power of 2\bin\Debug\netcoreapp3.1\869. Reordered Power of 2.runtimeconfig.dev.json
+C:\Users\Z\source\repos\Git\LeetCode\869. Reordered Power of 2\bin\Debug\netcoreapp3.1\869. Reordered Power of 2.dll
+C:\Users\Z\source\repos\Git\LeetCode\869. Reordered Power of 2\bin\Debug\netcoreapp3.1\869. Reordered Power of 2.pdb
+C:\Users\Z\source\repos\Git\LeetCode\869. Reordered Power of 2\obj\Debug\netcoreapp3.1\869. Reordered Power of 2.csproj.AssemblyReference.cache
+C:\Users\Z\source\repos\Git\LeetCode\869. Reordered Power of 2\obj\Debug\netcoreapp3.1\869. Reordered Power of 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Z\source\repos\Git\LeetCode\869. Reordered Power of 2\obj\Debug\netcoreapp3.1\869. Reordered Power of 2.AssemblyInfoInputs.cache
+C:\Users\Z\source\repos\Git\LeetCode\869. Reordered Power of 2\obj\Debug\netcoreapp3.1\869. Reordered Power of 2.AssemblyInfo.cs
+C:\Users\Z\source\repos\Git\LeetCode\869. Reordered Power of 2\obj\Debug\netcoreapp3.1\869. Reordered Power of 2.csproj.CoreCompileInputs.cache
+C:\Users\Z\source\repos\Git\LeetCode\869. Reordered Power of 2\obj\Debug\netcoreapp3.1\869. Reordered Power of 2.dll
+C:\Users\Z\source\repos\Git\LeetCode\869. Reordered Power of 2\obj\Debug\netcoreapp3.1\869. Reordered Power of 2.pdb
+C:\Users\Z\source\repos\Git\LeetCode\869. Reordered Power of 2\obj\Debug\netcoreapp3.1\869. Reordered Power of 2.genruntimeconfig.cache
