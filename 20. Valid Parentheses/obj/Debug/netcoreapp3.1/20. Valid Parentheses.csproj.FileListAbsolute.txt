@@ -1,0 +1,14 @@
+C:\Users\Z\source\repos\Git\LeetCode\20. Valid Parentheses\bin\Debug\netcoreapp3.1\20. Valid Parentheses.exe
+C:\Users\Z\source\repos\Git\LeetCode\20. Valid Parentheses\bin\Debug\netcoreapp3.1\20. Valid Parentheses.deps.json
+C:\Users\Z\source\repos\Git\LeetCode\20. Valid Parentheses\bin\Debug\netcoreapp3.1\20. Valid Parentheses.runtimeconfig.json
+C:\Users\Z\source\repos\Git\LeetCode\20. Valid Parentheses\bin\Debug\netcoreapp3.1\20. Valid Parentheses.runtimeconfig.dev.json
+C:\Users\Z\source\repos\Git\LeetCode\20. Valid Parentheses\bin\Debug\netcoreapp3.1\20. Valid Parentheses.dll
+C:\Users\Z\source\repos\Git\LeetCode\20. Valid Parentheses\bin\Debug\netcoreapp3.1\20. Valid Parentheses.pdb
+C:\Users\Z\source\repos\Git\LeetCode\20. Valid Parentheses\obj\Debug\netcoreapp3.1\20. Valid Parentheses.csproj.AssemblyReference.cache
+C:\Users\Z\source\repos\Git\LeetCode\20. Valid Parentheses\obj\Debug\netcoreapp3.1\20. Valid Parentheses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Z\source\repos\Git\LeetCode\20. Valid Parentheses\obj\Debug\netcoreapp3.1\20. Valid Parentheses.AssemblyInfoInputs.cache
+C:\Users\Z\source\repos\Git\LeetCode\20. Valid Parentheses\obj\Debug\netcoreapp3.1\20. Valid Parentheses.AssemblyInfo.cs
+C:\Users\Z\source\repos\Git\LeetCode\20. Valid Parentheses\obj\Debug\netcoreapp3.1\20. Valid Parentheses.csproj.CoreCompileInputs.cache
+C:\Users\Z\source\repos\Git\LeetCode\20. Valid Parentheses\obj\Debug\netcoreapp3.1\20. Valid Parentheses.dll
+C:\Users\Z\source\repos\Git\LeetCode\20. Valid Parentheses\obj\Debug\netcoreapp3.1\20. Valid Parentheses.pdb
+C:\Users\Z\source\repos\Git\LeetCode\20. Valid Parentheses\obj\Debug\netcoreapp3.1\20. Valid Parentheses.genruntimeconfig.cache
