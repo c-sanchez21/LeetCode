@@ -1,0 +1,14 @@
+C:\Users\Z\source\repos\Git\LeetCode\71. Simplify Path\bin\Debug\netcoreapp3.1\71. Simplify Path.exe
+C:\Users\Z\source\repos\Git\LeetCode\71. Simplify Path\bin\Debug\netcoreapp3.1\71. Simplify Path.deps.json
+C:\Users\Z\source\repos\Git\LeetCode\71. Simplify Path\bin\Debug\netcoreapp3.1\71. Simplify Path.runtimeconfig.json
+C:\Users\Z\source\repos\Git\LeetCode\71. Simplify Path\bin\Debug\netcoreapp3.1\71. Simplify Path.runtimeconfig.dev.json
+C:\Users\Z\source\repos\Git\LeetCode\71. Simplify Path\bin\Debug\netcoreapp3.1\71. Simplify Path.dll
+C:\Users\Z\source\repos\Git\LeetCode\71. Simplify Path\bin\Debug\netcoreapp3.1\71. Simplify Path.pdb
+C:\Users\Z\source\repos\Git\LeetCode\71. Simplify Path\obj\Debug\netcoreapp3.1\71. Simplify Path.csproj.AssemblyReference.cache
+C:\Users\Z\source\repos\Git\LeetCode\71. Simplify Path\obj\Debug\netcoreapp3.1\71. Simplify Path.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Z\source\repos\Git\LeetCode\71. Simplify Path\obj\Debug\netcoreapp3.1\71. Simplify Path.AssemblyInfoInputs.cache
+C:\Users\Z\source\repos\Git\LeetCode\71. Simplify Path\obj\Debug\netcoreapp3.1\71. Simplify Path.AssemblyInfo.cs
+C:\Users\Z\source\repos\Git\LeetCode\71. Simplify Path\obj\Debug\netcoreapp3.1\71. Simplify Path.csproj.CoreCompileInputs.cache
+C:\Users\Z\source\repos\Git\LeetCode\71. Simplify Path\obj\Debug\netcoreapp3.1\71. Simplify Path.dll
+C:\Users\Z\source\repos\Git\LeetCode\71. Simplify Path\obj\Debug\netcoreapp3.1\71. Simplify Path.pdb
+C:\Users\Z\source\repos\Git\LeetCode\71. Simplify Path\obj\Debug\netcoreapp3.1\71. Simplify Path.genruntimeconfig.cache
