@@ -1,0 +1,14 @@
+C:\Users\Z\source\repos\Git\LeetCode\946. Validate Stack Sequences\obj\Debug\netcoreapp3.1\946. Validate Stack Sequences.csproj.AssemblyReference.cache
+C:\Users\Z\source\repos\Git\LeetCode\946. Validate Stack Sequences\obj\Debug\netcoreapp3.1\946. Validate Stack Sequences.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Z\source\repos\Git\LeetCode\946. Validate Stack Sequences\obj\Debug\netcoreapp3.1\946. Validate Stack Sequences.AssemblyInfoInputs.cache
+C:\Users\Z\source\repos\Git\LeetCode\946. Validate Stack Sequences\obj\Debug\netcoreapp3.1\946. Validate Stack Sequences.AssemblyInfo.cs
+C:\Users\Z\source\repos\Git\LeetCode\946. Validate Stack Sequences\obj\Debug\netcoreapp3.1\946. Validate Stack Sequences.csproj.CoreCompileInputs.cache
+C:\Users\Z\source\repos\Git\LeetCode\946. Validate Stack Sequences\bin\Debug\netcoreapp3.1\946. Validate Stack Sequences.exe
+C:\Users\Z\source\repos\Git\LeetCode\946. Validate Stack Sequences\bin\Debug\netcoreapp3.1\946. Validate Stack Sequences.deps.json
+C:\Users\Z\source\repos\Git\LeetCode\946. Validate Stack Sequences\bin\Debug\netcoreapp3.1\946. Validate Stack Sequences.runtimeconfig.json
+C:\Users\Z\source\repos\Git\LeetCode\946. Validate Stack Sequences\bin\Debug\netcoreapp3.1\946. Validate Stack Sequences.runtimeconfig.dev.json
+C:\Users\Z\source\repos\Git\LeetCode\946. Validate Stack Sequences\bin\Debug\netcoreapp3.1\946. Validate Stack Sequences.dll
+C:\Users\Z\source\repos\Git\LeetCode\946. Validate Stack Sequences\bin\Debug\netcoreapp3.1\946. Validate Stack Sequences.pdb
+C:\Users\Z\source\repos\Git\LeetCode\946. Validate Stack Sequences\obj\Debug\netcoreapp3.1\946. Validate Stack Sequences.dll
+C:\Users\Z\source\repos\Git\LeetCode\946. Validate Stack Sequences\obj\Debug\netcoreapp3.1\946. Validate Stack Sequences.pdb
+C:\Users\Z\source\repos\Git\LeetCode\946. Validate Stack Sequences\obj\Debug\netcoreapp3.1\946. Validate Stack Sequences.genruntimeconfig.cache

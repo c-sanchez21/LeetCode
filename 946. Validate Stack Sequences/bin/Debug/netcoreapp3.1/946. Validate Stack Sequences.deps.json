@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "946. Validate Stack Sequences/1.0.0": {
+        "runtime": {
+          "946. Validate Stack Sequences.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "946. Validate Stack Sequences/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
