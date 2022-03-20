@@ -1,0 +1,14 @@
+C:\Users\Z\source\repos\Git\LeetCode\1007. Minimum Domino Rotations For Equal Row\bin\Debug\netcoreapp3.1\1007. Minimum Domino Rotations For Equal Row.exe
+C:\Users\Z\source\repos\Git\LeetCode\1007. Minimum Domino Rotations For Equal Row\bin\Debug\netcoreapp3.1\1007. Minimum Domino Rotations For Equal Row.deps.json
+C:\Users\Z\source\repos\Git\LeetCode\1007. Minimum Domino Rotations For Equal Row\bin\Debug\netcoreapp3.1\1007. Minimum Domino Rotations For Equal Row.runtimeconfig.json
+C:\Users\Z\source\repos\Git\LeetCode\1007. Minimum Domino Rotations For Equal Row\bin\Debug\netcoreapp3.1\1007. Minimum Domino Rotations For Equal Row.runtimeconfig.dev.json
+C:\Users\Z\source\repos\Git\LeetCode\1007. Minimum Domino Rotations For Equal Row\bin\Debug\netcoreapp3.1\1007. Minimum Domino Rotations For Equal Row.dll
+C:\Users\Z\source\repos\Git\LeetCode\1007. Minimum Domino Rotations For Equal Row\bin\Debug\netcoreapp3.1\1007. Minimum Domino Rotations For Equal Row.pdb
+C:\Users\Z\source\repos\Git\LeetCode\1007. Minimum Domino Rotations For Equal Row\obj\Debug\netcoreapp3.1\1007. Minimum Domino Rotations For Equal Row.csproj.AssemblyReference.cache
+C:\Users\Z\source\repos\Git\LeetCode\1007. Minimum Domino Rotations For Equal Row\obj\Debug\netcoreapp3.1\1007. Minimum Domino Rotations For Equal Row.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Z\source\repos\Git\LeetCode\1007. Minimum Domino Rotations For Equal Row\obj\Debug\netcoreapp3.1\1007. Minimum Domino Rotations For Equal Row.AssemblyInfoInputs.cache
+C:\Users\Z\source\repos\Git\LeetCode\1007. Minimum Domino Rotations For Equal Row\obj\Debug\netcoreapp3.1\1007. Minimum Domino Rotations For Equal Row.AssemblyInfo.cs
+C:\Users\Z\source\repos\Git\LeetCode\1007. Minimum Domino Rotations For Equal Row\obj\Debug\netcoreapp3.1\1007. Minimum Domino Rotations For Equal Row.csproj.CoreCompileInputs.cache
+C:\Users\Z\source\repos\Git\LeetCode\1007. Minimum Domino Rotations For Equal Row\obj\Debug\netcoreapp3.1\1007. Minimum Domino Rotations For Equal Row.dll
+C:\Users\Z\source\repos\Git\LeetCode\1007. Minimum Domino Rotations For Equal Row\obj\Debug\netcoreapp3.1\1007. Minimum Domino Rotations For Equal Row.pdb
+C:\Users\Z\source\repos\Git\LeetCode\1007. Minimum Domino Rotations For Equal Row\obj\Debug\netcoreapp3.1\1007. Minimum Domino Rotations For Equal Row.genruntimeconfig.cache
