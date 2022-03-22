@@ -1,0 +1,14 @@
+C:\Users\Z\source\repos\Git\LeetCode\1663. Smallest String With A Given Numeric Value\obj\Debug\netcoreapp3.1\1663. Smallest String With A Given Numeric Value.csproj.AssemblyReference.cache
+C:\Users\Z\source\repos\Git\LeetCode\1663. Smallest String With A Given Numeric Value\obj\Debug\netcoreapp3.1\1663. Smallest String With A Given Numeric Value.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Z\source\repos\Git\LeetCode\1663. Smallest String With A Given Numeric Value\obj\Debug\netcoreapp3.1\1663. Smallest String With A Given Numeric Value.AssemblyInfoInputs.cache
+C:\Users\Z\source\repos\Git\LeetCode\1663. Smallest String With A Given Numeric Value\obj\Debug\netcoreapp3.1\1663. Smallest String With A Given Numeric Value.AssemblyInfo.cs
+C:\Users\Z\source\repos\Git\LeetCode\1663. Smallest String With A Given Numeric Value\obj\Debug\netcoreapp3.1\1663. Smallest String With A Given Numeric Value.csproj.CoreCompileInputs.cache
+C:\Users\Z\source\repos\Git\LeetCode\1663. Smallest String With A Given Numeric Value\bin\Debug\netcoreapp3.1\1663. Smallest String With A Given Numeric Value.exe
+C:\Users\Z\source\repos\Git\LeetCode\1663. Smallest String With A Given Numeric Value\bin\Debug\netcoreapp3.1\1663. Smallest String With A Given Numeric Value.deps.json
+C:\Users\Z\source\repos\Git\LeetCode\1663. Smallest String With A Given Numeric Value\bin\Debug\netcoreapp3.1\1663. Smallest String With A Given Numeric Value.runtimeconfig.json
+C:\Users\Z\source\repos\Git\LeetCode\1663. Smallest String With A Given Numeric Value\bin\Debug\netcoreapp3.1\1663. Smallest String With A Given Numeric Value.runtimeconfig.dev.json
+C:\Users\Z\source\repos\Git\LeetCode\1663. Smallest String With A Given Numeric Value\bin\Debug\netcoreapp3.1\1663. Smallest String With A Given Numeric Value.dll
+C:\Users\Z\source\repos\Git\LeetCode\1663. Smallest String With A Given Numeric Value\bin\Debug\netcoreapp3.1\1663. Smallest String With A Given Numeric Value.pdb
+C:\Users\Z\source\repos\Git\LeetCode\1663. Smallest String With A Given Numeric Value\obj\Debug\netcoreapp3.1\1663. Smallest String With A Given Numeric Value.dll
+C:\Users\Z\source\repos\Git\LeetCode\1663. Smallest String With A Given Numeric Value\obj\Debug\netcoreapp3.1\1663. Smallest String With A Given Numeric Value.pdb
+C:\Users\Z\source\repos\Git\LeetCode\1663. Smallest String With A Given Numeric Value\obj\Debug\netcoreapp3.1\1663. Smallest String With A Given Numeric Value.genruntimeconfig.cache
