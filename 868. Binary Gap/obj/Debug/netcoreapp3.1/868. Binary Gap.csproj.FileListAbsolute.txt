@@ -1,0 +1,14 @@
+C:\Users\Z\source\repos\Git\LeetCode\868. Binary Gap\bin\Debug\netcoreapp3.1\868. Binary Gap.exe
+C:\Users\Z\source\repos\Git\LeetCode\868. Binary Gap\bin\Debug\netcoreapp3.1\868. Binary Gap.deps.json
+C:\Users\Z\source\repos\Git\LeetCode\868. Binary Gap\bin\Debug\netcoreapp3.1\868. Binary Gap.runtimeconfig.json
+C:\Users\Z\source\repos\Git\LeetCode\868. Binary Gap\bin\Debug\netcoreapp3.1\868. Binary Gap.runtimeconfig.dev.json
+C:\Users\Z\source\repos\Git\LeetCode\868. Binary Gap\bin\Debug\netcoreapp3.1\868. Binary Gap.dll
+C:\Users\Z\source\repos\Git\LeetCode\868. Binary Gap\bin\Debug\netcoreapp3.1\868. Binary Gap.pdb
+C:\Users\Z\source\repos\Git\LeetCode\868. Binary Gap\obj\Debug\netcoreapp3.1\868. Binary Gap.csproj.AssemblyReference.cache
+C:\Users\Z\source\repos\Git\LeetCode\868. Binary Gap\obj\Debug\netcoreapp3.1\868. Binary Gap.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Z\source\repos\Git\LeetCode\868. Binary Gap\obj\Debug\netcoreapp3.1\868. Binary Gap.AssemblyInfoInputs.cache
+C:\Users\Z\source\repos\Git\LeetCode\868. Binary Gap\obj\Debug\netcoreapp3.1\868. Binary Gap.AssemblyInfo.cs
+C:\Users\Z\source\repos\Git\LeetCode\868. Binary Gap\obj\Debug\netcoreapp3.1\868. Binary Gap.csproj.CoreCompileInputs.cache
+C:\Users\Z\source\repos\Git\LeetCode\868. Binary Gap\obj\Debug\netcoreapp3.1\868. Binary Gap.dll
+C:\Users\Z\source\repos\Git\LeetCode\868. Binary Gap\obj\Debug\netcoreapp3.1\868. Binary Gap.pdb
+C:\Users\Z\source\repos\Git\LeetCode\868. Binary Gap\obj\Debug\netcoreapp3.1\868. Binary Gap.genruntimeconfig.cache

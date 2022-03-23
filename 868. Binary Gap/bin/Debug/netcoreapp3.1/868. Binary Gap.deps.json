@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "868. Binary Gap/1.0.0": {
+        "runtime": {
+          "868. Binary Gap.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "868. Binary Gap/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
