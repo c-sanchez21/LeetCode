@@ -1,0 +1,14 @@
+C:\Users\Z\source\repos\Git\LeetCode\991. Broken Calculator\bin\Debug\netcoreapp3.1\991. Broken Calculator.exe
+C:\Users\Z\source\repos\Git\LeetCode\991. Broken Calculator\bin\Debug\netcoreapp3.1\991. Broken Calculator.deps.json
+C:\Users\Z\source\repos\Git\LeetCode\991. Broken Calculator\bin\Debug\netcoreapp3.1\991. Broken Calculator.runtimeconfig.json
+C:\Users\Z\source\repos\Git\LeetCode\991. Broken Calculator\bin\Debug\netcoreapp3.1\991. Broken Calculator.runtimeconfig.dev.json
+C:\Users\Z\source\repos\Git\LeetCode\991. Broken Calculator\bin\Debug\netcoreapp3.1\991. Broken Calculator.dll
+C:\Users\Z\source\repos\Git\LeetCode\991. Broken Calculator\bin\Debug\netcoreapp3.1\991. Broken Calculator.pdb
+C:\Users\Z\source\repos\Git\LeetCode\991. Broken Calculator\obj\Debug\netcoreapp3.1\991. Broken Calculator.csproj.AssemblyReference.cache
+C:\Users\Z\source\repos\Git\LeetCode\991. Broken Calculator\obj\Debug\netcoreapp3.1\991. Broken Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Z\source\repos\Git\LeetCode\991. Broken Calculator\obj\Debug\netcoreapp3.1\991. Broken Calculator.AssemblyInfoInputs.cache
+C:\Users\Z\source\repos\Git\LeetCode\991. Broken Calculator\obj\Debug\netcoreapp3.1\991. Broken Calculator.AssemblyInfo.cs
+C:\Users\Z\source\repos\Git\LeetCode\991. Broken Calculator\obj\Debug\netcoreapp3.1\991. Broken Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Z\source\repos\Git\LeetCode\991. Broken Calculator\obj\Debug\netcoreapp3.1\991. Broken Calculator.dll
+C:\Users\Z\source\repos\Git\LeetCode\991. Broken Calculator\obj\Debug\netcoreapp3.1\991. Broken Calculator.pdb
+C:\Users\Z\source\repos\Git\LeetCode\991. Broken Calculator\obj\Debug\netcoreapp3.1\991. Broken Calculator.genruntimeconfig.cache
