@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Z\\source\\repos\\Git\\LeetCode\\973. K Closest Points to Origin\\973. K Closest Points to Origin\\973. K Closest Points to Origin.csproj",
-      "projectName": "973. K Closest Points to Origin",
-      "projectPath": "C:\\Users\\Z\\source\\repos\\Git\\LeetCode\\973. K Closest Points to Origin\\973. K Closest Points to Origin\\973. K Closest Points to Origin.csproj",
+      "projectUniqueName": "C:\\Users\\Z\\source\\repos\\Git\\LeetCode\\881. Boats to Save People\\881. Boats to Save People.csproj",
+      "projectName": "881. Boats to Save People",
+      "projectPath": "C:\\Users\\Z\\source\\repos\\Git\\LeetCode\\881. Boats to Save People\\881. Boats to Save People.csproj",
       "packagesPath": "C:\\Users\\Z\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Z\\source\\repos\\Git\\LeetCode\\973. K Closest Points to Origin\\973. K Closest Points to Origin\\obj\\",
+      "outputPath": "C:\\Users\\Z\\source\\repos\\Git\\LeetCode\\881. Boats to Save People\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

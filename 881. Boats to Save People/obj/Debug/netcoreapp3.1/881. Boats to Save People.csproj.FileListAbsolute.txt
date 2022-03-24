@@ -1,0 +1,14 @@
+C:\Users\Z\source\repos\Git\LeetCode\881. Boats to Save People\bin\Debug\netcoreapp3.1\881. Boats to Save People.exe
+C:\Users\Z\source\repos\Git\LeetCode\881. Boats to Save People\bin\Debug\netcoreapp3.1\881. Boats to Save People.deps.json
+C:\Users\Z\source\repos\Git\LeetCode\881. Boats to Save People\bin\Debug\netcoreapp3.1\881. Boats to Save People.runtimeconfig.json
+C:\Users\Z\source\repos\Git\LeetCode\881. Boats to Save People\bin\Debug\netcoreapp3.1\881. Boats to Save People.runtimeconfig.dev.json
+C:\Users\Z\source\repos\Git\LeetCode\881. Boats to Save People\bin\Debug\netcoreapp3.1\881. Boats to Save People.dll
+C:\Users\Z\source\repos\Git\LeetCode\881. Boats to Save People\bin\Debug\netcoreapp3.1\881. Boats to Save People.pdb
+C:\Users\Z\source\repos\Git\LeetCode\881. Boats to Save People\obj\Debug\netcoreapp3.1\881. Boats to Save People.csproj.AssemblyReference.cache
+C:\Users\Z\source\repos\Git\LeetCode\881. Boats to Save People\obj\Debug\netcoreapp3.1\881. Boats to Save People.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Z\source\repos\Git\LeetCode\881. Boats to Save People\obj\Debug\netcoreapp3.1\881. Boats to Save People.AssemblyInfoInputs.cache
+C:\Users\Z\source\repos\Git\LeetCode\881. Boats to Save People\obj\Debug\netcoreapp3.1\881. Boats to Save People.AssemblyInfo.cs
+C:\Users\Z\source\repos\Git\LeetCode\881. Boats to Save People\obj\Debug\netcoreapp3.1\881. Boats to Save People.csproj.CoreCompileInputs.cache
+C:\Users\Z\source\repos\Git\LeetCode\881. Boats to Save People\obj\Debug\netcoreapp3.1\881. Boats to Save People.dll
+C:\Users\Z\source\repos\Git\LeetCode\881. Boats to Save People\obj\Debug\netcoreapp3.1\881. Boats to Save People.pdb
+C:\Users\Z\source\repos\Git\LeetCode\881. Boats to Save People\obj\Debug\netcoreapp3.1\881. Boats to Save People.genruntimeconfig.cache
