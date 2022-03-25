@@ -1,0 +1,14 @@
+C:\Users\Z\source\repos\Git\LeetCode\1029. Two City Scheduling\bin\Debug\netcoreapp3.1\1029. Two City Scheduling.exe
+C:\Users\Z\source\repos\Git\LeetCode\1029. Two City Scheduling\bin\Debug\netcoreapp3.1\1029. Two City Scheduling.deps.json
+C:\Users\Z\source\repos\Git\LeetCode\1029. Two City Scheduling\bin\Debug\netcoreapp3.1\1029. Two City Scheduling.runtimeconfig.json
+C:\Users\Z\source\repos\Git\LeetCode\1029. Two City Scheduling\bin\Debug\netcoreapp3.1\1029. Two City Scheduling.runtimeconfig.dev.json
+C:\Users\Z\source\repos\Git\LeetCode\1029. Two City Scheduling\bin\Debug\netcoreapp3.1\1029. Two City Scheduling.dll
+C:\Users\Z\source\repos\Git\LeetCode\1029. Two City Scheduling\bin\Debug\netcoreapp3.1\1029. Two City Scheduling.pdb
+C:\Users\Z\source\repos\Git\LeetCode\1029. Two City Scheduling\obj\Debug\netcoreapp3.1\1029. Two City Scheduling.csproj.AssemblyReference.cache
+C:\Users\Z\source\repos\Git\LeetCode\1029. Two City Scheduling\obj\Debug\netcoreapp3.1\1029. Two City Scheduling.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Z\source\repos\Git\LeetCode\1029. Two City Scheduling\obj\Debug\netcoreapp3.1\1029. Two City Scheduling.AssemblyInfoInputs.cache
+C:\Users\Z\source\repos\Git\LeetCode\1029. Two City Scheduling\obj\Debug\netcoreapp3.1\1029. Two City Scheduling.AssemblyInfo.cs
+C:\Users\Z\source\repos\Git\LeetCode\1029. Two City Scheduling\obj\Debug\netcoreapp3.1\1029. Two City Scheduling.csproj.CoreCompileInputs.cache
+C:\Users\Z\source\repos\Git\LeetCode\1029. Two City Scheduling\obj\Debug\netcoreapp3.1\1029. Two City Scheduling.dll
+C:\Users\Z\source\repos\Git\LeetCode\1029. Two City Scheduling\obj\Debug\netcoreapp3.1\1029. Two City Scheduling.pdb
+C:\Users\Z\source\repos\Git\LeetCode\1029. Two City Scheduling\obj\Debug\netcoreapp3.1\1029. Two City Scheduling.genruntimeconfig.cache
