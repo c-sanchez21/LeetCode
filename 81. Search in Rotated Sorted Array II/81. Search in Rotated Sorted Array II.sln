@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32106.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "81. Search in Rotated Sorted Array II", "81. Search in Rotated Sorted Array II.csproj", "{67577640-229D-4A60-A5CC-11189AA65502}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{67577640-229D-4A60-A5CC-11189AA65502}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{67577640-229D-4A60-A5CC-11189AA65502}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{67577640-229D-4A60-A5CC-11189AA65502}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{67577640-229D-4A60-A5CC-11189AA65502}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3BDF2814-B508-40E1-B14C-D1F8142319FA}
+	EndGlobalSection
+EndGlobal

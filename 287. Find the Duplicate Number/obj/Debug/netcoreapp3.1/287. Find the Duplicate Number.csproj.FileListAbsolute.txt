@@ -1,0 +1,14 @@
+C:\Users\Z\source\repos\Git\LeetCode\287. Find the Duplicate Number\bin\Debug\netcoreapp3.1\287. Find the Duplicate Number.exe
+C:\Users\Z\source\repos\Git\LeetCode\287. Find the Duplicate Number\bin\Debug\netcoreapp3.1\287. Find the Duplicate Number.deps.json
+C:\Users\Z\source\repos\Git\LeetCode\287. Find the Duplicate Number\bin\Debug\netcoreapp3.1\287. Find the Duplicate Number.runtimeconfig.json
+C:\Users\Z\source\repos\Git\LeetCode\287. Find the Duplicate Number\bin\Debug\netcoreapp3.1\287. Find the Duplicate Number.runtimeconfig.dev.json
+C:\Users\Z\source\repos\Git\LeetCode\287. Find the Duplicate Number\bin\Debug\netcoreapp3.1\287. Find the Duplicate Number.dll
+C:\Users\Z\source\repos\Git\LeetCode\287. Find the Duplicate Number\bin\Debug\netcoreapp3.1\287. Find the Duplicate Number.pdb
+C:\Users\Z\source\repos\Git\LeetCode\287. Find the Duplicate Number\obj\Debug\netcoreapp3.1\287. Find the Duplicate Number.csproj.AssemblyReference.cache
+C:\Users\Z\source\repos\Git\LeetCode\287. Find the Duplicate Number\obj\Debug\netcoreapp3.1\287. Find the Duplicate Number.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Z\source\repos\Git\LeetCode\287. Find the Duplicate Number\obj\Debug\netcoreapp3.1\287. Find the Duplicate Number.AssemblyInfoInputs.cache
+C:\Users\Z\source\repos\Git\LeetCode\287. Find the Duplicate Number\obj\Debug\netcoreapp3.1\287. Find the Duplicate Number.AssemblyInfo.cs
+C:\Users\Z\source\repos\Git\LeetCode\287. Find the Duplicate Number\obj\Debug\netcoreapp3.1\287. Find the Duplicate Number.csproj.CoreCompileInputs.cache
+C:\Users\Z\source\repos\Git\LeetCode\287. Find the Duplicate Number\obj\Debug\netcoreapp3.1\287. Find the Duplicate Number.dll
+C:\Users\Z\source\repos\Git\LeetCode\287. Find the Duplicate Number\obj\Debug\netcoreapp3.1\287. Find the Duplicate Number.pdb
+C:\Users\Z\source\repos\Git\LeetCode\287. Find the Duplicate Number\obj\Debug\netcoreapp3.1\287. Find the Duplicate Number.genruntimeconfig.cache
