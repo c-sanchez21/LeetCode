@@ -1,0 +1,14 @@
+C:\Users\Z\source\repos\Git\LeetCode\74. Search a 2D Matrix\bin\Debug\netcoreapp3.1\74. Search a 2D Matrix.exe
+C:\Users\Z\source\repos\Git\LeetCode\74. Search a 2D Matrix\bin\Debug\netcoreapp3.1\74. Search a 2D Matrix.deps.json
+C:\Users\Z\source\repos\Git\LeetCode\74. Search a 2D Matrix\bin\Debug\netcoreapp3.1\74. Search a 2D Matrix.runtimeconfig.json
+C:\Users\Z\source\repos\Git\LeetCode\74. Search a 2D Matrix\bin\Debug\netcoreapp3.1\74. Search a 2D Matrix.runtimeconfig.dev.json
+C:\Users\Z\source\repos\Git\LeetCode\74. Search a 2D Matrix\bin\Debug\netcoreapp3.1\74. Search a 2D Matrix.dll
+C:\Users\Z\source\repos\Git\LeetCode\74. Search a 2D Matrix\bin\Debug\netcoreapp3.1\74. Search a 2D Matrix.pdb
+C:\Users\Z\source\repos\Git\LeetCode\74. Search a 2D Matrix\obj\Debug\netcoreapp3.1\74. Search a 2D Matrix.csproj.AssemblyReference.cache
+C:\Users\Z\source\repos\Git\LeetCode\74. Search a 2D Matrix\obj\Debug\netcoreapp3.1\74. Search a 2D Matrix.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Z\source\repos\Git\LeetCode\74. Search a 2D Matrix\obj\Debug\netcoreapp3.1\74. Search a 2D Matrix.AssemblyInfoInputs.cache
+C:\Users\Z\source\repos\Git\LeetCode\74. Search a 2D Matrix\obj\Debug\netcoreapp3.1\74. Search a 2D Matrix.AssemblyInfo.cs
+C:\Users\Z\source\repos\Git\LeetCode\74. Search a 2D Matrix\obj\Debug\netcoreapp3.1\74. Search a 2D Matrix.csproj.CoreCompileInputs.cache
+C:\Users\Z\source\repos\Git\LeetCode\74. Search a 2D Matrix\obj\Debug\netcoreapp3.1\74. Search a 2D Matrix.dll
+C:\Users\Z\source\repos\Git\LeetCode\74. Search a 2D Matrix\obj\Debug\netcoreapp3.1\74. Search a 2D Matrix.pdb
+C:\Users\Z\source\repos\Git\LeetCode\74. Search a 2D Matrix\obj\Debug\netcoreapp3.1\74. Search a 2D Matrix.genruntimeconfig.cache
