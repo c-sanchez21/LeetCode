@@ -1,0 +1,14 @@
+C:\Users\Z\source\repos\Git\LeetCode\410. Split Array Largest Sum\bin\Debug\netcoreapp3.1\410. Split Array Largest Sum.exe
+C:\Users\Z\source\repos\Git\LeetCode\410. Split Array Largest Sum\bin\Debug\netcoreapp3.1\410. Split Array Largest Sum.deps.json
+C:\Users\Z\source\repos\Git\LeetCode\410. Split Array Largest Sum\bin\Debug\netcoreapp3.1\410. Split Array Largest Sum.runtimeconfig.json
+C:\Users\Z\source\repos\Git\LeetCode\410. Split Array Largest Sum\bin\Debug\netcoreapp3.1\410. Split Array Largest Sum.runtimeconfig.dev.json
+C:\Users\Z\source\repos\Git\LeetCode\410. Split Array Largest Sum\bin\Debug\netcoreapp3.1\410. Split Array Largest Sum.dll
+C:\Users\Z\source\repos\Git\LeetCode\410. Split Array Largest Sum\bin\Debug\netcoreapp3.1\410. Split Array Largest Sum.pdb
+C:\Users\Z\source\repos\Git\LeetCode\410. Split Array Largest Sum\obj\Debug\netcoreapp3.1\410. Split Array Largest Sum.csproj.AssemblyReference.cache
+C:\Users\Z\source\repos\Git\LeetCode\410. Split Array Largest Sum\obj\Debug\netcoreapp3.1\410. Split Array Largest Sum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Z\source\repos\Git\LeetCode\410. Split Array Largest Sum\obj\Debug\netcoreapp3.1\410. Split Array Largest Sum.AssemblyInfoInputs.cache
+C:\Users\Z\source\repos\Git\LeetCode\410. Split Array Largest Sum\obj\Debug\netcoreapp3.1\410. Split Array Largest Sum.AssemblyInfo.cs
+C:\Users\Z\source\repos\Git\LeetCode\410. Split Array Largest Sum\obj\Debug\netcoreapp3.1\410. Split Array Largest Sum.csproj.CoreCompileInputs.cache
+C:\Users\Z\source\repos\Git\LeetCode\410. Split Array Largest Sum\obj\Debug\netcoreapp3.1\410. Split Array Largest Sum.dll
+C:\Users\Z\source\repos\Git\LeetCode\410. Split Array Largest Sum\obj\Debug\netcoreapp3.1\410. Split Array Largest Sum.pdb
+C:\Users\Z\source\repos\Git\LeetCode\410. Split Array Largest Sum\obj\Debug\netcoreapp3.1\410. Split Array Largest Sum.genruntimeconfig.cache

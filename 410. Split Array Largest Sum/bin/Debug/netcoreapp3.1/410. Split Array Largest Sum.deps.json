@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "410. Split Array Largest Sum/1.0.0": {
+        "runtime": {
+          "410. Split Array Largest Sum.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "410. Split Array Largest Sum/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
