@@ -1,0 +1,14 @@
+C:\Users\Z\source\repos\Git\LeetCode\344. Reverse String\bin\Debug\netcoreapp3.1\344. Reverse String.exe
+C:\Users\Z\source\repos\Git\LeetCode\344. Reverse String\bin\Debug\netcoreapp3.1\344. Reverse String.deps.json
+C:\Users\Z\source\repos\Git\LeetCode\344. Reverse String\bin\Debug\netcoreapp3.1\344. Reverse String.runtimeconfig.json
+C:\Users\Z\source\repos\Git\LeetCode\344. Reverse String\bin\Debug\netcoreapp3.1\344. Reverse String.runtimeconfig.dev.json
+C:\Users\Z\source\repos\Git\LeetCode\344. Reverse String\bin\Debug\netcoreapp3.1\344. Reverse String.dll
+C:\Users\Z\source\repos\Git\LeetCode\344. Reverse String\bin\Debug\netcoreapp3.1\344. Reverse String.pdb
+C:\Users\Z\source\repos\Git\LeetCode\344. Reverse String\obj\Debug\netcoreapp3.1\344. Reverse String.csproj.AssemblyReference.cache
+C:\Users\Z\source\repos\Git\LeetCode\344. Reverse String\obj\Debug\netcoreapp3.1\344. Reverse String.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Z\source\repos\Git\LeetCode\344. Reverse String\obj\Debug\netcoreapp3.1\344. Reverse String.AssemblyInfoInputs.cache
+C:\Users\Z\source\repos\Git\LeetCode\344. Reverse String\obj\Debug\netcoreapp3.1\344. Reverse String.AssemblyInfo.cs
+C:\Users\Z\source\repos\Git\LeetCode\344. Reverse String\obj\Debug\netcoreapp3.1\344. Reverse String.csproj.CoreCompileInputs.cache
+C:\Users\Z\source\repos\Git\LeetCode\344. Reverse String\obj\Debug\netcoreapp3.1\344. Reverse String.dll
+C:\Users\Z\source\repos\Git\LeetCode\344. Reverse String\obj\Debug\netcoreapp3.1\344. Reverse String.pdb
+C:\Users\Z\source\repos\Git\LeetCode\344. Reverse String\obj\Debug\netcoreapp3.1\344. Reverse String.genruntimeconfig.cache
