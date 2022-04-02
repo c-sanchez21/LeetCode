@@ -1,0 +1,14 @@
+C:\Users\Z\source\repos\Git\LeetCode\680. Valid Palindrome II\bin\Debug\netcoreapp3.1\680. Valid Palindrome II.exe
+C:\Users\Z\source\repos\Git\LeetCode\680. Valid Palindrome II\bin\Debug\netcoreapp3.1\680. Valid Palindrome II.deps.json
+C:\Users\Z\source\repos\Git\LeetCode\680. Valid Palindrome II\bin\Debug\netcoreapp3.1\680. Valid Palindrome II.runtimeconfig.json
+C:\Users\Z\source\repos\Git\LeetCode\680. Valid Palindrome II\bin\Debug\netcoreapp3.1\680. Valid Palindrome II.runtimeconfig.dev.json
+C:\Users\Z\source\repos\Git\LeetCode\680. Valid Palindrome II\bin\Debug\netcoreapp3.1\680. Valid Palindrome II.dll
+C:\Users\Z\source\repos\Git\LeetCode\680. Valid Palindrome II\bin\Debug\netcoreapp3.1\680. Valid Palindrome II.pdb
+C:\Users\Z\source\repos\Git\LeetCode\680. Valid Palindrome II\obj\Debug\netcoreapp3.1\680. Valid Palindrome II.csproj.AssemblyReference.cache
+C:\Users\Z\source\repos\Git\LeetCode\680. Valid Palindrome II\obj\Debug\netcoreapp3.1\680. Valid Palindrome II.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Z\source\repos\Git\LeetCode\680. Valid Palindrome II\obj\Debug\netcoreapp3.1\680. Valid Palindrome II.AssemblyInfoInputs.cache
+C:\Users\Z\source\repos\Git\LeetCode\680. Valid Palindrome II\obj\Debug\netcoreapp3.1\680. Valid Palindrome II.AssemblyInfo.cs
+C:\Users\Z\source\repos\Git\LeetCode\680. Valid Palindrome II\obj\Debug\netcoreapp3.1\680. Valid Palindrome II.csproj.CoreCompileInputs.cache
+C:\Users\Z\source\repos\Git\LeetCode\680. Valid Palindrome II\obj\Debug\netcoreapp3.1\680. Valid Palindrome II.dll
+C:\Users\Z\source\repos\Git\LeetCode\680. Valid Palindrome II\obj\Debug\netcoreapp3.1\680. Valid Palindrome II.pdb
+C:\Users\Z\source\repos\Git\LeetCode\680. Valid Palindrome II\obj\Debug\netcoreapp3.1\680. Valid Palindrome II.genruntimeconfig.cache
