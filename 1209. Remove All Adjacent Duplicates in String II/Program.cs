@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Remove_All_Adjacent_Duplicates_in_String_II
+namespace _1209._Remove_All_Adjacent_Duplicates_in_String_II
 {
     class Program
     {
@@ -15,12 +15,13 @@ namespace Remove_All_Adjacent_Duplicates_in_String_II
         public static string RemoveDuplicates(string s, int k)
         {
             if (k > s.Length) return s;
+            if (k == 1) return "";
 
             //Use memoization
             int[] counts = new int[s.Length];
 
             //Iterate thru the string
-            for(int i =0; i < s.Length; i++)
+            for (int i = 0; i < s.Length; i++)
             {
                 //If chars don't match or at index 0
                 if (i == 0 || s[i] != s[i - 1])
@@ -28,7 +29,7 @@ namespace Remove_All_Adjacent_Duplicates_in_String_II
                 else //Char match
                 {
                     counts[i] = counts[i - 1] + 1;//Increment count
-                    if(counts[i] == k)//if we have k duplicates
+                    if (counts[i] == k)//if we have k duplicates
                     {//Remove from string
                         s = s.Remove(i - k + 1, k);
                         i = i - k;

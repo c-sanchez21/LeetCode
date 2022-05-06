@@ -3,7 +3,7 @@
   <PropertyGroup>
     <OutputType>Exe</OutputType>
     <TargetFramework>netcoreapp3.1</TargetFramework>
-    <RootNamespace>Remove_All_Adjacent_Duplicates_in_String_II</RootNamespace>
+    <RootNamespace>_1209._Remove_All_Adjacent_Duplicates_in_String_II</RootNamespace>
   </PropertyGroup>
 
 </Project>
