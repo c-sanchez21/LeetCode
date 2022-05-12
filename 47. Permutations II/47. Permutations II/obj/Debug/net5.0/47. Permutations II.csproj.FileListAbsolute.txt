@@ -1,0 +1,16 @@
+C:\Users\Z\source\repos\Git\LeetCode\47. Permutations II\47. Permutations II\bin\Debug\net5.0\47. Permutations II.exe
+C:\Users\Z\source\repos\Git\LeetCode\47. Permutations II\47. Permutations II\bin\Debug\net5.0\47. Permutations II.deps.json
+C:\Users\Z\source\repos\Git\LeetCode\47. Permutations II\47. Permutations II\bin\Debug\net5.0\47. Permutations II.runtimeconfig.json
+C:\Users\Z\source\repos\Git\LeetCode\47. Permutations II\47. Permutations II\bin\Debug\net5.0\47. Permutations II.runtimeconfig.dev.json
+C:\Users\Z\source\repos\Git\LeetCode\47. Permutations II\47. Permutations II\bin\Debug\net5.0\47. Permutations II.dll
+C:\Users\Z\source\repos\Git\LeetCode\47. Permutations II\47. Permutations II\bin\Debug\net5.0\47. Permutations II.pdb
+C:\Users\Z\source\repos\Git\LeetCode\47. Permutations II\47. Permutations II\obj\Debug\net5.0\47. Permutations II.csproj.AssemblyReference.cache
+C:\Users\Z\source\repos\Git\LeetCode\47. Permutations II\47. Permutations II\obj\Debug\net5.0\47. Permutations II.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Z\source\repos\Git\LeetCode\47. Permutations II\47. Permutations II\obj\Debug\net5.0\47. Permutations II.AssemblyInfoInputs.cache
+C:\Users\Z\source\repos\Git\LeetCode\47. Permutations II\47. Permutations II\obj\Debug\net5.0\47. Permutations II.AssemblyInfo.cs
+C:\Users\Z\source\repos\Git\LeetCode\47. Permutations II\47. Permutations II\obj\Debug\net5.0\47. Permutations II.csproj.CoreCompileInputs.cache
+C:\Users\Z\source\repos\Git\LeetCode\47. Permutations II\47. Permutations II\obj\Debug\net5.0\47. Permutations II.dll
+C:\Users\Z\source\repos\Git\LeetCode\47. Permutations II\47. Permutations II\obj\Debug\net5.0\refint\47. Permutations II.dll
+C:\Users\Z\source\repos\Git\LeetCode\47. Permutations II\47. Permutations II\obj\Debug\net5.0\47. Permutations II.pdb
+C:\Users\Z\source\repos\Git\LeetCode\47. Permutations II\47. Permutations II\obj\Debug\net5.0\47. Permutations II.genruntimeconfig.cache
+C:\Users\Z\source\repos\Git\LeetCode\47. Permutations II\47. Permutations II\obj\Debug\net5.0\ref\47. Permutations II.dll
