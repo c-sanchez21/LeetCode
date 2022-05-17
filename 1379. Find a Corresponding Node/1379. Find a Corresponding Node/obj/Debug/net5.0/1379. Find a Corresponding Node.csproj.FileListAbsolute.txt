@@ -1,0 +1,16 @@
+C:\Users\Z\source\repos\Git\LeetCode\1379. Find a Corresponding Node\1379. Find a Corresponding Node\bin\Debug\net5.0\1379. Find a Corresponding Node.exe
+C:\Users\Z\source\repos\Git\LeetCode\1379. Find a Corresponding Node\1379. Find a Corresponding Node\bin\Debug\net5.0\1379. Find a Corresponding Node.deps.json
+C:\Users\Z\source\repos\Git\LeetCode\1379. Find a Corresponding Node\1379. Find a Corresponding Node\bin\Debug\net5.0\1379. Find a Corresponding Node.runtimeconfig.json
+C:\Users\Z\source\repos\Git\LeetCode\1379. Find a Corresponding Node\1379. Find a Corresponding Node\bin\Debug\net5.0\1379. Find a Corresponding Node.runtimeconfig.dev.json
+C:\Users\Z\source\repos\Git\LeetCode\1379. Find a Corresponding Node\1379. Find a Corresponding Node\bin\Debug\net5.0\1379. Find a Corresponding Node.dll
+C:\Users\Z\source\repos\Git\LeetCode\1379. Find a Corresponding Node\1379. Find a Corresponding Node\bin\Debug\net5.0\1379. Find a Corresponding Node.pdb
+C:\Users\Z\source\repos\Git\LeetCode\1379. Find a Corresponding Node\1379. Find a Corresponding Node\obj\Debug\net5.0\1379. Find a Corresponding Node.csproj.AssemblyReference.cache
+C:\Users\Z\source\repos\Git\LeetCode\1379. Find a Corresponding Node\1379. Find a Corresponding Node\obj\Debug\net5.0\1379. Find a Corresponding Node.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Z\source\repos\Git\LeetCode\1379. Find a Corresponding Node\1379. Find a Corresponding Node\obj\Debug\net5.0\1379. Find a Corresponding Node.AssemblyInfoInputs.cache
+C:\Users\Z\source\repos\Git\LeetCode\1379. Find a Corresponding Node\1379. Find a Corresponding Node\obj\Debug\net5.0\1379. Find a Corresponding Node.AssemblyInfo.cs
+C:\Users\Z\source\repos\Git\LeetCode\1379. Find a Corresponding Node\1379. Find a Corresponding Node\obj\Debug\net5.0\1379. Find a Corresponding Node.csproj.CoreCompileInputs.cache
+C:\Users\Z\source\repos\Git\LeetCode\1379. Find a Corresponding Node\1379. Find a Corresponding Node\obj\Debug\net5.0\1379. Find a Corresponding Node.dll
+C:\Users\Z\source\repos\Git\LeetCode\1379. Find a Corresponding Node\1379. Find a Corresponding Node\obj\Debug\net5.0\refint\1379. Find a Corresponding Node.dll
+C:\Users\Z\source\repos\Git\LeetCode\1379. Find a Corresponding Node\1379. Find a Corresponding Node\obj\Debug\net5.0\1379. Find a Corresponding Node.pdb
+C:\Users\Z\source\repos\Git\LeetCode\1379. Find a Corresponding Node\1379. Find a Corresponding Node\obj\Debug\net5.0\1379. Find a Corresponding Node.genruntimeconfig.cache
+C:\Users\Z\source\repos\Git\LeetCode\1379. Find a Corresponding Node\1379. Find a Corresponding Node\obj\Debug\net5.0\ref\1379. Find a Corresponding Node.dll
