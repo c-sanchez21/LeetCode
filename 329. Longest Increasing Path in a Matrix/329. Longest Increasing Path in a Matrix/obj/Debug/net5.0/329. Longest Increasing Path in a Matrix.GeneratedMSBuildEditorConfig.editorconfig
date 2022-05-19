@@ -1,0 +1,10 @@
+is_global = true
+build_property.TargetFramework = net5.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = _329._Longest_Increasing_Path_in_a_Matrix
+build_property.ProjectDir = C:\Users\Z\source\repos\Git\LeetCode\329. Longest Increasing Path in a Matrix\329. Longest Increasing Path in a Matrix\

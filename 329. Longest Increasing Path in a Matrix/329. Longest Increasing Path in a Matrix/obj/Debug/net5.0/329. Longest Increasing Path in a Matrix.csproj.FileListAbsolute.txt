@@ -1,0 +1,16 @@
+C:\Users\Z\source\repos\Git\LeetCode\329. Longest Increasing Path in a Matrix\329. Longest Increasing Path in a Matrix\bin\Debug\net5.0\329. Longest Increasing Path in a Matrix.exe
+C:\Users\Z\source\repos\Git\LeetCode\329. Longest Increasing Path in a Matrix\329. Longest Increasing Path in a Matrix\bin\Debug\net5.0\329. Longest Increasing Path in a Matrix.deps.json
+C:\Users\Z\source\repos\Git\LeetCode\329. Longest Increasing Path in a Matrix\329. Longest Increasing Path in a Matrix\bin\Debug\net5.0\329. Longest Increasing Path in a Matrix.runtimeconfig.json
+C:\Users\Z\source\repos\Git\LeetCode\329. Longest Increasing Path in a Matrix\329. Longest Increasing Path in a Matrix\bin\Debug\net5.0\329. Longest Increasing Path in a Matrix.runtimeconfig.dev.json
+C:\Users\Z\source\repos\Git\LeetCode\329. Longest Increasing Path in a Matrix\329. Longest Increasing Path in a Matrix\bin\Debug\net5.0\329. Longest Increasing Path in a Matrix.dll
+C:\Users\Z\source\repos\Git\LeetCode\329. Longest Increasing Path in a Matrix\329. Longest Increasing Path in a Matrix\bin\Debug\net5.0\329. Longest Increasing Path in a Matrix.pdb
+C:\Users\Z\source\repos\Git\LeetCode\329. Longest Increasing Path in a Matrix\329. Longest Increasing Path in a Matrix\obj\Debug\net5.0\329. Longest Increasing Path in a Matrix.csproj.AssemblyReference.cache
+C:\Users\Z\source\repos\Git\LeetCode\329. Longest Increasing Path in a Matrix\329. Longest Increasing Path in a Matrix\obj\Debug\net5.0\329. Longest Increasing Path in a Matrix.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Z\source\repos\Git\LeetCode\329. Longest Increasing Path in a Matrix\329. Longest Increasing Path in a Matrix\obj\Debug\net5.0\329. Longest Increasing Path in a Matrix.AssemblyInfoInputs.cache
+C:\Users\Z\source\repos\Git\LeetCode\329. Longest Increasing Path in a Matrix\329. Longest Increasing Path in a Matrix\obj\Debug\net5.0\329. Longest Increasing Path in a Matrix.AssemblyInfo.cs
+C:\Users\Z\source\repos\Git\LeetCode\329. Longest Increasing Path in a Matrix\329. Longest Increasing Path in a Matrix\obj\Debug\net5.0\329. Longest Increasing Path in a Matrix.csproj.CoreCompileInputs.cache
+C:\Users\Z\source\repos\Git\LeetCode\329. Longest Increasing Path in a Matrix\329. Longest Increasing Path in a Matrix\obj\Debug\net5.0\329. Longest Increasing Path in a Matrix.dll
+C:\Users\Z\source\repos\Git\LeetCode\329. Longest Increasing Path in a Matrix\329. Longest Increasing Path in a Matrix\obj\Debug\net5.0\refint\329. Longest Increasing Path in a Matrix.dll
+C:\Users\Z\source\repos\Git\LeetCode\329. Longest Increasing Path in a Matrix\329. Longest Increasing Path in a Matrix\obj\Debug\net5.0\329. Longest Increasing Path in a Matrix.pdb
+C:\Users\Z\source\repos\Git\LeetCode\329. Longest Increasing Path in a Matrix\329. Longest Increasing Path in a Matrix\obj\Debug\net5.0\329. Longest Increasing Path in a Matrix.genruntimeconfig.cache
+C:\Users\Z\source\repos\Git\LeetCode\329. Longest Increasing Path in a Matrix\329. Longest Increasing Path in a Matrix\obj\Debug\net5.0\ref\329. Longest Increasing Path in a Matrix.dll
