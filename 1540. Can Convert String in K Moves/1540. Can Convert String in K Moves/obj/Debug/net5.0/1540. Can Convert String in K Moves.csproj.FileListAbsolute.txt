@@ -1,0 +1,16 @@
+C:\Users\Z\source\repos\Git\LeetCode\1540. Can Convert String in K Moves\1540. Can Convert String in K Moves\bin\Debug\net5.0\1540. Can Convert String in K Moves.exe
+C:\Users\Z\source\repos\Git\LeetCode\1540. Can Convert String in K Moves\1540. Can Convert String in K Moves\bin\Debug\net5.0\1540. Can Convert String in K Moves.deps.json
+C:\Users\Z\source\repos\Git\LeetCode\1540. Can Convert String in K Moves\1540. Can Convert String in K Moves\bin\Debug\net5.0\1540. Can Convert String in K Moves.runtimeconfig.json
+C:\Users\Z\source\repos\Git\LeetCode\1540. Can Convert String in K Moves\1540. Can Convert String in K Moves\bin\Debug\net5.0\1540. Can Convert String in K Moves.runtimeconfig.dev.json
+C:\Users\Z\source\repos\Git\LeetCode\1540. Can Convert String in K Moves\1540. Can Convert String in K Moves\bin\Debug\net5.0\1540. Can Convert String in K Moves.dll
+C:\Users\Z\source\repos\Git\LeetCode\1540. Can Convert String in K Moves\1540. Can Convert String in K Moves\bin\Debug\net5.0\1540. Can Convert String in K Moves.pdb
+C:\Users\Z\source\repos\Git\LeetCode\1540. Can Convert String in K Moves\1540. Can Convert String in K Moves\obj\Debug\net5.0\1540. Can Convert String in K Moves.csproj.AssemblyReference.cache
+C:\Users\Z\source\repos\Git\LeetCode\1540. Can Convert String in K Moves\1540. Can Convert String in K Moves\obj\Debug\net5.0\1540. Can Convert String in K Moves.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Z\source\repos\Git\LeetCode\1540. Can Convert String in K Moves\1540. Can Convert String in K Moves\obj\Debug\net5.0\1540. Can Convert String in K Moves.AssemblyInfoInputs.cache
+C:\Users\Z\source\repos\Git\LeetCode\1540. Can Convert String in K Moves\1540. Can Convert String in K Moves\obj\Debug\net5.0\1540. Can Convert String in K Moves.AssemblyInfo.cs
+C:\Users\Z\source\repos\Git\LeetCode\1540. Can Convert String in K Moves\1540. Can Convert String in K Moves\obj\Debug\net5.0\1540. Can Convert String in K Moves.csproj.CoreCompileInputs.cache
+C:\Users\Z\source\repos\Git\LeetCode\1540. Can Convert String in K Moves\1540. Can Convert String in K Moves\obj\Debug\net5.0\1540. Can Convert String in K Moves.dll
+C:\Users\Z\source\repos\Git\LeetCode\1540. Can Convert String in K Moves\1540. Can Convert String in K Moves\obj\Debug\net5.0\refint\1540. Can Convert String in K Moves.dll
+C:\Users\Z\source\repos\Git\LeetCode\1540. Can Convert String in K Moves\1540. Can Convert String in K Moves\obj\Debug\net5.0\1540. Can Convert String in K Moves.pdb
+C:\Users\Z\source\repos\Git\LeetCode\1540. Can Convert String in K Moves\1540. Can Convert String in K Moves\obj\Debug\net5.0\1540. Can Convert String in K Moves.genruntimeconfig.cache
+C:\Users\Z\source\repos\Git\LeetCode\1540. Can Convert String in K Moves\1540. Can Convert String in K Moves\obj\Debug\net5.0\ref\1540. Can Convert String in K Moves.dll
