@@ -1,0 +1,16 @@
+C:\Users\Z\source\repos\Git\LeetCode\63. Unique Paths II\63. Unique Paths II\bin\Debug\net5.0\63. Unique Paths II.exe
+C:\Users\Z\source\repos\Git\LeetCode\63. Unique Paths II\63. Unique Paths II\bin\Debug\net5.0\63. Unique Paths II.deps.json
+C:\Users\Z\source\repos\Git\LeetCode\63. Unique Paths II\63. Unique Paths II\bin\Debug\net5.0\63. Unique Paths II.runtimeconfig.json
+C:\Users\Z\source\repos\Git\LeetCode\63. Unique Paths II\63. Unique Paths II\bin\Debug\net5.0\63. Unique Paths II.runtimeconfig.dev.json
+C:\Users\Z\source\repos\Git\LeetCode\63. Unique Paths II\63. Unique Paths II\bin\Debug\net5.0\63. Unique Paths II.dll
+C:\Users\Z\source\repos\Git\LeetCode\63. Unique Paths II\63. Unique Paths II\bin\Debug\net5.0\63. Unique Paths II.pdb
+C:\Users\Z\source\repos\Git\LeetCode\63. Unique Paths II\63. Unique Paths II\obj\Debug\net5.0\63. Unique Paths II.csproj.AssemblyReference.cache
+C:\Users\Z\source\repos\Git\LeetCode\63. Unique Paths II\63. Unique Paths II\obj\Debug\net5.0\63. Unique Paths II.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Z\source\repos\Git\LeetCode\63. Unique Paths II\63. Unique Paths II\obj\Debug\net5.0\63. Unique Paths II.AssemblyInfoInputs.cache
+C:\Users\Z\source\repos\Git\LeetCode\63. Unique Paths II\63. Unique Paths II\obj\Debug\net5.0\63. Unique Paths II.AssemblyInfo.cs
+C:\Users\Z\source\repos\Git\LeetCode\63. Unique Paths II\63. Unique Paths II\obj\Debug\net5.0\63. Unique Paths II.csproj.CoreCompileInputs.cache
+C:\Users\Z\source\repos\Git\LeetCode\63. Unique Paths II\63. Unique Paths II\obj\Debug\net5.0\63. Unique Paths II.dll
+C:\Users\Z\source\repos\Git\LeetCode\63. Unique Paths II\63. Unique Paths II\obj\Debug\net5.0\refint\63. Unique Paths II.dll
+C:\Users\Z\source\repos\Git\LeetCode\63. Unique Paths II\63. Unique Paths II\obj\Debug\net5.0\63. Unique Paths II.pdb
+C:\Users\Z\source\repos\Git\LeetCode\63. Unique Paths II\63. Unique Paths II\obj\Debug\net5.0\63. Unique Paths II.genruntimeconfig.cache
+C:\Users\Z\source\repos\Git\LeetCode\63. Unique Paths II\63. Unique Paths II\obj\Debug\net5.0\ref\63. Unique Paths II.dll
