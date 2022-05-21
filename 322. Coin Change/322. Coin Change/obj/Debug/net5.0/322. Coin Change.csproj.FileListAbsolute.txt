@@ -1,0 +1,16 @@
+C:\Users\Z\source\repos\Git\LeetCode\322. Coin Change\322. Coin Change\bin\Debug\net5.0\322. Coin Change.exe
+C:\Users\Z\source\repos\Git\LeetCode\322. Coin Change\322. Coin Change\bin\Debug\net5.0\322. Coin Change.deps.json
+C:\Users\Z\source\repos\Git\LeetCode\322. Coin Change\322. Coin Change\bin\Debug\net5.0\322. Coin Change.runtimeconfig.json
+C:\Users\Z\source\repos\Git\LeetCode\322. Coin Change\322. Coin Change\bin\Debug\net5.0\322. Coin Change.runtimeconfig.dev.json
+C:\Users\Z\source\repos\Git\LeetCode\322. Coin Change\322. Coin Change\bin\Debug\net5.0\322. Coin Change.dll
+C:\Users\Z\source\repos\Git\LeetCode\322. Coin Change\322. Coin Change\bin\Debug\net5.0\322. Coin Change.pdb
+C:\Users\Z\source\repos\Git\LeetCode\322. Coin Change\322. Coin Change\obj\Debug\net5.0\322. Coin Change.csproj.AssemblyReference.cache
+C:\Users\Z\source\repos\Git\LeetCode\322. Coin Change\322. Coin Change\obj\Debug\net5.0\322. Coin Change.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Z\source\repos\Git\LeetCode\322. Coin Change\322. Coin Change\obj\Debug\net5.0\322. Coin Change.AssemblyInfoInputs.cache
+C:\Users\Z\source\repos\Git\LeetCode\322. Coin Change\322. Coin Change\obj\Debug\net5.0\322. Coin Change.AssemblyInfo.cs
+C:\Users\Z\source\repos\Git\LeetCode\322. Coin Change\322. Coin Change\obj\Debug\net5.0\322. Coin Change.csproj.CoreCompileInputs.cache
+C:\Users\Z\source\repos\Git\LeetCode\322. Coin Change\322. Coin Change\obj\Debug\net5.0\322. Coin Change.dll
+C:\Users\Z\source\repos\Git\LeetCode\322. Coin Change\322. Coin Change\obj\Debug\net5.0\refint\322. Coin Change.dll
+C:\Users\Z\source\repos\Git\LeetCode\322. Coin Change\322. Coin Change\obj\Debug\net5.0\322. Coin Change.pdb
+C:\Users\Z\source\repos\Git\LeetCode\322. Coin Change\322. Coin Change\obj\Debug\net5.0\322. Coin Change.genruntimeconfig.cache
+C:\Users\Z\source\repos\Git\LeetCode\322. Coin Change\322. Coin Change\obj\Debug\net5.0\ref\322. Coin Change.dll
