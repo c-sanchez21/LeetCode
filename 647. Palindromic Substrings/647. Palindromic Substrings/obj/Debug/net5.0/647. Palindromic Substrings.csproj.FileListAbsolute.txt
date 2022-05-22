@@ -1,0 +1,16 @@
+C:\Users\Z\source\repos\Git\LeetCode\647. Palindromic Substrings\647. Palindromic Substrings\bin\Debug\net5.0\647. Palindromic Substrings.exe
+C:\Users\Z\source\repos\Git\LeetCode\647. Palindromic Substrings\647. Palindromic Substrings\bin\Debug\net5.0\647. Palindromic Substrings.deps.json
+C:\Users\Z\source\repos\Git\LeetCode\647. Palindromic Substrings\647. Palindromic Substrings\bin\Debug\net5.0\647. Palindromic Substrings.runtimeconfig.json
+C:\Users\Z\source\repos\Git\LeetCode\647. Palindromic Substrings\647. Palindromic Substrings\bin\Debug\net5.0\647. Palindromic Substrings.runtimeconfig.dev.json
+C:\Users\Z\source\repos\Git\LeetCode\647. Palindromic Substrings\647. Palindromic Substrings\bin\Debug\net5.0\647. Palindromic Substrings.dll
+C:\Users\Z\source\repos\Git\LeetCode\647. Palindromic Substrings\647. Palindromic Substrings\bin\Debug\net5.0\647. Palindromic Substrings.pdb
+C:\Users\Z\source\repos\Git\LeetCode\647. Palindromic Substrings\647. Palindromic Substrings\obj\Debug\net5.0\647. Palindromic Substrings.csproj.AssemblyReference.cache
+C:\Users\Z\source\repos\Git\LeetCode\647. Palindromic Substrings\647. Palindromic Substrings\obj\Debug\net5.0\647. Palindromic Substrings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Z\source\repos\Git\LeetCode\647. Palindromic Substrings\647. Palindromic Substrings\obj\Debug\net5.0\647. Palindromic Substrings.AssemblyInfoInputs.cache
+C:\Users\Z\source\repos\Git\LeetCode\647. Palindromic Substrings\647. Palindromic Substrings\obj\Debug\net5.0\647. Palindromic Substrings.AssemblyInfo.cs
+C:\Users\Z\source\repos\Git\LeetCode\647. Palindromic Substrings\647. Palindromic Substrings\obj\Debug\net5.0\647. Palindromic Substrings.csproj.CoreCompileInputs.cache
+C:\Users\Z\source\repos\Git\LeetCode\647. Palindromic Substrings\647. Palindromic Substrings\obj\Debug\net5.0\647. Palindromic Substrings.dll
+C:\Users\Z\source\repos\Git\LeetCode\647. Palindromic Substrings\647. Palindromic Substrings\obj\Debug\net5.0\refint\647. Palindromic Substrings.dll
+C:\Users\Z\source\repos\Git\LeetCode\647. Palindromic Substrings\647. Palindromic Substrings\obj\Debug\net5.0\647. Palindromic Substrings.pdb
+C:\Users\Z\source\repos\Git\LeetCode\647. Palindromic Substrings\647. Palindromic Substrings\obj\Debug\net5.0\647. Palindromic Substrings.genruntimeconfig.cache
+C:\Users\Z\source\repos\Git\LeetCode\647. Palindromic Substrings\647. Palindromic Substrings\obj\Debug\net5.0\ref\647. Palindromic Substrings.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "647. Palindromic Substrings/1.0.0": {
+        "runtime": {
+          "647. Palindromic Substrings.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "647. Palindromic Substrings/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
