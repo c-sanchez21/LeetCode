@@ -1,0 +1,16 @@
+C:\Users\Z\source\repos\Git\LeetCode\474. Ones and Zeroes\474. Ones and Zeroes\bin\Debug\net5.0\474. Ones and Zeroes.exe
+C:\Users\Z\source\repos\Git\LeetCode\474. Ones and Zeroes\474. Ones and Zeroes\bin\Debug\net5.0\474. Ones and Zeroes.deps.json
+C:\Users\Z\source\repos\Git\LeetCode\474. Ones and Zeroes\474. Ones and Zeroes\bin\Debug\net5.0\474. Ones and Zeroes.runtimeconfig.json
+C:\Users\Z\source\repos\Git\LeetCode\474. Ones and Zeroes\474. Ones and Zeroes\bin\Debug\net5.0\474. Ones and Zeroes.runtimeconfig.dev.json
+C:\Users\Z\source\repos\Git\LeetCode\474. Ones and Zeroes\474. Ones and Zeroes\bin\Debug\net5.0\474. Ones and Zeroes.dll
+C:\Users\Z\source\repos\Git\LeetCode\474. Ones and Zeroes\474. Ones and Zeroes\bin\Debug\net5.0\474. Ones and Zeroes.pdb
+C:\Users\Z\source\repos\Git\LeetCode\474. Ones and Zeroes\474. Ones and Zeroes\obj\Debug\net5.0\474. Ones and Zeroes.csproj.AssemblyReference.cache
+C:\Users\Z\source\repos\Git\LeetCode\474. Ones and Zeroes\474. Ones and Zeroes\obj\Debug\net5.0\474. Ones and Zeroes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Z\source\repos\Git\LeetCode\474. Ones and Zeroes\474. Ones and Zeroes\obj\Debug\net5.0\474. Ones and Zeroes.AssemblyInfoInputs.cache
+C:\Users\Z\source\repos\Git\LeetCode\474. Ones and Zeroes\474. Ones and Zeroes\obj\Debug\net5.0\474. Ones and Zeroes.AssemblyInfo.cs
+C:\Users\Z\source\repos\Git\LeetCode\474. Ones and Zeroes\474. Ones and Zeroes\obj\Debug\net5.0\474. Ones and Zeroes.csproj.CoreCompileInputs.cache
+C:\Users\Z\source\repos\Git\LeetCode\474. Ones and Zeroes\474. Ones and Zeroes\obj\Debug\net5.0\474. Ones and Zeroes.dll
+C:\Users\Z\source\repos\Git\LeetCode\474. Ones and Zeroes\474. Ones and Zeroes\obj\Debug\net5.0\refint\474. Ones and Zeroes.dll
+C:\Users\Z\source\repos\Git\LeetCode\474. Ones and Zeroes\474. Ones and Zeroes\obj\Debug\net5.0\474. Ones and Zeroes.pdb
+C:\Users\Z\source\repos\Git\LeetCode\474. Ones and Zeroes\474. Ones and Zeroes\obj\Debug\net5.0\474. Ones and Zeroes.genruntimeconfig.cache
+C:\Users\Z\source\repos\Git\LeetCode\474. Ones and Zeroes\474. Ones and Zeroes\obj\Debug\net5.0\ref\474. Ones and Zeroes.dll

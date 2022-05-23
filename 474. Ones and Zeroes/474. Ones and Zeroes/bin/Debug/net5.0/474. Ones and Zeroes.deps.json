@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "474. Ones and Zeroes/1.0.0": {
+        "runtime": {
+          "474. Ones and Zeroes.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "474. Ones and Zeroes/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
