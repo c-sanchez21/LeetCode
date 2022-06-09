@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "167. Two Sum II - Input Array Is Sorted/1.0.0": {
+        "runtime": {
+          "167. Two Sum II - Input Array Is Sorted.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "167. Two Sum II - Input Array Is Sorted/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
