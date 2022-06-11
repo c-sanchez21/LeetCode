@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32526.322
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1658. Minimum Operations to Reduce X to Zero", "1658. Minimum Operations to Reduce X to Zero\1658. Minimum Operations to Reduce X to Zero.csproj", "{6AA2F671-2096-4B34-AC00-0B8E4F27D439}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6AA2F671-2096-4B34-AC00-0B8E4F27D439}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6AA2F671-2096-4B34-AC00-0B8E4F27D439}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6AA2F671-2096-4B34-AC00-0B8E4F27D439}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6AA2F671-2096-4B34-AC00-0B8E4F27D439}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {115838A0-6F81-4A36-817A-5BF77D1B840E}
+	EndGlobalSection
+EndGlobal

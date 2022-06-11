@@ -1,0 +1,16 @@
+C:\Users\Z\source\repos\Git\LeetCode\1658. Minimum Operations to Reduce X to Zero\1658. Minimum Operations to Reduce X to Zero\bin\Debug\net5.0\1658. Minimum Operations to Reduce X to Zero.exe
+C:\Users\Z\source\repos\Git\LeetCode\1658. Minimum Operations to Reduce X to Zero\1658. Minimum Operations to Reduce X to Zero\bin\Debug\net5.0\1658. Minimum Operations to Reduce X to Zero.deps.json
+C:\Users\Z\source\repos\Git\LeetCode\1658. Minimum Operations to Reduce X to Zero\1658. Minimum Operations to Reduce X to Zero\bin\Debug\net5.0\1658. Minimum Operations to Reduce X to Zero.runtimeconfig.json
+C:\Users\Z\source\repos\Git\LeetCode\1658. Minimum Operations to Reduce X to Zero\1658. Minimum Operations to Reduce X to Zero\bin\Debug\net5.0\1658. Minimum Operations to Reduce X to Zero.runtimeconfig.dev.json
+C:\Users\Z\source\repos\Git\LeetCode\1658. Minimum Operations to Reduce X to Zero\1658. Minimum Operations to Reduce X to Zero\bin\Debug\net5.0\1658. Minimum Operations to Reduce X to Zero.dll
+C:\Users\Z\source\repos\Git\LeetCode\1658. Minimum Operations to Reduce X to Zero\1658. Minimum Operations to Reduce X to Zero\bin\Debug\net5.0\1658. Minimum Operations to Reduce X to Zero.pdb
+C:\Users\Z\source\repos\Git\LeetCode\1658. Minimum Operations to Reduce X to Zero\1658. Minimum Operations to Reduce X to Zero\obj\Debug\net5.0\1658. Minimum Operations to Reduce X to Zero.csproj.AssemblyReference.cache
+C:\Users\Z\source\repos\Git\LeetCode\1658. Minimum Operations to Reduce X to Zero\1658. Minimum Operations to Reduce X to Zero\obj\Debug\net5.0\1658. Minimum Operations to Reduce X to Zero.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Z\source\repos\Git\LeetCode\1658. Minimum Operations to Reduce X to Zero\1658. Minimum Operations to Reduce X to Zero\obj\Debug\net5.0\1658. Minimum Operations to Reduce X to Zero.AssemblyInfoInputs.cache
+C:\Users\Z\source\repos\Git\LeetCode\1658. Minimum Operations to Reduce X to Zero\1658. Minimum Operations to Reduce X to Zero\obj\Debug\net5.0\1658. Minimum Operations to Reduce X to Zero.AssemblyInfo.cs
+C:\Users\Z\source\repos\Git\LeetCode\1658. Minimum Operations to Reduce X to Zero\1658. Minimum Operations to Reduce X to Zero\obj\Debug\net5.0\1658. Minimum Operations to Reduce X to Zero.csproj.CoreCompileInputs.cache
+C:\Users\Z\source\repos\Git\LeetCode\1658. Minimum Operations to Reduce X to Zero\1658. Minimum Operations to Reduce X to Zero\obj\Debug\net5.0\1658. Minimum Operations to Reduce X to Zero.dll
+C:\Users\Z\source\repos\Git\LeetCode\1658. Minimum Operations to Reduce X to Zero\1658. Minimum Operations to Reduce X to Zero\obj\Debug\net5.0\refint\1658. Minimum Operations to Reduce X to Zero.dll
+C:\Users\Z\source\repos\Git\LeetCode\1658. Minimum Operations to Reduce X to Zero\1658. Minimum Operations to Reduce X to Zero\obj\Debug\net5.0\1658. Minimum Operations to Reduce X to Zero.pdb
+C:\Users\Z\source\repos\Git\LeetCode\1658. Minimum Operations to Reduce X to Zero\1658. Minimum Operations to Reduce X to Zero\obj\Debug\net5.0\1658. Minimum Operations to Reduce X to Zero.genruntimeconfig.cache
+C:\Users\Z\source\repos\Git\LeetCode\1658. Minimum Operations to Reduce X to Zero\1658. Minimum Operations to Reduce X to Zero\obj\Debug\net5.0\ref\1658. Minimum Operations to Reduce X to Zero.dll
