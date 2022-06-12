@@ -1,0 +1,16 @@
+C:\Users\Z\source\repos\Git\LeetCode\1695. Maximum Erasure Value\1695. Maximum Erasure Value\bin\Debug\net5.0\1695. Maximum Erasure Value.exe
+C:\Users\Z\source\repos\Git\LeetCode\1695. Maximum Erasure Value\1695. Maximum Erasure Value\bin\Debug\net5.0\1695. Maximum Erasure Value.deps.json
+C:\Users\Z\source\repos\Git\LeetCode\1695. Maximum Erasure Value\1695. Maximum Erasure Value\bin\Debug\net5.0\1695. Maximum Erasure Value.runtimeconfig.json
+C:\Users\Z\source\repos\Git\LeetCode\1695. Maximum Erasure Value\1695. Maximum Erasure Value\bin\Debug\net5.0\1695. Maximum Erasure Value.runtimeconfig.dev.json
+C:\Users\Z\source\repos\Git\LeetCode\1695. Maximum Erasure Value\1695. Maximum Erasure Value\bin\Debug\net5.0\1695. Maximum Erasure Value.dll
+C:\Users\Z\source\repos\Git\LeetCode\1695. Maximum Erasure Value\1695. Maximum Erasure Value\bin\Debug\net5.0\1695. Maximum Erasure Value.pdb
+C:\Users\Z\source\repos\Git\LeetCode\1695. Maximum Erasure Value\1695. Maximum Erasure Value\obj\Debug\net5.0\1695. Maximum Erasure Value.csproj.AssemblyReference.cache
+C:\Users\Z\source\repos\Git\LeetCode\1695. Maximum Erasure Value\1695. Maximum Erasure Value\obj\Debug\net5.0\1695. Maximum Erasure Value.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Z\source\repos\Git\LeetCode\1695. Maximum Erasure Value\1695. Maximum Erasure Value\obj\Debug\net5.0\1695. Maximum Erasure Value.AssemblyInfoInputs.cache
+C:\Users\Z\source\repos\Git\LeetCode\1695. Maximum Erasure Value\1695. Maximum Erasure Value\obj\Debug\net5.0\1695. Maximum Erasure Value.AssemblyInfo.cs
+C:\Users\Z\source\repos\Git\LeetCode\1695. Maximum Erasure Value\1695. Maximum Erasure Value\obj\Debug\net5.0\1695. Maximum Erasure Value.csproj.CoreCompileInputs.cache
+C:\Users\Z\source\repos\Git\LeetCode\1695. Maximum Erasure Value\1695. Maximum Erasure Value\obj\Debug\net5.0\1695. Maximum Erasure Value.dll
+C:\Users\Z\source\repos\Git\LeetCode\1695. Maximum Erasure Value\1695. Maximum Erasure Value\obj\Debug\net5.0\refint\1695. Maximum Erasure Value.dll
+C:\Users\Z\source\repos\Git\LeetCode\1695. Maximum Erasure Value\1695. Maximum Erasure Value\obj\Debug\net5.0\1695. Maximum Erasure Value.pdb
+C:\Users\Z\source\repos\Git\LeetCode\1695. Maximum Erasure Value\1695. Maximum Erasure Value\obj\Debug\net5.0\1695. Maximum Erasure Value.genruntimeconfig.cache
+C:\Users\Z\source\repos\Git\LeetCode\1695. Maximum Erasure Value\1695. Maximum Erasure Value\obj\Debug\net5.0\ref\1695. Maximum Erasure Value.dll
