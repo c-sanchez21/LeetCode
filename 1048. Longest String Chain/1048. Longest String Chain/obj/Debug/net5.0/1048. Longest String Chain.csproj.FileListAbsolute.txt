@@ -1,0 +1,16 @@
+C:\Users\Z\source\repos\Git\LeetCode\1048. Longest String Chain\1048. Longest String Chain\bin\Debug\net5.0\1048. Longest String Chain.exe
+C:\Users\Z\source\repos\Git\LeetCode\1048. Longest String Chain\1048. Longest String Chain\bin\Debug\net5.0\1048. Longest String Chain.deps.json
+C:\Users\Z\source\repos\Git\LeetCode\1048. Longest String Chain\1048. Longest String Chain\bin\Debug\net5.0\1048. Longest String Chain.runtimeconfig.json
+C:\Users\Z\source\repos\Git\LeetCode\1048. Longest String Chain\1048. Longest String Chain\bin\Debug\net5.0\1048. Longest String Chain.runtimeconfig.dev.json
+C:\Users\Z\source\repos\Git\LeetCode\1048. Longest String Chain\1048. Longest String Chain\bin\Debug\net5.0\1048. Longest String Chain.dll
+C:\Users\Z\source\repos\Git\LeetCode\1048. Longest String Chain\1048. Longest String Chain\bin\Debug\net5.0\1048. Longest String Chain.pdb
+C:\Users\Z\source\repos\Git\LeetCode\1048. Longest String Chain\1048. Longest String Chain\obj\Debug\net5.0\1048. Longest String Chain.csproj.AssemblyReference.cache
+C:\Users\Z\source\repos\Git\LeetCode\1048. Longest String Chain\1048. Longest String Chain\obj\Debug\net5.0\1048. Longest String Chain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Z\source\repos\Git\LeetCode\1048. Longest String Chain\1048. Longest String Chain\obj\Debug\net5.0\1048. Longest String Chain.AssemblyInfoInputs.cache
+C:\Users\Z\source\repos\Git\LeetCode\1048. Longest String Chain\1048. Longest String Chain\obj\Debug\net5.0\1048. Longest String Chain.AssemblyInfo.cs
+C:\Users\Z\source\repos\Git\LeetCode\1048. Longest String Chain\1048. Longest String Chain\obj\Debug\net5.0\1048. Longest String Chain.csproj.CoreCompileInputs.cache
+C:\Users\Z\source\repos\Git\LeetCode\1048. Longest String Chain\1048. Longest String Chain\obj\Debug\net5.0\1048. Longest String Chain.dll
+C:\Users\Z\source\repos\Git\LeetCode\1048. Longest String Chain\1048. Longest String Chain\obj\Debug\net5.0\refint\1048. Longest String Chain.dll
+C:\Users\Z\source\repos\Git\LeetCode\1048. Longest String Chain\1048. Longest String Chain\obj\Debug\net5.0\1048. Longest String Chain.pdb
+C:\Users\Z\source\repos\Git\LeetCode\1048. Longest String Chain\1048. Longest String Chain\obj\Debug\net5.0\1048. Longest String Chain.genruntimeconfig.cache
+C:\Users\Z\source\repos\Git\LeetCode\1048. Longest String Chain\1048. Longest String Chain\obj\Debug\net5.0\ref\1048. Longest String Chain.dll
