@@ -1,0 +1,14 @@
+C:\Users\Z\source\repos\Git\LeetCode\630. Course Schedule III\bin\Debug\netcoreapp3.1\630. Course Schedule III.exe
+C:\Users\Z\source\repos\Git\LeetCode\630. Course Schedule III\bin\Debug\netcoreapp3.1\630. Course Schedule III.deps.json
+C:\Users\Z\source\repos\Git\LeetCode\630. Course Schedule III\bin\Debug\netcoreapp3.1\630. Course Schedule III.runtimeconfig.json
+C:\Users\Z\source\repos\Git\LeetCode\630. Course Schedule III\bin\Debug\netcoreapp3.1\630. Course Schedule III.runtimeconfig.dev.json
+C:\Users\Z\source\repos\Git\LeetCode\630. Course Schedule III\bin\Debug\netcoreapp3.1\630. Course Schedule III.dll
+C:\Users\Z\source\repos\Git\LeetCode\630. Course Schedule III\bin\Debug\netcoreapp3.1\630. Course Schedule III.pdb
+C:\Users\Z\source\repos\Git\LeetCode\630. Course Schedule III\obj\Debug\netcoreapp3.1\630. Course Schedule III.csproj.AssemblyReference.cache
+C:\Users\Z\source\repos\Git\LeetCode\630. Course Schedule III\obj\Debug\netcoreapp3.1\630. Course Schedule III.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Z\source\repos\Git\LeetCode\630. Course Schedule III\obj\Debug\netcoreapp3.1\630. Course Schedule III.AssemblyInfoInputs.cache
+C:\Users\Z\source\repos\Git\LeetCode\630. Course Schedule III\obj\Debug\netcoreapp3.1\630. Course Schedule III.AssemblyInfo.cs
+C:\Users\Z\source\repos\Git\LeetCode\630. Course Schedule III\obj\Debug\netcoreapp3.1\630. Course Schedule III.csproj.CoreCompileInputs.cache
+C:\Users\Z\source\repos\Git\LeetCode\630. Course Schedule III\obj\Debug\netcoreapp3.1\630. Course Schedule III.dll
+C:\Users\Z\source\repos\Git\LeetCode\630. Course Schedule III\obj\Debug\netcoreapp3.1\630. Course Schedule III.pdb
+C:\Users\Z\source\repos\Git\LeetCode\630. Course Schedule III\obj\Debug\netcoreapp3.1\630. Course Schedule III.genruntimeconfig.cache
