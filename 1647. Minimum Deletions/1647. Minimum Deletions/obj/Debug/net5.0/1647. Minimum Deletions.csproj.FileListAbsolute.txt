@@ -1,0 +1,16 @@
+C:\Users\Z\source\repos\Git\LeetCode\1647. Minimum Deletions\1647. Minimum Deletions\bin\Debug\net5.0\1647. Minimum Deletions.exe
+C:\Users\Z\source\repos\Git\LeetCode\1647. Minimum Deletions\1647. Minimum Deletions\bin\Debug\net5.0\1647. Minimum Deletions.deps.json
+C:\Users\Z\source\repos\Git\LeetCode\1647. Minimum Deletions\1647. Minimum Deletions\bin\Debug\net5.0\1647. Minimum Deletions.runtimeconfig.json
+C:\Users\Z\source\repos\Git\LeetCode\1647. Minimum Deletions\1647. Minimum Deletions\bin\Debug\net5.0\1647. Minimum Deletions.runtimeconfig.dev.json
+C:\Users\Z\source\repos\Git\LeetCode\1647. Minimum Deletions\1647. Minimum Deletions\bin\Debug\net5.0\1647. Minimum Deletions.dll
+C:\Users\Z\source\repos\Git\LeetCode\1647. Minimum Deletions\1647. Minimum Deletions\bin\Debug\net5.0\1647. Minimum Deletions.pdb
+C:\Users\Z\source\repos\Git\LeetCode\1647. Minimum Deletions\1647. Minimum Deletions\obj\Debug\net5.0\1647. Minimum Deletions.csproj.AssemblyReference.cache
+C:\Users\Z\source\repos\Git\LeetCode\1647. Minimum Deletions\1647. Minimum Deletions\obj\Debug\net5.0\1647. Minimum Deletions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Z\source\repos\Git\LeetCode\1647. Minimum Deletions\1647. Minimum Deletions\obj\Debug\net5.0\1647. Minimum Deletions.AssemblyInfoInputs.cache
+C:\Users\Z\source\repos\Git\LeetCode\1647. Minimum Deletions\1647. Minimum Deletions\obj\Debug\net5.0\1647. Minimum Deletions.AssemblyInfo.cs
+C:\Users\Z\source\repos\Git\LeetCode\1647. Minimum Deletions\1647. Minimum Deletions\obj\Debug\net5.0\1647. Minimum Deletions.csproj.CoreCompileInputs.cache
+C:\Users\Z\source\repos\Git\LeetCode\1647. Minimum Deletions\1647. Minimum Deletions\obj\Debug\net5.0\1647. Minimum Deletions.dll
+C:\Users\Z\source\repos\Git\LeetCode\1647. Minimum Deletions\1647. Minimum Deletions\obj\Debug\net5.0\refint\1647. Minimum Deletions.dll
+C:\Users\Z\source\repos\Git\LeetCode\1647. Minimum Deletions\1647. Minimum Deletions\obj\Debug\net5.0\1647. Minimum Deletions.pdb
+C:\Users\Z\source\repos\Git\LeetCode\1647. Minimum Deletions\1647. Minimum Deletions\obj\Debug\net5.0\1647. Minimum Deletions.genruntimeconfig.cache
+C:\Users\Z\source\repos\Git\LeetCode\1647. Minimum Deletions\1647. Minimum Deletions\obj\Debug\net5.0\ref\1647. Minimum Deletions.dll

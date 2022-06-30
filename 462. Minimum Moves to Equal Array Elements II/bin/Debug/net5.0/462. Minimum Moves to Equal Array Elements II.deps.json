@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "462. Minimum Moves to Equal Array Elements II/1.0.0": {
+        "runtime": {
+          "462. Minimum Moves to Equal Array Elements II.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "462. Minimum Moves to Equal Array Elements II/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

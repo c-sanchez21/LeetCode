@@ -1,0 +1,16 @@
+C:\Users\Z\source\repos\Git\LeetCode\462. Minimum Moves to Equal Array Elements II\bin\Debug\net5.0\462. Minimum Moves to Equal Array Elements II.exe
+C:\Users\Z\source\repos\Git\LeetCode\462. Minimum Moves to Equal Array Elements II\bin\Debug\net5.0\462. Minimum Moves to Equal Array Elements II.deps.json
+C:\Users\Z\source\repos\Git\LeetCode\462. Minimum Moves to Equal Array Elements II\bin\Debug\net5.0\462. Minimum Moves to Equal Array Elements II.runtimeconfig.json
+C:\Users\Z\source\repos\Git\LeetCode\462. Minimum Moves to Equal Array Elements II\bin\Debug\net5.0\462. Minimum Moves to Equal Array Elements II.runtimeconfig.dev.json
+C:\Users\Z\source\repos\Git\LeetCode\462. Minimum Moves to Equal Array Elements II\bin\Debug\net5.0\462. Minimum Moves to Equal Array Elements II.dll
+C:\Users\Z\source\repos\Git\LeetCode\462. Minimum Moves to Equal Array Elements II\bin\Debug\net5.0\462. Minimum Moves to Equal Array Elements II.pdb
+C:\Users\Z\source\repos\Git\LeetCode\462. Minimum Moves to Equal Array Elements II\obj\Debug\net5.0\462. Minimum Moves to Equal Array Elements II.csproj.AssemblyReference.cache
+C:\Users\Z\source\repos\Git\LeetCode\462. Minimum Moves to Equal Array Elements II\obj\Debug\net5.0\462. Minimum Moves to Equal Array Elements II.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Z\source\repos\Git\LeetCode\462. Minimum Moves to Equal Array Elements II\obj\Debug\net5.0\462. Minimum Moves to Equal Array Elements II.AssemblyInfoInputs.cache
+C:\Users\Z\source\repos\Git\LeetCode\462. Minimum Moves to Equal Array Elements II\obj\Debug\net5.0\462. Minimum Moves to Equal Array Elements II.AssemblyInfo.cs
+C:\Users\Z\source\repos\Git\LeetCode\462. Minimum Moves to Equal Array Elements II\obj\Debug\net5.0\462. Minimum Moves to Equal Array Elements II.csproj.CoreCompileInputs.cache
+C:\Users\Z\source\repos\Git\LeetCode\462. Minimum Moves to Equal Array Elements II\obj\Debug\net5.0\462. Minimum Moves to Equal Array Elements II.dll
+C:\Users\Z\source\repos\Git\LeetCode\462. Minimum Moves to Equal Array Elements II\obj\Debug\net5.0\refint\462. Minimum Moves to Equal Array Elements II.dll
+C:\Users\Z\source\repos\Git\LeetCode\462. Minimum Moves to Equal Array Elements II\obj\Debug\net5.0\462. Minimum Moves to Equal Array Elements II.pdb
+C:\Users\Z\source\repos\Git\LeetCode\462. Minimum Moves to Equal Array Elements II\obj\Debug\net5.0\462. Minimum Moves to Equal Array Elements II.genruntimeconfig.cache
+C:\Users\Z\source\repos\Git\LeetCode\462. Minimum Moves to Equal Array Elements II\obj\Debug\net5.0\ref\462. Minimum Moves to Equal Array Elements II.dll
