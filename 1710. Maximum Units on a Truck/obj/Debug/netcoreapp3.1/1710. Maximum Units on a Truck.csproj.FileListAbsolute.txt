@@ -1,0 +1,14 @@
+C:\Users\Z\source\repos\Git\LeetCode\1710. Maximum Units on a Truck\bin\Debug\netcoreapp3.1\1710. Maximum Units on a Truck.exe
+C:\Users\Z\source\repos\Git\LeetCode\1710. Maximum Units on a Truck\bin\Debug\netcoreapp3.1\1710. Maximum Units on a Truck.deps.json
+C:\Users\Z\source\repos\Git\LeetCode\1710. Maximum Units on a Truck\bin\Debug\netcoreapp3.1\1710. Maximum Units on a Truck.runtimeconfig.json
+C:\Users\Z\source\repos\Git\LeetCode\1710. Maximum Units on a Truck\bin\Debug\netcoreapp3.1\1710. Maximum Units on a Truck.runtimeconfig.dev.json
+C:\Users\Z\source\repos\Git\LeetCode\1710. Maximum Units on a Truck\bin\Debug\netcoreapp3.1\1710. Maximum Units on a Truck.dll
+C:\Users\Z\source\repos\Git\LeetCode\1710. Maximum Units on a Truck\bin\Debug\netcoreapp3.1\1710. Maximum Units on a Truck.pdb
+C:\Users\Z\source\repos\Git\LeetCode\1710. Maximum Units on a Truck\obj\Debug\netcoreapp3.1\1710. Maximum Units on a Truck.csproj.AssemblyReference.cache
+C:\Users\Z\source\repos\Git\LeetCode\1710. Maximum Units on a Truck\obj\Debug\netcoreapp3.1\1710. Maximum Units on a Truck.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Z\source\repos\Git\LeetCode\1710. Maximum Units on a Truck\obj\Debug\netcoreapp3.1\1710. Maximum Units on a Truck.AssemblyInfoInputs.cache
+C:\Users\Z\source\repos\Git\LeetCode\1710. Maximum Units on a Truck\obj\Debug\netcoreapp3.1\1710. Maximum Units on a Truck.AssemblyInfo.cs
+C:\Users\Z\source\repos\Git\LeetCode\1710. Maximum Units on a Truck\obj\Debug\netcoreapp3.1\1710. Maximum Units on a Truck.csproj.CoreCompileInputs.cache
+C:\Users\Z\source\repos\Git\LeetCode\1710. Maximum Units on a Truck\obj\Debug\netcoreapp3.1\1710. Maximum Units on a Truck.dll
+C:\Users\Z\source\repos\Git\LeetCode\1710. Maximum Units on a Truck\obj\Debug\netcoreapp3.1\1710. Maximum Units on a Truck.pdb
+C:\Users\Z\source\repos\Git\LeetCode\1710. Maximum Units on a Truck\obj\Debug\netcoreapp3.1\1710. Maximum Units on a Truck.genruntimeconfig.cache

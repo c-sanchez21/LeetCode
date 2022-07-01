@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "1710. Maximum Units on a Truck/1.0.0": {
+        "runtime": {
+          "1710. Maximum Units on a Truck.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "1710. Maximum Units on a Truck/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
