@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net5.0</TargetFramework>
+    <RootNamespace>_1465._Maximum_Area_of_a_Piece_of_Cake</RootNamespace>
+  </PropertyGroup>
+
+</Project>

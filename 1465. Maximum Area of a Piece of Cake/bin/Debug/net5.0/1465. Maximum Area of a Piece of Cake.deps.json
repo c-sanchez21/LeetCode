@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "1465. Maximum Area of a Piece of Cake/1.0.0": {
+        "runtime": {
+          "1465. Maximum Area of a Piece of Cake.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "1465. Maximum Area of a Piece of Cake/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

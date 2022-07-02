@@ -1,0 +1,16 @@
+C:\Users\Z\source\repos\Git\LeetCode\1465. Maximum Area of a Piece of Cake\bin\Debug\net5.0\1465. Maximum Area of a Piece of Cake.exe
+C:\Users\Z\source\repos\Git\LeetCode\1465. Maximum Area of a Piece of Cake\bin\Debug\net5.0\1465. Maximum Area of a Piece of Cake.deps.json
+C:\Users\Z\source\repos\Git\LeetCode\1465. Maximum Area of a Piece of Cake\bin\Debug\net5.0\1465. Maximum Area of a Piece of Cake.runtimeconfig.json
+C:\Users\Z\source\repos\Git\LeetCode\1465. Maximum Area of a Piece of Cake\bin\Debug\net5.0\1465. Maximum Area of a Piece of Cake.runtimeconfig.dev.json
+C:\Users\Z\source\repos\Git\LeetCode\1465. Maximum Area of a Piece of Cake\bin\Debug\net5.0\1465. Maximum Area of a Piece of Cake.dll
+C:\Users\Z\source\repos\Git\LeetCode\1465. Maximum Area of a Piece of Cake\bin\Debug\net5.0\1465. Maximum Area of a Piece of Cake.pdb
+C:\Users\Z\source\repos\Git\LeetCode\1465. Maximum Area of a Piece of Cake\obj\Debug\net5.0\1465. Maximum Area of a Piece of Cake.csproj.AssemblyReference.cache
+C:\Users\Z\source\repos\Git\LeetCode\1465. Maximum Area of a Piece of Cake\obj\Debug\net5.0\1465. Maximum Area of a Piece of Cake.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Z\source\repos\Git\LeetCode\1465. Maximum Area of a Piece of Cake\obj\Debug\net5.0\1465. Maximum Area of a Piece of Cake.AssemblyInfoInputs.cache
+C:\Users\Z\source\repos\Git\LeetCode\1465. Maximum Area of a Piece of Cake\obj\Debug\net5.0\1465. Maximum Area of a Piece of Cake.AssemblyInfo.cs
+C:\Users\Z\source\repos\Git\LeetCode\1465. Maximum Area of a Piece of Cake\obj\Debug\net5.0\1465. Maximum Area of a Piece of Cake.csproj.CoreCompileInputs.cache
+C:\Users\Z\source\repos\Git\LeetCode\1465. Maximum Area of a Piece of Cake\obj\Debug\net5.0\1465. Maximum Area of a Piece of Cake.dll
+C:\Users\Z\source\repos\Git\LeetCode\1465. Maximum Area of a Piece of Cake\obj\Debug\net5.0\refint\1465. Maximum Area of a Piece of Cake.dll
+C:\Users\Z\source\repos\Git\LeetCode\1465. Maximum Area of a Piece of Cake\obj\Debug\net5.0\1465. Maximum Area of a Piece of Cake.pdb
+C:\Users\Z\source\repos\Git\LeetCode\1465. Maximum Area of a Piece of Cake\obj\Debug\net5.0\1465. Maximum Area of a Piece of Cake.genruntimeconfig.cache
+C:\Users\Z\source\repos\Git\LeetCode\1465. Maximum Area of a Piece of Cake\obj\Debug\net5.0\ref\1465. Maximum Area of a Piece of Cake.dll
