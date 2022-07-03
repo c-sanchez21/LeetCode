@@ -1,0 +1,16 @@
+C:\Users\Z\source\repos\Git\LeetCode\376. Wiggle Subsequence\obj\Debug\net5.0\376. Wiggle Subsequence.csproj.AssemblyReference.cache
+C:\Users\Z\source\repos\Git\LeetCode\376. Wiggle Subsequence\obj\Debug\net5.0\376. Wiggle Subsequence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Z\source\repos\Git\LeetCode\376. Wiggle Subsequence\obj\Debug\net5.0\376. Wiggle Subsequence.AssemblyInfoInputs.cache
+C:\Users\Z\source\repos\Git\LeetCode\376. Wiggle Subsequence\obj\Debug\net5.0\376. Wiggle Subsequence.AssemblyInfo.cs
+C:\Users\Z\source\repos\Git\LeetCode\376. Wiggle Subsequence\obj\Debug\net5.0\376. Wiggle Subsequence.csproj.CoreCompileInputs.cache
+C:\Users\Z\source\repos\Git\LeetCode\376. Wiggle Subsequence\bin\Debug\net5.0\376. Wiggle Subsequence.exe
+C:\Users\Z\source\repos\Git\LeetCode\376. Wiggle Subsequence\bin\Debug\net5.0\376. Wiggle Subsequence.deps.json
+C:\Users\Z\source\repos\Git\LeetCode\376. Wiggle Subsequence\bin\Debug\net5.0\376. Wiggle Subsequence.runtimeconfig.json
+C:\Users\Z\source\repos\Git\LeetCode\376. Wiggle Subsequence\bin\Debug\net5.0\376. Wiggle Subsequence.runtimeconfig.dev.json
+C:\Users\Z\source\repos\Git\LeetCode\376. Wiggle Subsequence\bin\Debug\net5.0\376. Wiggle Subsequence.dll
+C:\Users\Z\source\repos\Git\LeetCode\376. Wiggle Subsequence\bin\Debug\net5.0\376. Wiggle Subsequence.pdb
+C:\Users\Z\source\repos\Git\LeetCode\376. Wiggle Subsequence\obj\Debug\net5.0\376. Wiggle Subsequence.dll
+C:\Users\Z\source\repos\Git\LeetCode\376. Wiggle Subsequence\obj\Debug\net5.0\refint\376. Wiggle Subsequence.dll
+C:\Users\Z\source\repos\Git\LeetCode\376. Wiggle Subsequence\obj\Debug\net5.0\376. Wiggle Subsequence.pdb
+C:\Users\Z\source\repos\Git\LeetCode\376. Wiggle Subsequence\obj\Debug\net5.0\376. Wiggle Subsequence.genruntimeconfig.cache
+C:\Users\Z\source\repos\Git\LeetCode\376. Wiggle Subsequence\obj\Debug\net5.0\ref\376. Wiggle Subsequence.dll
