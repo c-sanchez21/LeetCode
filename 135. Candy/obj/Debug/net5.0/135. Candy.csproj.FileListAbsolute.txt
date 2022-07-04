@@ -1,0 +1,16 @@
+C:\Users\Z\source\repos\Git\LeetCode\135. Candy\bin\Debug\net5.0\135. Candy.exe
+C:\Users\Z\source\repos\Git\LeetCode\135. Candy\bin\Debug\net5.0\135. Candy.deps.json
+C:\Users\Z\source\repos\Git\LeetCode\135. Candy\bin\Debug\net5.0\135. Candy.runtimeconfig.json
+C:\Users\Z\source\repos\Git\LeetCode\135. Candy\bin\Debug\net5.0\135. Candy.runtimeconfig.dev.json
+C:\Users\Z\source\repos\Git\LeetCode\135. Candy\bin\Debug\net5.0\135. Candy.dll
+C:\Users\Z\source\repos\Git\LeetCode\135. Candy\bin\Debug\net5.0\135. Candy.pdb
+C:\Users\Z\source\repos\Git\LeetCode\135. Candy\obj\Debug\net5.0\135. Candy.csproj.AssemblyReference.cache
+C:\Users\Z\source\repos\Git\LeetCode\135. Candy\obj\Debug\net5.0\135. Candy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Z\source\repos\Git\LeetCode\135. Candy\obj\Debug\net5.0\135. Candy.AssemblyInfoInputs.cache
+C:\Users\Z\source\repos\Git\LeetCode\135. Candy\obj\Debug\net5.0\135. Candy.AssemblyInfo.cs
+C:\Users\Z\source\repos\Git\LeetCode\135. Candy\obj\Debug\net5.0\135. Candy.csproj.CoreCompileInputs.cache
+C:\Users\Z\source\repos\Git\LeetCode\135. Candy\obj\Debug\net5.0\135. Candy.dll
+C:\Users\Z\source\repos\Git\LeetCode\135. Candy\obj\Debug\net5.0\refint\135. Candy.dll
+C:\Users\Z\source\repos\Git\LeetCode\135. Candy\obj\Debug\net5.0\135. Candy.pdb
+C:\Users\Z\source\repos\Git\LeetCode\135. Candy\obj\Debug\net5.0\135. Candy.genruntimeconfig.cache
+C:\Users\Z\source\repos\Git\LeetCode\135. Candy\obj\Debug\net5.0\ref\135. Candy.dll
