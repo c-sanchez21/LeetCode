@@ -3,6 +3,7 @@ using System.Collections.Generic;
 
 namespace Verifying_an_Alien_Dictionary
 {
+    //https://leetcode.com/problems/verifying-an-alien-dictionary/description/
     class Program
     {
         static void Main(string[] args)
@@ -34,8 +35,9 @@ namespace Verifying_an_Alien_Dictionary
 
                     //Get the lesser length of the two strings
                     int lesser = A.Length < B.Length ? A.Length : B.Length;
-                    int ordA, ordB;
+
                     //Compare the two strings
+                    int ordA, ordB;
                     int idx; 
                     for (idx = 0; idx < lesser; idx++)
                     {
