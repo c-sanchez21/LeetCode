@@ -1,0 +1,16 @@
+C:\Users\Z\source\repos\6. Zigzag Conversion\bin\Debug\net5.0\6. Zigzag Conversion.exe
+C:\Users\Z\source\repos\6. Zigzag Conversion\bin\Debug\net5.0\6. Zigzag Conversion.deps.json
+C:\Users\Z\source\repos\6. Zigzag Conversion\bin\Debug\net5.0\6. Zigzag Conversion.runtimeconfig.json
+C:\Users\Z\source\repos\6. Zigzag Conversion\bin\Debug\net5.0\6. Zigzag Conversion.runtimeconfig.dev.json
+C:\Users\Z\source\repos\6. Zigzag Conversion\bin\Debug\net5.0\6. Zigzag Conversion.dll
+C:\Users\Z\source\repos\6. Zigzag Conversion\bin\Debug\net5.0\6. Zigzag Conversion.pdb
+C:\Users\Z\source\repos\6. Zigzag Conversion\obj\Debug\net5.0\6. Zigzag Conversion.csproj.AssemblyReference.cache
+C:\Users\Z\source\repos\6. Zigzag Conversion\obj\Debug\net5.0\6. Zigzag Conversion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Z\source\repos\6. Zigzag Conversion\obj\Debug\net5.0\6. Zigzag Conversion.AssemblyInfoInputs.cache
+C:\Users\Z\source\repos\6. Zigzag Conversion\obj\Debug\net5.0\6. Zigzag Conversion.AssemblyInfo.cs
+C:\Users\Z\source\repos\6. Zigzag Conversion\obj\Debug\net5.0\6. Zigzag Conversion.csproj.CoreCompileInputs.cache
+C:\Users\Z\source\repos\6. Zigzag Conversion\obj\Debug\net5.0\6. Zigzag Conversion.dll
+C:\Users\Z\source\repos\6. Zigzag Conversion\obj\Debug\net5.0\refint\6. Zigzag Conversion.dll
+C:\Users\Z\source\repos\6. Zigzag Conversion\obj\Debug\net5.0\6. Zigzag Conversion.pdb
+C:\Users\Z\source\repos\6. Zigzag Conversion\obj\Debug\net5.0\6. Zigzag Conversion.genruntimeconfig.cache
+C:\Users\Z\source\repos\6. Zigzag Conversion\obj\Debug\net5.0\ref\6. Zigzag Conversion.dll
