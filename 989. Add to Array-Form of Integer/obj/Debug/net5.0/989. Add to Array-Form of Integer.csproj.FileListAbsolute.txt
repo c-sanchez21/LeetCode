@@ -1,0 +1,16 @@
+C:\Users\Z\source\repos\Git\LeetCode\989. Add to Array-Form of Integer\bin\Debug\net5.0\989. Add to Array-Form of Integer.exe
+C:\Users\Z\source\repos\Git\LeetCode\989. Add to Array-Form of Integer\bin\Debug\net5.0\989. Add to Array-Form of Integer.deps.json
+C:\Users\Z\source\repos\Git\LeetCode\989. Add to Array-Form of Integer\bin\Debug\net5.0\989. Add to Array-Form of Integer.runtimeconfig.json
+C:\Users\Z\source\repos\Git\LeetCode\989. Add to Array-Form of Integer\bin\Debug\net5.0\989. Add to Array-Form of Integer.runtimeconfig.dev.json
+C:\Users\Z\source\repos\Git\LeetCode\989. Add to Array-Form of Integer\bin\Debug\net5.0\989. Add to Array-Form of Integer.dll
+C:\Users\Z\source\repos\Git\LeetCode\989. Add to Array-Form of Integer\bin\Debug\net5.0\989. Add to Array-Form of Integer.pdb
+C:\Users\Z\source\repos\Git\LeetCode\989. Add to Array-Form of Integer\obj\Debug\net5.0\989. Add to Array-Form of Integer.csproj.AssemblyReference.cache
+C:\Users\Z\source\repos\Git\LeetCode\989. Add to Array-Form of Integer\obj\Debug\net5.0\989. Add to Array-Form of Integer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Z\source\repos\Git\LeetCode\989. Add to Array-Form of Integer\obj\Debug\net5.0\989. Add to Array-Form of Integer.AssemblyInfoInputs.cache
+C:\Users\Z\source\repos\Git\LeetCode\989. Add to Array-Form of Integer\obj\Debug\net5.0\989. Add to Array-Form of Integer.AssemblyInfo.cs
+C:\Users\Z\source\repos\Git\LeetCode\989. Add to Array-Form of Integer\obj\Debug\net5.0\989. Add to Array-Form of Integer.csproj.CoreCompileInputs.cache
+C:\Users\Z\source\repos\Git\LeetCode\989. Add to Array-Form of Integer\obj\Debug\net5.0\989. Add to Array-Form of Integer.dll
+C:\Users\Z\source\repos\Git\LeetCode\989. Add to Array-Form of Integer\obj\Debug\net5.0\refint\989. Add to Array-Form of Integer.dll
+C:\Users\Z\source\repos\Git\LeetCode\989. Add to Array-Form of Integer\obj\Debug\net5.0\989. Add to Array-Form of Integer.pdb
+C:\Users\Z\source\repos\Git\LeetCode\989. Add to Array-Form of Integer\obj\Debug\net5.0\989. Add to Array-Form of Integer.genruntimeconfig.cache
+C:\Users\Z\source\repos\Git\LeetCode\989. Add to Array-Form of Integer\obj\Debug\net5.0\ref\989. Add to Array-Form of Integer.dll

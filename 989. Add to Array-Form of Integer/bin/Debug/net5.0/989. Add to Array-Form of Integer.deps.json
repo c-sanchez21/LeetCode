@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "989. Add to Array-Form of Integer/1.0.0": {
+        "runtime": {
+          "989. Add to Array-Form of Integer.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "989. Add to Array-Form of Integer/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
