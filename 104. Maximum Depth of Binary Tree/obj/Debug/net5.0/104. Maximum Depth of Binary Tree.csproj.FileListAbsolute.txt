@@ -1,0 +1,16 @@
+C:\Users\Z\source\repos\Git\LeetCode\104. Maximum Depth of Binary Tree\obj\Debug\net5.0\104. Maximum Depth of Binary Tree.csproj.AssemblyReference.cache
+C:\Users\Z\source\repos\Git\LeetCode\104. Maximum Depth of Binary Tree\obj\Debug\net5.0\104. Maximum Depth of Binary Tree.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Z\source\repos\Git\LeetCode\104. Maximum Depth of Binary Tree\obj\Debug\net5.0\104. Maximum Depth of Binary Tree.AssemblyInfoInputs.cache
+C:\Users\Z\source\repos\Git\LeetCode\104. Maximum Depth of Binary Tree\obj\Debug\net5.0\104. Maximum Depth of Binary Tree.AssemblyInfo.cs
+C:\Users\Z\source\repos\Git\LeetCode\104. Maximum Depth of Binary Tree\obj\Debug\net5.0\104. Maximum Depth of Binary Tree.csproj.CoreCompileInputs.cache
+C:\Users\Z\source\repos\Git\LeetCode\104. Maximum Depth of Binary Tree\bin\Debug\net5.0\104. Maximum Depth of Binary Tree.exe
+C:\Users\Z\source\repos\Git\LeetCode\104. Maximum Depth of Binary Tree\bin\Debug\net5.0\104. Maximum Depth of Binary Tree.deps.json
+C:\Users\Z\source\repos\Git\LeetCode\104. Maximum Depth of Binary Tree\bin\Debug\net5.0\104. Maximum Depth of Binary Tree.runtimeconfig.json
+C:\Users\Z\source\repos\Git\LeetCode\104. Maximum Depth of Binary Tree\bin\Debug\net5.0\104. Maximum Depth of Binary Tree.runtimeconfig.dev.json
+C:\Users\Z\source\repos\Git\LeetCode\104. Maximum Depth of Binary Tree\bin\Debug\net5.0\104. Maximum Depth of Binary Tree.dll
+C:\Users\Z\source\repos\Git\LeetCode\104. Maximum Depth of Binary Tree\bin\Debug\net5.0\104. Maximum Depth of Binary Tree.pdb
+C:\Users\Z\source\repos\Git\LeetCode\104. Maximum Depth of Binary Tree\obj\Debug\net5.0\104. Maximum Depth of Binary Tree.dll
+C:\Users\Z\source\repos\Git\LeetCode\104. Maximum Depth of Binary Tree\obj\Debug\net5.0\refint\104. Maximum Depth of Binary Tree.dll
+C:\Users\Z\source\repos\Git\LeetCode\104. Maximum Depth of Binary Tree\obj\Debug\net5.0\104. Maximum Depth of Binary Tree.pdb
+C:\Users\Z\source\repos\Git\LeetCode\104. Maximum Depth of Binary Tree\obj\Debug\net5.0\104. Maximum Depth of Binary Tree.genruntimeconfig.cache
+C:\Users\Z\source\repos\Git\LeetCode\104. Maximum Depth of Binary Tree\obj\Debug\net5.0\ref\104. Maximum Depth of Binary Tree.dll
