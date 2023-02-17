@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "783. Minimum Distance Between BST Nodes/1.0.0": {
+        "runtime": {
+          "783. Minimum Distance Between BST Nodes.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "783. Minimum Distance Between BST Nodes/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
