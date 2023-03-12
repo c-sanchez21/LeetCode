@@ -11,3 +11,4 @@ C:\Users\Z\source\repos\Git\LeetCode\23. Merge k Sorted Lists\obj\Debug\netcorea
 C:\Users\Z\source\repos\Git\LeetCode\23. Merge k Sorted Lists\obj\Debug\netcoreapp3.1\23. Merge k Sorted Lists.dll
 C:\Users\Z\source\repos\Git\LeetCode\23. Merge k Sorted Lists\obj\Debug\netcoreapp3.1\23. Merge k Sorted Lists.pdb
 C:\Users\Z\source\repos\Git\LeetCode\23. Merge k Sorted Lists\obj\Debug\netcoreapp3.1\23. Merge k Sorted Lists.genruntimeconfig.cache
+C:\Users\Z\source\repos\Git\LeetCode\23. Merge k Sorted Lists\obj\Debug\netcoreapp3.1\23. Merge k Sorted Lists.GeneratedMSBuildEditorConfig.editorconfig

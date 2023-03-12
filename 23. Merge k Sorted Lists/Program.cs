@@ -59,7 +59,7 @@ namespace _23._Merge_k_Sorted_Lists
             {
                 n = node;
                 while (n != null)
-                {
+                {//Each uqnique value is put into a linked list
                     if (!sortedLists.ContainsKey(n.val))
                         sortedLists.Add(n.val, new List<ListNode>());
                     sortedLists[n.val].Add(n);
@@ -68,6 +68,7 @@ namespace _23._Merge_k_Sorted_Lists
             }
 
             //Iterate thru each Key Value Pair in the Sorted Dictionary
+            //And join the linnked lists together. 
             ListNode root = null;
             foreach (KeyValuePair<int, List<ListNode>> kvp in sortedLists)
             {
