@@ -1,0 +1,15 @@
+C:\Users\Z\source\repos\Git\LeetCode\2348. Number of Zero-Filled Subarrays\bin\Debug\net7.0\2348. Number of Zero-Filled Subarrays.exe
+C:\Users\Z\source\repos\Git\LeetCode\2348. Number of Zero-Filled Subarrays\bin\Debug\net7.0\2348. Number of Zero-Filled Subarrays.deps.json
+C:\Users\Z\source\repos\Git\LeetCode\2348. Number of Zero-Filled Subarrays\bin\Debug\net7.0\2348. Number of Zero-Filled Subarrays.runtimeconfig.json
+C:\Users\Z\source\repos\Git\LeetCode\2348. Number of Zero-Filled Subarrays\bin\Debug\net7.0\2348. Number of Zero-Filled Subarrays.dll
+C:\Users\Z\source\repos\Git\LeetCode\2348. Number of Zero-Filled Subarrays\bin\Debug\net7.0\2348. Number of Zero-Filled Subarrays.pdb
+C:\Users\Z\source\repos\Git\LeetCode\2348. Number of Zero-Filled Subarrays\obj\Debug\net7.0\2348. Number of Zero-Filled Subarrays.csproj.AssemblyReference.cache
+C:\Users\Z\source\repos\Git\LeetCode\2348. Number of Zero-Filled Subarrays\obj\Debug\net7.0\2348. Number of Zero-Filled Subarrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Z\source\repos\Git\LeetCode\2348. Number of Zero-Filled Subarrays\obj\Debug\net7.0\2348. Number of Zero-Filled Subarrays.AssemblyInfoInputs.cache
+C:\Users\Z\source\repos\Git\LeetCode\2348. Number of Zero-Filled Subarrays\obj\Debug\net7.0\2348. Number of Zero-Filled Subarrays.AssemblyInfo.cs
+C:\Users\Z\source\repos\Git\LeetCode\2348. Number of Zero-Filled Subarrays\obj\Debug\net7.0\2348. Number of Zero-Filled Subarrays.csproj.CoreCompileInputs.cache
+C:\Users\Z\source\repos\Git\LeetCode\2348. Number of Zero-Filled Subarrays\obj\Debug\net7.0\2348. Number of Zero-Filled Subarrays.dll
+C:\Users\Z\source\repos\Git\LeetCode\2348. Number of Zero-Filled Subarrays\obj\Debug\net7.0\refint\2348. Number of Zero-Filled Subarrays.dll
+C:\Users\Z\source\repos\Git\LeetCode\2348. Number of Zero-Filled Subarrays\obj\Debug\net7.0\2348. Number of Zero-Filled Subarrays.pdb
+C:\Users\Z\source\repos\Git\LeetCode\2348. Number of Zero-Filled Subarrays\obj\Debug\net7.0\2348. Number of Zero-Filled Subarrays.genruntimeconfig.cache
+C:\Users\Z\source\repos\Git\LeetCode\2348. Number of Zero-Filled Subarrays\obj\Debug\net7.0\ref\2348. Number of Zero-Filled Subarrays.dll
