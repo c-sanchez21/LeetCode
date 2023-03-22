@@ -1,0 +1,15 @@
+C:\Users\Z\source\repos\Git\LeetCode\2492. Minimum Score of a Path Between Two Cities\bin\Debug\net7.0\2492. Minimum Score of a Path Between Two Cities.exe
+C:\Users\Z\source\repos\Git\LeetCode\2492. Minimum Score of a Path Between Two Cities\bin\Debug\net7.0\2492. Minimum Score of a Path Between Two Cities.deps.json
+C:\Users\Z\source\repos\Git\LeetCode\2492. Minimum Score of a Path Between Two Cities\bin\Debug\net7.0\2492. Minimum Score of a Path Between Two Cities.runtimeconfig.json
+C:\Users\Z\source\repos\Git\LeetCode\2492. Minimum Score of a Path Between Two Cities\bin\Debug\net7.0\2492. Minimum Score of a Path Between Two Cities.dll
+C:\Users\Z\source\repos\Git\LeetCode\2492. Minimum Score of a Path Between Two Cities\bin\Debug\net7.0\2492. Minimum Score of a Path Between Two Cities.pdb
+C:\Users\Z\source\repos\Git\LeetCode\2492. Minimum Score of a Path Between Two Cities\obj\Debug\net7.0\2492. Minimum Score of a Path Between Two Cities.csproj.AssemblyReference.cache
+C:\Users\Z\source\repos\Git\LeetCode\2492. Minimum Score of a Path Between Two Cities\obj\Debug\net7.0\2492. Minimum Score of a Path Between Two Cities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Z\source\repos\Git\LeetCode\2492. Minimum Score of a Path Between Two Cities\obj\Debug\net7.0\2492. Minimum Score of a Path Between Two Cities.AssemblyInfoInputs.cache
+C:\Users\Z\source\repos\Git\LeetCode\2492. Minimum Score of a Path Between Two Cities\obj\Debug\net7.0\2492. Minimum Score of a Path Between Two Cities.AssemblyInfo.cs
+C:\Users\Z\source\repos\Git\LeetCode\2492. Minimum Score of a Path Between Two Cities\obj\Debug\net7.0\2492. Minimum Score of a Path Between Two Cities.csproj.CoreCompileInputs.cache
+C:\Users\Z\source\repos\Git\LeetCode\2492. Minimum Score of a Path Between Two Cities\obj\Debug\net7.0\2492. Minimum Score of a Path Between Two Cities.dll
+C:\Users\Z\source\repos\Git\LeetCode\2492. Minimum Score of a Path Between Two Cities\obj\Debug\net7.0\refint\2492. Minimum Score of a Path Between Two Cities.dll
+C:\Users\Z\source\repos\Git\LeetCode\2492. Minimum Score of a Path Between Two Cities\obj\Debug\net7.0\2492. Minimum Score of a Path Between Two Cities.pdb
+C:\Users\Z\source\repos\Git\LeetCode\2492. Minimum Score of a Path Between Two Cities\obj\Debug\net7.0\2492. Minimum Score of a Path Between Two Cities.genruntimeconfig.cache
+C:\Users\Z\source\repos\Git\LeetCode\2492. Minimum Score of a Path Between Two Cities\obj\Debug\net7.0\ref\2492. Minimum Score of a Path Between Two Cities.dll

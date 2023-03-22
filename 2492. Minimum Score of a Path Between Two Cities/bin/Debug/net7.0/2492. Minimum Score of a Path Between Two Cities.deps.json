@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "2492. Minimum Score of a Path Between Two Cities/1.0.0": {
+        "runtime": {
+          "2492. Minimum Score of a Path Between Two Cities.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "2492. Minimum Score of a Path Between Two Cities/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
