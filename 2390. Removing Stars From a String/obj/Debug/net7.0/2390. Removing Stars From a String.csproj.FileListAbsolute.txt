@@ -1,0 +1,15 @@
+C:\Users\Z\source\repos\Git\LeetCode\2390. Removing Stars From a String\bin\Debug\net7.0\2390. Removing Stars From a String.exe
+C:\Users\Z\source\repos\Git\LeetCode\2390. Removing Stars From a String\bin\Debug\net7.0\2390. Removing Stars From a String.deps.json
+C:\Users\Z\source\repos\Git\LeetCode\2390. Removing Stars From a String\bin\Debug\net7.0\2390. Removing Stars From a String.runtimeconfig.json
+C:\Users\Z\source\repos\Git\LeetCode\2390. Removing Stars From a String\bin\Debug\net7.0\2390. Removing Stars From a String.dll
+C:\Users\Z\source\repos\Git\LeetCode\2390. Removing Stars From a String\bin\Debug\net7.0\2390. Removing Stars From a String.pdb
+C:\Users\Z\source\repos\Git\LeetCode\2390. Removing Stars From a String\obj\Debug\net7.0\2390. Removing Stars From a String.csproj.AssemblyReference.cache
+C:\Users\Z\source\repos\Git\LeetCode\2390. Removing Stars From a String\obj\Debug\net7.0\2390. Removing Stars From a String.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Z\source\repos\Git\LeetCode\2390. Removing Stars From a String\obj\Debug\net7.0\2390. Removing Stars From a String.AssemblyInfoInputs.cache
+C:\Users\Z\source\repos\Git\LeetCode\2390. Removing Stars From a String\obj\Debug\net7.0\2390. Removing Stars From a String.AssemblyInfo.cs
+C:\Users\Z\source\repos\Git\LeetCode\2390. Removing Stars From a String\obj\Debug\net7.0\2390. Removing Stars From a String.csproj.CoreCompileInputs.cache
+C:\Users\Z\source\repos\Git\LeetCode\2390. Removing Stars From a String\obj\Debug\net7.0\2390. Removing Stars From a String.dll
+C:\Users\Z\source\repos\Git\LeetCode\2390. Removing Stars From a String\obj\Debug\net7.0\refint\2390. Removing Stars From a String.dll
+C:\Users\Z\source\repos\Git\LeetCode\2390. Removing Stars From a String\obj\Debug\net7.0\2390. Removing Stars From a String.pdb
+C:\Users\Z\source\repos\Git\LeetCode\2390. Removing Stars From a String\obj\Debug\net7.0\2390. Removing Stars From a String.genruntimeconfig.cache
+C:\Users\Z\source\repos\Git\LeetCode\2390. Removing Stars From a String\obj\Debug\net7.0\ref\2390. Removing Stars From a String.dll

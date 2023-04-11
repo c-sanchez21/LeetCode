@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "2390. Removing Stars From a String/1.0.0": {
+        "runtime": {
+          "2390. Removing Stars From a String.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "2390. Removing Stars From a String/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

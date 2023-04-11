@@ -1,6 +1,5 @@
-﻿// See https://aka.ms/new-console-template for more information
+﻿//https://leetcode.com/problems/minimum-score-of-a-path-between-two-cities/
 Console.WriteLine(MinScore(4, new int[][] { new int[] { 1, 2, 2 }, new int[] { 1, 3, 4 }, new int[] { 3, 4, 7 } }));
-
 int MinScore(int n, int[][] roads)
 {
     //Create Adjency List

@@ -1,0 +1,15 @@
+C:\Users\Z\source\repos\Git\LeetCode\983. Minimum Cost For Tickets\bin\Debug\net7.0\983. Minimum Cost For Tickets.exe
+C:\Users\Z\source\repos\Git\LeetCode\983. Minimum Cost For Tickets\bin\Debug\net7.0\983. Minimum Cost For Tickets.deps.json
+C:\Users\Z\source\repos\Git\LeetCode\983. Minimum Cost For Tickets\bin\Debug\net7.0\983. Minimum Cost For Tickets.runtimeconfig.json
+C:\Users\Z\source\repos\Git\LeetCode\983. Minimum Cost For Tickets\bin\Debug\net7.0\983. Minimum Cost For Tickets.dll
+C:\Users\Z\source\repos\Git\LeetCode\983. Minimum Cost For Tickets\bin\Debug\net7.0\983. Minimum Cost For Tickets.pdb
+C:\Users\Z\source\repos\Git\LeetCode\983. Minimum Cost For Tickets\obj\Debug\net7.0\983. Minimum Cost For Tickets.csproj.AssemblyReference.cache
+C:\Users\Z\source\repos\Git\LeetCode\983. Minimum Cost For Tickets\obj\Debug\net7.0\983. Minimum Cost For Tickets.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Z\source\repos\Git\LeetCode\983. Minimum Cost For Tickets\obj\Debug\net7.0\983. Minimum Cost For Tickets.AssemblyInfoInputs.cache
+C:\Users\Z\source\repos\Git\LeetCode\983. Minimum Cost For Tickets\obj\Debug\net7.0\983. Minimum Cost For Tickets.AssemblyInfo.cs
+C:\Users\Z\source\repos\Git\LeetCode\983. Minimum Cost For Tickets\obj\Debug\net7.0\983. Minimum Cost For Tickets.csproj.CoreCompileInputs.cache
+C:\Users\Z\source\repos\Git\LeetCode\983. Minimum Cost For Tickets\obj\Debug\net7.0\983. Minimum Cost For Tickets.dll
+C:\Users\Z\source\repos\Git\LeetCode\983. Minimum Cost For Tickets\obj\Debug\net7.0\refint\983. Minimum Cost For Tickets.dll
+C:\Users\Z\source\repos\Git\LeetCode\983. Minimum Cost For Tickets\obj\Debug\net7.0\983. Minimum Cost For Tickets.pdb
+C:\Users\Z\source\repos\Git\LeetCode\983. Minimum Cost For Tickets\obj\Debug\net7.0\983. Minimum Cost For Tickets.genruntimeconfig.cache
+C:\Users\Z\source\repos\Git\LeetCode\983. Minimum Cost For Tickets\obj\Debug\net7.0\ref\983. Minimum Cost For Tickets.dll
