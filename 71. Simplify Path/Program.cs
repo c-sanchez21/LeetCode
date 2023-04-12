@@ -18,7 +18,7 @@ namespace _71._Simplify_Path
 
         public static string SimplifyPath(string path)
         {
-            //Check for null
+            //Check for null or empty strings
             if (String.IsNullOrEmpty(path)) return path;
 
             //Split the path using the delimiter '/'
@@ -38,7 +38,7 @@ namespace _71._Simplify_Path
                 if (d.CompareTo("..") == 0)
                 {
                     if (stack1.Count > 0)
-                        stack1.Pop();
+                        stack1.Pop();//Pop last directory
                 }
                 //'.' is current directory so skip
                 else if (d.CompareTo(".") == 0)
@@ -49,9 +49,9 @@ namespace _71._Simplify_Path
             while(stack1.Count > 0)
             {
                 d = stack1.Pop();
-                stack2.Push(d);
+                stack2.Push(d);//Push directory
             }
-            //Pop directoriers and use StringBuilder to  build Path
+            //Pop directoriers and use StringBuilder to build Path
             while(stack2.Count > 0)
             {
                 d = stack2.Pop();
