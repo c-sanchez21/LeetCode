@@ -19,18 +19,19 @@ namespace _946._Validate_Stack_Sequences
 
         public static bool ValidateStackSequences(int[] pushed, int[] popped)
         {
-            int idx = 0;
-            Stack<int> stack = new Stack<int>();
+            int idx = 0; //Index
+            Stack<int> stack = new Stack<int>(); //Stack to hold pushed
             for(int i =0; i < pushed.Length; i++)
             {
                 stack.Push(pushed[i]);
+                //If stack contains the next number to be popped then pop
                 while(stack.Count > 0 && popped[idx] == stack.Peek())
                 {
                     stack.Pop();
                     idx++;
                 }
             }
-            return stack.Count == 0;
+            return stack.Count == 0; //Returns true if possible. 
         }
     }
 }
