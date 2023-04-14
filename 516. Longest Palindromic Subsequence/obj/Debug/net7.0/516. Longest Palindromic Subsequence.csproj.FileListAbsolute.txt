@@ -1,0 +1,15 @@
+C:\Users\Z\source\repos\Git\LeetCode\516. Longest Palindromic Subsequence\bin\Debug\net7.0\516. Longest Palindromic Subsequence.exe
+C:\Users\Z\source\repos\Git\LeetCode\516. Longest Palindromic Subsequence\bin\Debug\net7.0\516. Longest Palindromic Subsequence.deps.json
+C:\Users\Z\source\repos\Git\LeetCode\516. Longest Palindromic Subsequence\bin\Debug\net7.0\516. Longest Palindromic Subsequence.runtimeconfig.json
+C:\Users\Z\source\repos\Git\LeetCode\516. Longest Palindromic Subsequence\bin\Debug\net7.0\516. Longest Palindromic Subsequence.dll
+C:\Users\Z\source\repos\Git\LeetCode\516. Longest Palindromic Subsequence\bin\Debug\net7.0\516. Longest Palindromic Subsequence.pdb
+C:\Users\Z\source\repos\Git\LeetCode\516. Longest Palindromic Subsequence\obj\Debug\net7.0\516. Longest Palindromic Subsequence.csproj.AssemblyReference.cache
+C:\Users\Z\source\repos\Git\LeetCode\516. Longest Palindromic Subsequence\obj\Debug\net7.0\516. Longest Palindromic Subsequence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Z\source\repos\Git\LeetCode\516. Longest Palindromic Subsequence\obj\Debug\net7.0\516. Longest Palindromic Subsequence.AssemblyInfoInputs.cache
+C:\Users\Z\source\repos\Git\LeetCode\516. Longest Palindromic Subsequence\obj\Debug\net7.0\516. Longest Palindromic Subsequence.AssemblyInfo.cs
+C:\Users\Z\source\repos\Git\LeetCode\516. Longest Palindromic Subsequence\obj\Debug\net7.0\516. Longest Palindromic Subsequence.csproj.CoreCompileInputs.cache
+C:\Users\Z\source\repos\Git\LeetCode\516. Longest Palindromic Subsequence\obj\Debug\net7.0\516. Longest Palindromic Subsequence.dll
+C:\Users\Z\source\repos\Git\LeetCode\516. Longest Palindromic Subsequence\obj\Debug\net7.0\refint\516. Longest Palindromic Subsequence.dll
+C:\Users\Z\source\repos\Git\LeetCode\516. Longest Palindromic Subsequence\obj\Debug\net7.0\516. Longest Palindromic Subsequence.pdb
+C:\Users\Z\source\repos\Git\LeetCode\516. Longest Palindromic Subsequence\obj\Debug\net7.0\516. Longest Palindromic Subsequence.genruntimeconfig.cache
+C:\Users\Z\source\repos\Git\LeetCode\516. Longest Palindromic Subsequence\obj\Debug\net7.0\ref\516. Longest Palindromic Subsequence.dll
