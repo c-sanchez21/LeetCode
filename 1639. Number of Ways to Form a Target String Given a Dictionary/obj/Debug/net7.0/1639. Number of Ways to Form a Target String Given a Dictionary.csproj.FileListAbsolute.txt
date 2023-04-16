@@ -1,0 +1,15 @@
+C:\Users\Z\source\repos\Git\LeetCode\1639. Number of Ways to Form a Target String Given a Dictionary\bin\Debug\net7.0\1639. Number of Ways to Form a Target String Given a Dictionary.exe
+C:\Users\Z\source\repos\Git\LeetCode\1639. Number of Ways to Form a Target String Given a Dictionary\bin\Debug\net7.0\1639. Number of Ways to Form a Target String Given a Dictionary.deps.json
+C:\Users\Z\source\repos\Git\LeetCode\1639. Number of Ways to Form a Target String Given a Dictionary\bin\Debug\net7.0\1639. Number of Ways to Form a Target String Given a Dictionary.runtimeconfig.json
+C:\Users\Z\source\repos\Git\LeetCode\1639. Number of Ways to Form a Target String Given a Dictionary\bin\Debug\net7.0\1639. Number of Ways to Form a Target String Given a Dictionary.dll
+C:\Users\Z\source\repos\Git\LeetCode\1639. Number of Ways to Form a Target String Given a Dictionary\bin\Debug\net7.0\1639. Number of Ways to Form a Target String Given a Dictionary.pdb
+C:\Users\Z\source\repos\Git\LeetCode\1639. Number of Ways to Form a Target String Given a Dictionary\obj\Debug\net7.0\1639. Number of Ways to Form a Target String Given a Dictionary.csproj.AssemblyReference.cache
+C:\Users\Z\source\repos\Git\LeetCode\1639. Number of Ways to Form a Target String Given a Dictionary\obj\Debug\net7.0\1639. Number of Ways to Form a Target String Given a Dictionary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Z\source\repos\Git\LeetCode\1639. Number of Ways to Form a Target String Given a Dictionary\obj\Debug\net7.0\1639. Number of Ways to Form a Target String Given a Dictionary.AssemblyInfoInputs.cache
+C:\Users\Z\source\repos\Git\LeetCode\1639. Number of Ways to Form a Target String Given a Dictionary\obj\Debug\net7.0\1639. Number of Ways to Form a Target String Given a Dictionary.AssemblyInfo.cs
+C:\Users\Z\source\repos\Git\LeetCode\1639. Number of Ways to Form a Target String Given a Dictionary\obj\Debug\net7.0\1639. Number of Ways to Form a Target String Given a Dictionary.csproj.CoreCompileInputs.cache
+C:\Users\Z\source\repos\Git\LeetCode\1639. Number of Ways to Form a Target String Given a Dictionary\obj\Debug\net7.0\1639. Number of Ways to Form a Target String Given a Dictionary.dll
+C:\Users\Z\source\repos\Git\LeetCode\1639. Number of Ways to Form a Target String Given a Dictionary\obj\Debug\net7.0\refint\1639. Number of Ways to Form a Target String Given a Dictionary.dll
+C:\Users\Z\source\repos\Git\LeetCode\1639. Number of Ways to Form a Target String Given a Dictionary\obj\Debug\net7.0\1639. Number of Ways to Form a Target String Given a Dictionary.pdb
+C:\Users\Z\source\repos\Git\LeetCode\1639. Number of Ways to Form a Target String Given a Dictionary\obj\Debug\net7.0\1639. Number of Ways to Form a Target String Given a Dictionary.genruntimeconfig.cache
+C:\Users\Z\source\repos\Git\LeetCode\1639. Number of Ways to Form a Target String Given a Dictionary\obj\Debug\net7.0\ref\1639. Number of Ways to Form a Target String Given a Dictionary.dll
