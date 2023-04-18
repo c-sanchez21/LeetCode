@@ -20,6 +20,22 @@ namespace _1431._Kids_With_the_Greatest_Number_of_Candies
             for (int i = 0; i < candies.Length; i++)
                 max = Math.Max(max, candies[i]);
 
+            max -= extraCandies;//Saves calculations
+
+            //Find if giving the ith kid the extra candies will make them the one with most candies
+            List<bool> results = new List<bool>();
+            for (int i = 0; i < candies.Length; i++)
+                results.Add((candies[i] >= max) ? true : false);
+            return results;
+        }
+
+        public static IList<bool> KidsWithCandies2(int[] candies, int extraCandies)
+        {
+            //Find the max value - the kid with greatest amount of candies
+            int max = 0;
+            for (int i = 0; i < candies.Length; i++)
+                max = Math.Max(max, candies[i]);
+
             //Find if giving the ith kid the extra candies will make them the one with most candies
             List<bool> results = new List<bool>();
             for (int i = 0; i < candies.Length; i++)
@@ -27,5 +43,7 @@ namespace _1431._Kids_With_the_Greatest_Number_of_Candies
 
             return results;
         }
+
+
     }
 }
