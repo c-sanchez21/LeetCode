@@ -1,0 +1,15 @@
+C:\Users\Z\source\repos\Git\LeetCode\1372. Longest ZigZag Path in a Binary Tree\obj\Debug\net7.0\1372. Longest ZigZag Path in a Binary Tree.csproj.AssemblyReference.cache
+C:\Users\Z\source\repos\Git\LeetCode\1372. Longest ZigZag Path in a Binary Tree\obj\Debug\net7.0\1372. Longest ZigZag Path in a Binary Tree.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Z\source\repos\Git\LeetCode\1372. Longest ZigZag Path in a Binary Tree\obj\Debug\net7.0\1372. Longest ZigZag Path in a Binary Tree.AssemblyInfoInputs.cache
+C:\Users\Z\source\repos\Git\LeetCode\1372. Longest ZigZag Path in a Binary Tree\obj\Debug\net7.0\1372. Longest ZigZag Path in a Binary Tree.AssemblyInfo.cs
+C:\Users\Z\source\repos\Git\LeetCode\1372. Longest ZigZag Path in a Binary Tree\obj\Debug\net7.0\1372. Longest ZigZag Path in a Binary Tree.csproj.CoreCompileInputs.cache
+C:\Users\Z\source\repos\Git\LeetCode\1372. Longest ZigZag Path in a Binary Tree\bin\Debug\net7.0\1372. Longest ZigZag Path in a Binary Tree.exe
+C:\Users\Z\source\repos\Git\LeetCode\1372. Longest ZigZag Path in a Binary Tree\bin\Debug\net7.0\1372. Longest ZigZag Path in a Binary Tree.deps.json
+C:\Users\Z\source\repos\Git\LeetCode\1372. Longest ZigZag Path in a Binary Tree\bin\Debug\net7.0\1372. Longest ZigZag Path in a Binary Tree.runtimeconfig.json
+C:\Users\Z\source\repos\Git\LeetCode\1372. Longest ZigZag Path in a Binary Tree\bin\Debug\net7.0\1372. Longest ZigZag Path in a Binary Tree.dll
+C:\Users\Z\source\repos\Git\LeetCode\1372. Longest ZigZag Path in a Binary Tree\bin\Debug\net7.0\1372. Longest ZigZag Path in a Binary Tree.pdb
+C:\Users\Z\source\repos\Git\LeetCode\1372. Longest ZigZag Path in a Binary Tree\obj\Debug\net7.0\1372. Longest ZigZag Path in a Binary Tree.dll
+C:\Users\Z\source\repos\Git\LeetCode\1372. Longest ZigZag Path in a Binary Tree\obj\Debug\net7.0\refint\1372. Longest ZigZag Path in a Binary Tree.dll
+C:\Users\Z\source\repos\Git\LeetCode\1372. Longest ZigZag Path in a Binary Tree\obj\Debug\net7.0\1372. Longest ZigZag Path in a Binary Tree.pdb
+C:\Users\Z\source\repos\Git\LeetCode\1372. Longest ZigZag Path in a Binary Tree\obj\Debug\net7.0\1372. Longest ZigZag Path in a Binary Tree.genruntimeconfig.cache
+C:\Users\Z\source\repos\Git\LeetCode\1372. Longest ZigZag Path in a Binary Tree\obj\Debug\net7.0\ref\1372. Longest ZigZag Path in a Binary Tree.dll
