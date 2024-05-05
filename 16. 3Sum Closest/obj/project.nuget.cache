@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "fgwoJD44oxErBS9+08PadHyD4TFZsIHHsOukePYvGRfr8r/6yUHcjtx64E7MpvXfuzgpWtV9Yx5HNr3nHOahpw==",
+  "dgSpecHash": "Y1DezAMioKIfpZLQhUgkUfmMIu0Yxwk3S20EJ4MQZWPWFfCIU1tIXLSmAyRi1d4HLWaIYga15hPEMxFT5W/SbQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Z\\source\\repos\\Git\\LeetCode\\16. 3Sum Closest\\16. 3Sum Closest.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "X:\\Z\\05CMP\\PRG\\GIT\\Leetcode\\16. 3Sum Closest\\16. 3Sum Closest.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Z\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\Z\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\Z\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\Z\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512"
+  ],
   "logs": []
 }

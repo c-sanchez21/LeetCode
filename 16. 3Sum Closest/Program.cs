@@ -12,6 +12,13 @@ namespace _16._3Sum_Closest
             Console.WriteLine(ThreeSumClosest(new int[] { 0, 0, 0 }, 1));
         }
 
+        /// <summary>
+        /// Given an integer array nums of length n and an integer target,
+        /// find three integers in nums such that the sum is closest to target.
+        /// </summary>
+        /// <param name="nums"></param>
+        /// <param name="target"></param>
+        /// <returns>Returns the sum of the three integers</returns>
         public static int ThreeSumClosest(int[] nums, int target)
         {
             //Invalid input
