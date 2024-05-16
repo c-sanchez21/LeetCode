@@ -1,0 +1,45 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "X:\\Z\\05CMP\\PRG\\GIT\\Leetcode\\2492. Minimum Score of a Path Between Two Cities\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3F5CEF35-52E0-4FB2-BABF-B20E3120B9FE}|2492. Minimum Score of a Path Between Two Cities.csproj|x:\\z\\05cmp\\prg\\git\\leetcode\\2492. minimum score of a path between two cities\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F5CEF35-52E0-4FB2-BABF-B20E3120B9FE}|2492. Minimum Score of a Path Between Two Cities.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 192,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{269a02dc-6af8-11d3-bdc4-00c04f688e50}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "X:\\Z\\05CMP\\PRG\\GIT\\Leetcode\\2492. Minimum Score of a Path Between Two Cities\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "X:\\Z\\05CMP\\PRG\\GIT\\Leetcode\\2492. Minimum Score of a Path Between Two Cities\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T15:47:40.455Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

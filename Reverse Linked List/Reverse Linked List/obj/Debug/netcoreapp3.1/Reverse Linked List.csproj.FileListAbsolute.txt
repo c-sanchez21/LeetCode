@@ -1,0 +1,15 @@
+X:\Z\05CMP\PRG\GIT\Leetcode\Reverse Linked List\Reverse Linked List\bin\Debug\netcoreapp3.1\Reverse Linked List.exe
+X:\Z\05CMP\PRG\GIT\Leetcode\Reverse Linked List\Reverse Linked List\bin\Debug\netcoreapp3.1\Reverse Linked List.deps.json
+X:\Z\05CMP\PRG\GIT\Leetcode\Reverse Linked List\Reverse Linked List\bin\Debug\netcoreapp3.1\Reverse Linked List.runtimeconfig.json
+X:\Z\05CMP\PRG\GIT\Leetcode\Reverse Linked List\Reverse Linked List\bin\Debug\netcoreapp3.1\Reverse Linked List.runtimeconfig.dev.json
+X:\Z\05CMP\PRG\GIT\Leetcode\Reverse Linked List\Reverse Linked List\bin\Debug\netcoreapp3.1\Reverse Linked List.dll
+X:\Z\05CMP\PRG\GIT\Leetcode\Reverse Linked List\Reverse Linked List\bin\Debug\netcoreapp3.1\Reverse Linked List.pdb
+X:\Z\05CMP\PRG\GIT\Leetcode\Reverse Linked List\Reverse Linked List\obj\Debug\netcoreapp3.1\Reverse Linked List.csproj.AssemblyReference.cache
+X:\Z\05CMP\PRG\GIT\Leetcode\Reverse Linked List\Reverse Linked List\obj\Debug\netcoreapp3.1\Reverse Linked List.GeneratedMSBuildEditorConfig.editorconfig
+X:\Z\05CMP\PRG\GIT\Leetcode\Reverse Linked List\Reverse Linked List\obj\Debug\netcoreapp3.1\Reverse Linked List.AssemblyInfoInputs.cache
+X:\Z\05CMP\PRG\GIT\Leetcode\Reverse Linked List\Reverse Linked List\obj\Debug\netcoreapp3.1\Reverse Linked List.AssemblyInfo.cs
+X:\Z\05CMP\PRG\GIT\Leetcode\Reverse Linked List\Reverse Linked List\obj\Debug\netcoreapp3.1\Reverse Linked List.csproj.CoreCompileInputs.cache
+X:\Z\05CMP\PRG\GIT\Leetcode\Reverse Linked List\Reverse Linked List\obj\Debug\netcoreapp3.1\Reverse Linked List.sourcelink.json
+X:\Z\05CMP\PRG\GIT\Leetcode\Reverse Linked List\Reverse Linked List\obj\Debug\netcoreapp3.1\Reverse Linked List.dll
+X:\Z\05CMP\PRG\GIT\Leetcode\Reverse Linked List\Reverse Linked List\obj\Debug\netcoreapp3.1\Reverse Linked List.pdb
+X:\Z\05CMP\PRG\GIT\Leetcode\Reverse Linked List\Reverse Linked List\obj\Debug\netcoreapp3.1\Reverse Linked List.genruntimeconfig.cache

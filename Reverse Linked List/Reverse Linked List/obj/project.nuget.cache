@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "1FxmN5p3dNM+ecySCDkp/zFRCCba156YYYdBqImYQoBHLCIliDzloMZB36ZSKHN/ejFTvqvRnV+N+bjMprLipw==",
+  "dgSpecHash": "X+WiKhBTT7mxKtfS88bqBlpgDIzaFrvxPMXJIkZ5w6mh/0beK4ddpG3pO+tp86m6N8syid+I9PL6xINHEeIXbQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Z\\source\\repos\\Git\\LeetCode\\Reverse Linked List\\Reverse Linked List\\Reverse Linked List.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "X:\\Z\\05CMP\\PRG\\GIT\\Leetcode\\Reverse Linked List\\Reverse Linked List\\Reverse Linked List.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Z\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\Z\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\Z\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\Z\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512"
+  ],
   "logs": []
 }

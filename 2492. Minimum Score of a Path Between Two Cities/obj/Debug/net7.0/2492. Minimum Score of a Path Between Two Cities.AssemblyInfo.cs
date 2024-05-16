@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("2492. Minimum Score of a Path Between Two Cities")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4a8d216ddc42f558171d9a45f67e23896508655a")]
 [assembly: System.Reflection.AssemblyProductAttribute("2492. Minimum Score of a Path Between Two Cities")]
 [assembly: System.Reflection.AssemblyTitleAttribute("2492. Minimum Score of a Path Between Two Cities")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

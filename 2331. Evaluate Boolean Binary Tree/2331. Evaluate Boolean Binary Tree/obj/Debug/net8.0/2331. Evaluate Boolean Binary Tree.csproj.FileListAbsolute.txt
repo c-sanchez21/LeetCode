@@ -1,0 +1,15 @@
+X:\Z\05CMP\PRG\GIT\Leetcode\2331. Evaluate Boolean Binary Tree\2331. Evaluate Boolean Binary Tree\bin\Debug\net8.0\2331. Evaluate Boolean Binary Tree.exe
+X:\Z\05CMP\PRG\GIT\Leetcode\2331. Evaluate Boolean Binary Tree\2331. Evaluate Boolean Binary Tree\bin\Debug\net8.0\2331. Evaluate Boolean Binary Tree.deps.json
+X:\Z\05CMP\PRG\GIT\Leetcode\2331. Evaluate Boolean Binary Tree\2331. Evaluate Boolean Binary Tree\bin\Debug\net8.0\2331. Evaluate Boolean Binary Tree.runtimeconfig.json
+X:\Z\05CMP\PRG\GIT\Leetcode\2331. Evaluate Boolean Binary Tree\2331. Evaluate Boolean Binary Tree\bin\Debug\net8.0\2331. Evaluate Boolean Binary Tree.dll
+X:\Z\05CMP\PRG\GIT\Leetcode\2331. Evaluate Boolean Binary Tree\2331. Evaluate Boolean Binary Tree\bin\Debug\net8.0\2331. Evaluate Boolean Binary Tree.pdb
+X:\Z\05CMP\PRG\GIT\Leetcode\2331. Evaluate Boolean Binary Tree\2331. Evaluate Boolean Binary Tree\obj\Debug\net8.0\2331. Evaluate Boolean Binary Tree.GeneratedMSBuildEditorConfig.editorconfig
+X:\Z\05CMP\PRG\GIT\Leetcode\2331. Evaluate Boolean Binary Tree\2331. Evaluate Boolean Binary Tree\obj\Debug\net8.0\2331. Evaluate Boolean Binary Tree.AssemblyInfoInputs.cache
+X:\Z\05CMP\PRG\GIT\Leetcode\2331. Evaluate Boolean Binary Tree\2331. Evaluate Boolean Binary Tree\obj\Debug\net8.0\2331. Evaluate Boolean Binary Tree.AssemblyInfo.cs
+X:\Z\05CMP\PRG\GIT\Leetcode\2331. Evaluate Boolean Binary Tree\2331. Evaluate Boolean Binary Tree\obj\Debug\net8.0\2331. Evaluate Boolean Binary Tree.csproj.CoreCompileInputs.cache
+X:\Z\05CMP\PRG\GIT\Leetcode\2331. Evaluate Boolean Binary Tree\2331. Evaluate Boolean Binary Tree\obj\Debug\net8.0\2331. Evaluate Boolean Binary Tree.sourcelink.json
+X:\Z\05CMP\PRG\GIT\Leetcode\2331. Evaluate Boolean Binary Tree\2331. Evaluate Boolean Binary Tree\obj\Debug\net8.0\2331. Evaluate Boolean Binary Tree.dll
+X:\Z\05CMP\PRG\GIT\Leetcode\2331. Evaluate Boolean Binary Tree\2331. Evaluate Boolean Binary Tree\obj\Debug\net8.0\refint\2331. Evaluate Boolean Binary Tree.dll
+X:\Z\05CMP\PRG\GIT\Leetcode\2331. Evaluate Boolean Binary Tree\2331. Evaluate Boolean Binary Tree\obj\Debug\net8.0\2331. Evaluate Boolean Binary Tree.pdb
+X:\Z\05CMP\PRG\GIT\Leetcode\2331. Evaluate Boolean Binary Tree\2331. Evaluate Boolean Binary Tree\obj\Debug\net8.0\2331. Evaluate Boolean Binary Tree.genruntimeconfig.cache
+X:\Z\05CMP\PRG\GIT\Leetcode\2331. Evaluate Boolean Binary Tree\2331. Evaluate Boolean Binary Tree\obj\Debug\net8.0\ref\2331. Evaluate Boolean Binary Tree.dll

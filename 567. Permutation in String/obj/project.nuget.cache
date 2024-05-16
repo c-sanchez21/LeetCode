@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "ijYJDR8cnLJOEYACkECS0h9BPoqGmmmskSdboBIWMxx2Lp/8HOKOVgI3+W7+qbscXF6TIDyMzrqOPkzeuqDtFQ==",
+  "dgSpecHash": "s8YHCWwjEgy5Gwt4xsrovcSTTYzZe+zMdT0l/DaryjxETwo7oNDe+0CFoEecu8xqwl+xcvXVlR2LkIwfamtTlw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Z\\source\\repos\\Git\\LeetCode\\567. Permutation in String\\567. Permutation in String.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "X:\\Z\\05CMP\\PRG\\GIT\\Leetcode\\567. Permutation in String\\567. Permutation in String.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Z\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\Z\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\Z\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\Z\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512"
+  ],
   "logs": []
 }
